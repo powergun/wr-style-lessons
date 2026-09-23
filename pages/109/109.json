@@ -1,0 +1,981 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\109.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "98",
+            "block_bbox": [
+                93,
+                70,
+                118,
+                87
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    70.0
+                ],
+                [
+                    117.0,
+                    70.0
+                ],
+                [
+                    117.0,
+                    86.0
+                ],
+                [
+                    93.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "Style: Lessons in Clarity and Grace",
+            "block_bbox": [
+                164,
+                70,
+                420,
+                91
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    164.0,
+                    70.0
+                ],
+                [
+                    419.0,
+                    70.0
+                ],
+                [
+                    419.0,
+                    90.0
+                ],
+                [
+                    164.0,
+                    90.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Problem-Condition: Follow that with a statement noting something that needs changed. Introduce it with a but, however, on the other hand, etc. Imagine a So what? after it:",
+            "block_bbox": [
+                91,
+                117,
+                784,
+                192
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    117.0
+                ],
+                [
+                    784.0,
+                    117.0
+                ],
+                [
+                    784.0,
+                    192.0
+                ],
+                [
+                    91.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "But many people, out of ignorance or enthusiasm, try to recycle things that aren't actually recyclable: plastic bags, paper coffee cups, Styrofoam, greasy pizza boxes, and more. condition So what?",
+            "block_bbox": [
+                126,
+                203,
+                784,
+                277
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    126.0,
+                    203.0
+                ],
+                [
+                    784.0,
+                    203.0
+                ],
+                [
+                    784.0,
+                    277.0
+                ],
+                [
+                    126.0,
+                    277.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Problem-Cost: Answer that imagined So what? with a statement of the consequences of that condition, its costs to your readers that they do not want to pay:",
+            "block_bbox": [
+                91,
+                286,
+                784,
+                337
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    286.0
+                ],
+                [
+                    784.0,
+                    286.0
+                ],
+                [
+                    784.0,
+                    337.0
+                ],
+                [
+                    91.0,
+                    337.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Such “aspirational recycling” has major environmental consequences. By making waste collected for recycling more difficult or even impossible to process, it can result in whole loads of waste intended for recycling going to the landfill instead. costs",
+            "block_bbox": [
+                125,
+                346,
+                784,
+                419
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    125.0,
+                    346.0
+                ],
+                [
+                    784.0,
+                    346.0
+                ],
+                [
+                    784.0,
+                    419.0
+                ],
+                [
+                    125.0,
+                    419.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Solution, Main Point, or Claim: Conclude with a statement proposing an action that will eliminate or at least ameliorate the costs:",
+            "block_bbox": [
+                92,
+                429,
+                782,
+                479
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    429.0
+                ],
+                [
+                    782.0,
+                    429.0
+                ],
+                [
+                    782.0,
+                    479.0
+                ],
+                [
+                    92.0,
+                    479.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "We can address the causes of aspirational recycling through better education and better labeling of recycling bins. Thanks to the educational campaigns of the past, people know they should recycle. Now, we need to build on this success by creating more knowledgeable and discriminating recyclers. To this end, recycling bins should be labeled not just with the familiar triangle of arrows that is recycling's universal symbol, but with specific information about what kinds of things can—and can't—be recycled. Pilot programs in several municipalities show that this simple step can reduce aspirational recycling significantly. solution",
+            "block_bbox": [
+                121,
+                489,
+                784,
+                690
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    121.0,
+                    489.0
+                ],
+                [
+                    784.0,
+                    489.0
+                ],
+                [
+                    784.0,
+                    690.0
+                ],
+                [
+                    121.0,
+                    690.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Conceptual Problems",
+            "block_bbox": [
+                92,
+                715,
+                327,
+                743
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    715.0
+                ],
+                [
+                    327.0,
+                    715.0
+                ],
+                [
+                    327.0,
+                    743.0
+                ],
+                [
+                    92.0,
+                    743.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "For conceptual problems, the key is to state a small question worth answering because it helps to answer a larger, more significant one. Here is a plan for introducing conceptual problems:",
+            "block_bbox": [
+                90,
+                751,
+                784,
+                829
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    751.0
+                ],
+                [
+                    784.0,
+                    751.0
+                ],
+                [
+                    784.0,
+                    829.0
+                ],
+                [
+                    90.0,
+                    829.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Shared Context: Open the introduction with a brief statement of what you will go on to qualify or even contradict:",
+            "block_bbox": [
+                92,
+                840,
+                782,
+                892
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    840.0
+                ],
+                [
+                    782.0,
+                    840.0
+                ],
+                [
+                    782.0,
+                    892.0
+                ],
+                [
+                    92.0,
+                    892.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Recycling—the practice of separating from ordinary trash specific materials that can be made into new products—is today an expected and even habitual behavior. In fact, that habit is so engrained that many people, out of ignorance or enthusiasm, try to recycle things that aren't actually recyclable: plastic bags, paper coffee cups, Styrofoam, greasy pizza boxes, and more. shared context",
+            "block_bbox": [
+                125,
+                901,
+                784,
+                1026
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    125.0,
+                    901.0
+                ],
+                [
+                    784.0,
+                    901.0
+                ],
+                [
+                    784.0,
+                    1026.0
+                ],
+                [
+                    125.0,
+                    1026.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Problem-Condition: Follow that with a statement of the condition of the problem. Introduce it with a but, however, on the other hand, etc. State something that is not known or well understood. Imagine a So what? after it:",
+            "block_bbox": [
+                92,
+                1033,
+                784,
+                1111
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    1033.0
+                ],
+                [
+                    784.0,
+                    1033.0
+                ],
+                [
+                    784.0,
+                    1111.0
+                ],
+                [
+                    92.0,
+                    1111.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "But we don't know whether getting people to think about recycling, rather than just doing it out of habit, will lead them to stop recycling at all. condition/first, small question So what?",
+            "block_bbox": [
+                122,
+                1119,
+                782,
+                1169
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13,
+            "global_block_id": 13,
+            "global_group_id": 13,
+            "block_polygon_points": [
+                [
+                    122.0,
+                    1119.0
+                ],
+                [
+                    782.0,
+                    1119.0
+                ],
+                [
+                    782.0,
+                    1169.0
+                ],
+                [
+                    122.0,
+                    1169.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Problem-Cost: Answer that imagined So what? by noting a larger and more important issue that might be addressed if we know the answer to the first question:",
+            "block_bbox": [
+                91,
+                1178,
+                783,
+                1230
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14,
+            "global_block_id": 14,
+            "global_group_id": 14,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    1178.0
+                ],
+                [
+                    783.0,
+                    1178.0
+                ],
+                [
+                    783.0,
+                    1230.0
+                ],
+                [
+                    91.0,
+                    1230.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.758529782295227,
+                    "coordinate": [
+                        93,
+                        70,
+                        118,
+                        87
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            70.0
+                        ],
+                        [
+                            117.0,
+                            70.0
+                        ],
+                        [
+                            117.0,
+                            86.0
+                        ],
+                        [
+                            93.0,
+                            86.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.87080979347229,
+                    "coordinate": [
+                        164,
+                        70,
+                        420,
+                        91
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            164.0,
+                            70.0
+                        ],
+                        [
+                            419.0,
+                            70.0
+                        ],
+                        [
+                            419.0,
+                            90.0
+                        ],
+                        [
+                            164.0,
+                            90.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.940819263458252,
+                    "coordinate": [
+                        91,
+                        117,
+                        784,
+                        192
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            117.0
+                        ],
+                        [
+                            784.0,
+                            117.0
+                        ],
+                        [
+                            784.0,
+                            192.0
+                        ],
+                        [
+                            91.0,
+                            192.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9369246959686279,
+                    "coordinate": [
+                        126,
+                        203,
+                        784,
+                        277
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            126.0,
+                            203.0
+                        ],
+                        [
+                            784.0,
+                            203.0
+                        ],
+                        [
+                            784.0,
+                            277.0
+                        ],
+                        [
+                            126.0,
+                            277.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9156532287597656,
+                    "coordinate": [
+                        91,
+                        286,
+                        784,
+                        337
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            286.0
+                        ],
+                        [
+                            784.0,
+                            286.0
+                        ],
+                        [
+                            784.0,
+                            337.0
+                        ],
+                        [
+                            91.0,
+                            337.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9369974136352539,
+                    "coordinate": [
+                        125,
+                        346,
+                        784,
+                        419
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            125.0,
+                            346.0
+                        ],
+                        [
+                            784.0,
+                            346.0
+                        ],
+                        [
+                            784.0,
+                            419.0
+                        ],
+                        [
+                            125.0,
+                            419.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8886852860450745,
+                    "coordinate": [
+                        92,
+                        429,
+                        782,
+                        479
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            429.0
+                        ],
+                        [
+                            782.0,
+                            429.0
+                        ],
+                        [
+                            782.0,
+                            479.0
+                        ],
+                        [
+                            92.0,
+                            479.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9540619850158691,
+                    "coordinate": [
+                        121,
+                        489,
+                        784,
+                        690
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            121.0,
+                            489.0
+                        ],
+                        [
+                            784.0,
+                            489.0
+                        ],
+                        [
+                            784.0,
+                            690.0
+                        ],
+                        [
+                            121.0,
+                            690.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8689517378807068,
+                    "coordinate": [
+                        92,
+                        715,
+                        327,
+                        743
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            715.0
+                        ],
+                        [
+                            327.0,
+                            715.0
+                        ],
+                        [
+                            327.0,
+                            743.0
+                        ],
+                        [
+                            92.0,
+                            743.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9372022747993469,
+                    "coordinate": [
+                        90,
+                        751,
+                        784,
+                        829
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            751.0
+                        ],
+                        [
+                            784.0,
+                            751.0
+                        ],
+                        [
+                            784.0,
+                            829.0
+                        ],
+                        [
+                            90.0,
+                            829.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9173650741577148,
+                    "coordinate": [
+                        92,
+                        840,
+                        782,
+                        892
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            840.0
+                        ],
+                        [
+                            782.0,
+                            840.0
+                        ],
+                        [
+                            782.0,
+                            892.0
+                        ],
+                        [
+                            92.0,
+                            892.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9534188508987427,
+                    "coordinate": [
+                        125,
+                        901,
+                        784,
+                        1026
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            125.0,
+                            901.0
+                        ],
+                        [
+                            784.0,
+                            901.0
+                        ],
+                        [
+                            784.0,
+                            1026.0
+                        ],
+                        [
+                            125.0,
+                            1026.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.941806435585022,
+                    "coordinate": [
+                        92,
+                        1033,
+                        784,
+                        1111
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            1033.0
+                        ],
+                        [
+                            784.0,
+                            1033.0
+                        ],
+                        [
+                            784.0,
+                            1111.0
+                        ],
+                        [
+                            92.0,
+                            1111.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8782309889793396,
+                    "coordinate": [
+                        122,
+                        1119,
+                        782,
+                        1169
+                    ],
+                    "order": 13,
+                    "polygon_points": [
+                        [
+                            122.0,
+                            1119.0
+                        ],
+                        [
+                            782.0,
+                            1119.0
+                        ],
+                        [
+                            782.0,
+                            1169.0
+                        ],
+                        [
+                            122.0,
+                            1169.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9163669347763062,
+                    "coordinate": [
+                        91,
+                        1178,
+                        783,
+                        1230
+                    ],
+                    "order": 14,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            1178.0
+                        ],
+                        [
+                            783.0,
+                            1178.0
+                        ],
+                        [
+                            783.0,
+                            1230.0
+                        ],
+                        [
+                            91.0,
+                            1230.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

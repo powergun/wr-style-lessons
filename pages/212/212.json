@@ -1,0 +1,1044 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\212.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Appendix II Using Sources",
+            "block_bbox": [
+                496,
+                70,
+                697,
+                91
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    496.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    90.0
+                ],
+                [
+                    496.0,
+                    90.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "201",
+            "block_bbox": [
+                735,
+                69,
+                768,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    735.0,
+                    69.0
+                ],
+                [
+                    767.0,
+                    69.0
+                ],
+                [
+                    767.0,
+                    87.0
+                ],
+                [
+                    735.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- Chicago style, from The Chicago Manual of Style, common in the humanities and some social sciences",
+            "block_bbox": [
+                103,
+                116,
+                771,
+                166
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    103.0,
+                    116.0
+                ],
+                [
+                    771.0,
+                    116.0
+                ],
+                [
+                    771.0,
+                    166.0
+                ],
+                [
+                    103.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- MLA style, from the Modern Language Association, common in literary studies and in high school and college writing classes",
+            "block_bbox": [
+                103,
+                175,
+                737,
+                225
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    103.0,
+                    175.0
+                ],
+                [
+                    737.0,
+                    175.0
+                ],
+                [
+                    737.0,
+                    225.0
+                ],
+                [
+                    103.0,
+                    225.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "APA style, from the American Psychological Association, common in the social sciences",
+            "block_bbox": [
+                102,
+                233,
+                771,
+                282
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    102.0,
+                    233.0
+                ],
+                [
+                    771.0,
+                    233.0
+                ],
+                [
+                    771.0,
+                    282.0
+                ],
+                [
+                    102.0,
+                    282.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "You can find guides to citation in most bookstores or online.",
+            "block_bbox": [
+                79,
+                297,
+                590,
+                321
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    297.0
+                ],
+                [
+                    590.0,
+                    297.0
+                ],
+                [
+                    590.0,
+                    321.0
+                ],
+                [
+                    79.0,
+                    321.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Using Sources Effectively",
+            "block_bbox": [
+                80,
+                345,
+                401,
+                377
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    345.0
+                ],
+                [
+                    401.0,
+                    345.0
+                ],
+                [
+                    401.0,
+                    377.0
+                ],
+                [
+                    80.0,
+                    377.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Again, to use sources ethically, you must quote accurately, paraphrase appropriately, and follow the citation conventions of your field. But to use sources effectively, you must do more than follow sound rules and practices. As with other aspects of style, you have choices in how you incorporate sources into your writing, and you can shape the responses of your readers through the choices you make. To use a source in your writing, you have to make at least three decisions:",
+            "block_bbox": [
+                78,
+                390,
+                773,
+                569
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    390.0
+                ],
+                [
+                    773.0,
+                    390.0
+                ],
+                [
+                    773.0,
+                    569.0
+                ],
+                [
+                    78.0,
+                    569.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- How much of the source to include: Will you use just a word or phrase, a sentence, a passage, or a summary of the whole?",
+            "block_bbox": [
+                103,
+                582,
+                771,
+                633
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    103.0,
+                    582.0
+                ],
+                [
+                    771.0,
+                    582.0
+                ],
+                [
+                    771.0,
+                    633.0
+                ],
+                [
+                    103.0,
+                    633.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- How to include it: Will you use the source's exact words or put its ideas into your own words?",
+            "block_bbox": [
+                103,
+                641,
+                740,
+                691
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    103.0,
+                    641.0
+                ],
+                [
+                    740.0,
+                    641.0
+                ],
+                [
+                    740.0,
+                    691.0
+                ],
+                [
+                    103.0,
+                    691.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- How to attribute it: Will you explicitly attribute the words or ideas you use to the source's author?",
+            "block_bbox": [
+                102,
+                699,
+                771,
+                748
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    102.0,
+                    699.0
+                ],
+                [
+                    771.0,
+                    699.0
+                ],
+                [
+                    771.0,
+                    748.0
+                ],
+                [
+                    102.0,
+                    748.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Before we discuss these choices, a word of caution: like citation conventions, ways of using sources vary from field to field. In some fields, writers quote extensively; in others, they quote rarely, relying instead on summary and paraphrase. The best way to learn the typical practices of your field is to read writers who are recognized authorities in it.",
+            "block_bbox": [
+                78,
+                763,
+                772,
+                890
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    763.0
+                ],
+                [
+                    772.0,
+                    763.0
+                ],
+                [
+                    772.0,
+                    890.0
+                ],
+                [
+                    78.0,
+                    890.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Here, in general terms, are your options. (Note: these illustrations use parenthetical citations; in your own writing, you should follow the conventions of your field.)",
+            "block_bbox": [
+                78,
+                893,
+                771,
+                944
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    893.0
+                ],
+                [
+                    771.0,
+                    893.0
+                ],
+                [
+                    771.0,
+                    944.0
+                ],
+                [
+                    78.0,
+                    944.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "How Much of a Source to Include?",
+            "block_bbox": [
+                80,
+                962,
+                454,
+                987
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13,
+            "global_block_id": 13,
+            "global_group_id": 13,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    962.0
+                ],
+                [
+                    454.0,
+                    962.0
+                ],
+                [
+                    454.0,
+                    987.0
+                ],
+                [
+                    80.0,
+                    987.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "To use a source in your writing, you must first decide how much of it to include through quotation, paraphrase, or summary: just a few words, a single sentence, a longer passage, a summary of the whole? There are no hard-and-fast rules that answer this question, but here are three principles to help you choose:",
+            "block_bbox": [
+                79,
+                997,
+                772,
+                1100
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14,
+            "global_block_id": 14,
+            "global_group_id": 14,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    997.0
+                ],
+                [
+                    772.0,
+                    997.0
+                ],
+                [
+                    772.0,
+                    1100.0
+                ],
+                [
+                    79.0,
+                    1100.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. Include just as much of a source as you need. If you don't quote or paraphrase enough, your writing can seem thin and disconnected from the larger conversation to which it contributes; if you quote or paraphrase too much, your writing can seem plodding or insecure. It's hard to know what's \"just right\": that sense of proportion comes gradually, through instruction, reading,",
+            "block_bbox": [
+                80,
+                1113,
+                772,
+                1244
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15,
+            "global_block_id": 15,
+            "global_group_id": 15,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    1113.0
+                ],
+                [
+                    772.0,
+                    1113.0
+                ],
+                [
+                    772.0,
+                    1244.0
+                ],
+                [
+                    80.0,
+                    1244.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.884243369102478,
+                    "coordinate": [
+                        496,
+                        70,
+                        697,
+                        91
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            496.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            90.0
+                        ],
+                        [
+                            496.0,
+                            90.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.8222411870956421,
+                    "coordinate": [
+                        735,
+                        69,
+                        768,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            735.0,
+                            69.0
+                        ],
+                        [
+                            767.0,
+                            69.0
+                        ],
+                        [
+                            767.0,
+                            87.0
+                        ],
+                        [
+                            735.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9262606501579285,
+                    "coordinate": [
+                        103,
+                        116,
+                        771,
+                        166
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            103.0,
+                            116.0
+                        ],
+                        [
+                            771.0,
+                            116.0
+                        ],
+                        [
+                            771.0,
+                            166.0
+                        ],
+                        [
+                            103.0,
+                            166.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9244596362113953,
+                    "coordinate": [
+                        103,
+                        175,
+                        737,
+                        225
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            103.0,
+                            175.0
+                        ],
+                        [
+                            737.0,
+                            175.0
+                        ],
+                        [
+                            737.0,
+                            225.0
+                        ],
+                        [
+                            103.0,
+                            225.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.913364589214325,
+                    "coordinate": [
+                        102,
+                        233,
+                        771,
+                        282
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            102.0,
+                            233.0
+                        ],
+                        [
+                            771.0,
+                            233.0
+                        ],
+                        [
+                            771.0,
+                            282.0
+                        ],
+                        [
+                            102.0,
+                            282.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8622422814369202,
+                    "coordinate": [
+                        79,
+                        297,
+                        590,
+                        321
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            297.0
+                        ],
+                        [
+                            590.0,
+                            297.0
+                        ],
+                        [
+                            590.0,
+                            321.0
+                        ],
+                        [
+                            79.0,
+                            321.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8959388136863708,
+                    "coordinate": [
+                        80,
+                        345,
+                        401,
+                        377
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            345.0
+                        ],
+                        [
+                            401.0,
+                            345.0
+                        ],
+                        [
+                            401.0,
+                            377.0
+                        ],
+                        [
+                            80.0,
+                            377.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9627548456192017,
+                    "coordinate": [
+                        78,
+                        390,
+                        773,
+                        569
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            390.0
+                        ],
+                        [
+                            773.0,
+                            390.0
+                        ],
+                        [
+                            773.0,
+                            569.0
+                        ],
+                        [
+                            78.0,
+                            569.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9253429770469666,
+                    "coordinate": [
+                        103,
+                        582,
+                        771,
+                        633
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            103.0,
+                            582.0
+                        ],
+                        [
+                            771.0,
+                            582.0
+                        ],
+                        [
+                            771.0,
+                            633.0
+                        ],
+                        [
+                            103.0,
+                            633.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9149943590164185,
+                    "coordinate": [
+                        103,
+                        641,
+                        740,
+                        691
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            103.0,
+                            641.0
+                        ],
+                        [
+                            740.0,
+                            641.0
+                        ],
+                        [
+                            740.0,
+                            691.0
+                        ],
+                        [
+                            103.0,
+                            691.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9195516109466553,
+                    "coordinate": [
+                        102,
+                        699,
+                        771,
+                        748
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            102.0,
+                            699.0
+                        ],
+                        [
+                            771.0,
+                            699.0
+                        ],
+                        [
+                            771.0,
+                            748.0
+                        ],
+                        [
+                            102.0,
+                            748.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9634429216384888,
+                    "coordinate": [
+                        78,
+                        763,
+                        772,
+                        890
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            763.0
+                        ],
+                        [
+                            772.0,
+                            763.0
+                        ],
+                        [
+                            772.0,
+                            890.0
+                        ],
+                        [
+                            78.0,
+                            890.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9326972365379333,
+                    "coordinate": [
+                        78,
+                        893,
+                        771,
+                        944
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            893.0
+                        ],
+                        [
+                            771.0,
+                            893.0
+                        ],
+                        [
+                            771.0,
+                            944.0
+                        ],
+                        [
+                            78.0,
+                            944.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8943371772766113,
+                    "coordinate": [
+                        80,
+                        962,
+                        454,
+                        987
+                    ],
+                    "order": 13,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            962.0
+                        ],
+                        [
+                            454.0,
+                            962.0
+                        ],
+                        [
+                            454.0,
+                            987.0
+                        ],
+                        [
+                            80.0,
+                            987.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9597741961479187,
+                    "coordinate": [
+                        79,
+                        997,
+                        772,
+                        1100
+                    ],
+                    "order": 14,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            997.0
+                        ],
+                        [
+                            772.0,
+                            997.0
+                        ],
+                        [
+                            772.0,
+                            1100.0
+                        ],
+                        [
+                            79.0,
+                            1100.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9638268351554871,
+                    "coordinate": [
+                        80,
+                        1113,
+                        772,
+                        1244
+                    ],
+                    "order": 15,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            1113.0
+                        ],
+                        [
+                            772.0,
+                            1113.0
+                        ],
+                        [
+                            772.0,
+                            1244.0
+                        ],
+                        [
+                            80.0,
+                            1244.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

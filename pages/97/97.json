@@ -1,0 +1,789 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\97.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "doc_title",
+            "block_content": "Lesson 6\nFraming Documents",
+            "block_bbox": [
+                156,
+                183,
+                718,
+                309
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    154.66384887695312,
+                    183.0677947998047
+                ],
+                [
+                    715.6639404296875,
+                    177.06776428222656
+                ],
+                [
+                    717.0001220703125,
+                    302.0
+                ],
+                [
+                    156.00006103515625,
+                    308.00006103515625
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "A problem well-put is half solved.\n—JOHN DEWEY",
+            "block_bbox": [
+                296,
+                370,
+                574,
+                424
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    296.0,
+                    370.0
+                ],
+                [
+                    574.0,
+                    370.0
+                ],
+                [
+                    574.0,
+                    424.0
+                ],
+                [
+                    296.0,
+                    424.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The principles discussed in Part Two apply to sentences and short passages in all kinds of writing. We now turn in Part Three to principles that apply to whole documents and sections of documents. While these principles are relevant to most kinds of expository and argumentative writing, our focus will be on how they apply to the kinds of writing people do as students, as scholars and researchers, and on the job.",
+            "block_bbox": [
+                91,
+                450,
+                784,
+                578
+            ],
+            "block_id": 2,
+            "block_order": 3,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    450.0
+                ],
+                [
+                    784.0,
+                    450.0
+                ],
+                [
+                    784.0,
+                    578.0
+                ],
+                [
+                    91.0,
+                    578.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Of course, the various genres of academic and professional writing—critical essays, research reports, legal briefs, business proposals, even op-eds—differ from one another in many ways. But they also share features in common, features readers rely on to help them follow and make sense of what they read.",
+            "block_bbox": [
+                90,
+                580,
+                784,
+                682
+            ],
+            "block_id": 3,
+            "block_order": 4,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    580.0
+                ],
+                [
+                    784.0,
+                    580.0
+                ],
+                [
+                    784.0,
+                    682.0
+                ],
+                [
+                    90.0,
+                    682.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "This lesson addresses two of the most important of these: introductions and conclusions. Lesson 7 explains things you can do throughout a piece of writing to lead readers to experience it as organized and coherent. In both lessons, we take examples mainly from academic genres, but the advice and principles apply to professional genres as well.",
+            "block_bbox": [
+                89,
+                684,
+                784,
+                813
+            ],
+            "block_id": 4,
+            "block_order": 5,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    89.0,
+                    684.0
+                ],
+                [
+                    784.0,
+                    684.0
+                ],
+                [
+                    784.0,
+                    813.0
+                ],
+                [
+                    89.0,
+                    813.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Framing Introductions to Help Readers",
+            "block_bbox": [
+                92,
+                844,
+                586,
+                875
+            ],
+            "block_id": 5,
+            "block_order": 6,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    844.0
+                ],
+                [
+                    586.0,
+                    844.0
+                ],
+                [
+                    586.0,
+                    875.0
+                ],
+                [
+                    92.0,
+                    875.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Writers working in academic and professional contexts generally want to inform or persuade readers who know less than they do, which means they are vulnerable to thinking their writing is clear when their readers won't. Also, such writers can't assume their readers are already deeply invested in what they have to say. Accordingly, when you write in these contexts, you face a double challenge:",
+            "block_bbox": [
+                90,
+                888,
+                783,
+                1017
+            ],
+            "block_id": 6,
+            "block_order": 7,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    888.0
+                ],
+                [
+                    783.0,
+                    888.0
+                ],
+                [
+                    783.0,
+                    1017.0
+                ],
+                [
+                    90.0,
+                    1017.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- to let readers know what to expect so that they can read more knowledgeably",
+            "block_bbox": [
+                129,
+                1030,
+                782,
+                1080
+            ],
+            "block_id": 7,
+            "block_order": 8,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    129.0,
+                    1030.0
+                ],
+                [
+                    782.0,
+                    1030.0
+                ],
+                [
+                    782.0,
+                    1080.0
+                ],
+                [
+                    129.0,
+                    1080.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "• to motivate readers so that they want to read carefully",
+            "block_bbox": [
+                129,
+                1088,
+                610,
+                1112
+            ],
+            "block_id": 8,
+            "block_order": 9,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    129.0,
+                    1088.0
+                ],
+                [
+                    610.0,
+                    1088.0
+                ],
+                [
+                    610.0,
+                    1112.0
+                ],
+                [
+                    129.0,
+                    1112.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "You do these things best when you write not just about a topic that interests you but about a problem that is important to your readers. If they don't yet care—or even know—about that problem, you have to show them why they should.",
+            "block_bbox": [
+                90,
+                1126,
+                784,
+                1203
+            ],
+            "block_id": 9,
+            "block_order": 10,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    1126.0
+                ],
+                [
+                    784.0,
+                    1126.0
+                ],
+                [
+                    784.0,
+                    1203.0
+                ],
+                [
+                    90.0,
+                    1203.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "86",
+            "block_bbox": [
+                93,
+                1230,
+                118,
+                1248
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    1230.0
+                ],
+                [
+                    117.0,
+                    1230.0
+                ],
+                [
+                    117.0,
+                    1247.0
+                ],
+                [
+                    93.0,
+                    1247.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 6,
+                    "label": "doc_title",
+                    "score": 0.8965290188789368,
+                    "coordinate": [
+                        156,
+                        183,
+                        718,
+                        309
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            154.66384887695312,
+                            183.0677947998047
+                        ],
+                        [
+                            715.6639404296875,
+                            177.06776428222656
+                        ],
+                        [
+                            717.0001220703125,
+                            302.0
+                        ],
+                        [
+                            156.00006103515625,
+                            308.00006103515625
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.5785097479820251,
+                    "coordinate": [
+                        299,
+                        370,
+                        574,
+                        396
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            299.0,
+                            370.0
+                        ],
+                        [
+                            574.0,
+                            370.0
+                        ],
+                        [
+                            574.0,
+                            396.0
+                        ],
+                        [
+                            299.0,
+                            396.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.321634978055954,
+                    "coordinate": [
+                        296,
+                        370,
+                        574,
+                        424
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            296.0,
+                            370.0
+                        ],
+                        [
+                            574.0,
+                            370.0
+                        ],
+                        [
+                            574.0,
+                            424.0
+                        ],
+                        [
+                            296.0,
+                            424.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.5624064803123474,
+                    "coordinate": [
+                        368,
+                        400,
+                        509,
+                        424
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            368.0,
+                            400.0
+                        ],
+                        [
+                            509.0,
+                            400.0
+                        ],
+                        [
+                            509.0,
+                            424.0
+                        ],
+                        [
+                            368.0,
+                            424.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9554948210716248,
+                    "coordinate": [
+                        91,
+                        450,
+                        784,
+                        578
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            450.0
+                        ],
+                        [
+                            784.0,
+                            450.0
+                        ],
+                        [
+                            784.0,
+                            578.0
+                        ],
+                        [
+                            91.0,
+                            578.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9505847096443176,
+                    "coordinate": [
+                        90,
+                        580,
+                        784,
+                        682
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            580.0
+                        ],
+                        [
+                            784.0,
+                            580.0
+                        ],
+                        [
+                            784.0,
+                            682.0
+                        ],
+                        [
+                            90.0,
+                            682.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9513084888458252,
+                    "coordinate": [
+                        89,
+                        684,
+                        784,
+                        813
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            89.0,
+                            684.0
+                        ],
+                        [
+                            784.0,
+                            684.0
+                        ],
+                        [
+                            784.0,
+                            813.0
+                        ],
+                        [
+                            89.0,
+                            813.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.877121090888977,
+                    "coordinate": [
+                        92,
+                        844,
+                        586,
+                        875
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            844.0
+                        ],
+                        [
+                            586.0,
+                            844.0
+                        ],
+                        [
+                            586.0,
+                            875.0
+                        ],
+                        [
+                            92.0,
+                            875.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9591598510742188,
+                    "coordinate": [
+                        90,
+                        888,
+                        783,
+                        1017
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            888.0
+                        ],
+                        [
+                            783.0,
+                            888.0
+                        ],
+                        [
+                            783.0,
+                            1017.0
+                        ],
+                        [
+                            90.0,
+                            1017.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9243791103363037,
+                    "coordinate": [
+                        129,
+                        1030,
+                        782,
+                        1080
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            129.0,
+                            1030.0
+                        ],
+                        [
+                            782.0,
+                            1030.0
+                        ],
+                        [
+                            782.0,
+                            1080.0
+                        ],
+                        [
+                            129.0,
+                            1080.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8612791895866394,
+                    "coordinate": [
+                        129,
+                        1088,
+                        610,
+                        1112
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            129.0,
+                            1088.0
+                        ],
+                        [
+                            610.0,
+                            1088.0
+                        ],
+                        [
+                            610.0,
+                            1112.0
+                        ],
+                        [
+                            129.0,
+                            1112.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9456915259361267,
+                    "coordinate": [
+                        90,
+                        1126,
+                        784,
+                        1203
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            1126.0
+                        ],
+                        [
+                            784.0,
+                            1126.0
+                        ],
+                        [
+                            784.0,
+                            1203.0
+                        ],
+                        [
+                            90.0,
+                            1203.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.753475546836853,
+                    "coordinate": [
+                        93,
+                        1230,
+                        118,
+                        1248
+                    ],
+                    "order": 13,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            1230.0
+                        ],
+                        [
+                            117.0,
+                            1230.0
+                        ],
+                        [
+                            117.0,
+                            1247.0
+                        ],
+                        [
+                            93.0,
+                            1247.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

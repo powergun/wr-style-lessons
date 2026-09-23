@@ -1,0 +1,729 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\112.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Lesson 7 Framing Sections",
+            "block_bbox": [
+                493,
+                70,
+                697,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    493.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    89.0
+                ],
+                [
+                    493.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "101",
+            "block_bbox": [
+                736,
+                69,
+                769,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    736.0,
+                    69.0
+                ],
+                [
+                    768.0,
+                    69.0
+                ],
+                [
+                    768.0,
+                    87.0
+                ],
+                [
+                    736.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Dickinson did not give this poem a title. It was only published after her death, under the title “The Railway Train.” (How far did you get before you figured out what the poem was about?) The addition of that title is a dubious improvement because it short-circuits the experience of reading the poem: we take pleasure in our dawning recognition of the poem’s topic.",
+            "block_bbox": [
+                78,
+                117,
+                773,
+                245
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    117.0
+                ],
+                [
+                    773.0,
+                    117.0
+                ],
+                [
+                    773.0,
+                    245.0
+                ],
+                [
+                    78.0,
+                    245.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "But when we are reading less for pleasure than to understand something we need to know, that kind of initial uncertainty becomes a hurdle. What we look for on the page are signals that help us integrate what we are reading with the knowledge we already have, not in retrospect but as we read. Your readers will understand your writing better and more easily when you build those signals into it deliberately. This lesson explains how to do that.",
+            "block_bbox": [
+                77,
+                248,
+                773,
+                402
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    77.0,
+                    248.0
+                ],
+                [
+                    773.0,
+                    248.0
+                ],
+                [
+                    773.0,
+                    402.0
+                ],
+                [
+                    77.0,
+                    402.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Forecasting Themes to Create Coherence",
+            "block_bbox": [
+                79,
+                435,
+                591,
+                466
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    435.0
+                ],
+                [
+                    591.0,
+                    435.0
+                ],
+                [
+                    591.0,
+                    466.0
+                ],
+                [
+                    79.0,
+                    466.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Like the term clear, the term coherent doesn't refer to anything we find on the page. Coherence is an experience we create for ourselves as we make sense of what we read. In Lesson 4, we looked at those features of sentences that help readers create local coherence in short passages. But readers also need to see the global coherence of longer sections and whole documents. To help them, you can use a by-now-familiar principle: begin each section or subsection of a document with a short, easily grasped segment that states its point and introduces the themes that organize the longer segment that follows, the body. Then in that body, support, develop, or explain that point and those themes.",
+            "block_bbox": [
+                78,
+                479,
+                772,
+                736
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    479.0
+                ],
+                [
+                    772.0,
+                    479.0
+                ],
+                [
+                    772.0,
+                    736.0
+                ],
+                [
+                    78.0,
+                    736.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "To help readers grasp the coherence of a document and its sections, follow these six principles:",
+            "block_bbox": [
+                79,
+                739,
+                771,
+                790
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    739.0
+                ],
+                [
+                    771.0,
+                    739.0
+                ],
+                [
+                    771.0,
+                    790.0
+                ],
+                [
+                    79.0,
+                    790.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "For the document:",
+            "block_bbox": [
+                103,
+                809,
+                269,
+                832
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    103.0,
+                    809.0
+                ],
+                [
+                    269.0,
+                    809.0
+                ],
+                [
+                    269.0,
+                    832.0
+                ],
+                [
+                    103.0,
+                    832.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. Readers must know where the introduction ends and the body begins, as well as where each section ends and the next begins. Identify the start of each new section with a heading that includes the key themes for that section (see 5 below). If your field does not use headings, delete them for the final draft.",
+            "block_bbox": [
+                79,
+                847,
+                772,
+                976
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    79.0001220703125,
+                    847.0
+                ],
+                [
+                    771.0,
+                    847.0
+                ],
+                [
+                    771.0,
+                    969.0
+                ],
+                [
+                    79.0001220703125,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. At the end of the introduction, readers look for the document's main point, claim, or solution, which should state the main themes developed in the rest. If you have good reason to save your main point for the conclusion, end your introduction with a sentence that promises the point to come and states the main themes.",
+            "block_bbox": [
+                79,
+                983,
+                772,
+                1111
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    983.0
+                ],
+                [
+                    772.0,
+                    983.0
+                ],
+                [
+                    772.0,
+                    1111.0
+                ],
+                [
+                    79.0,
+                    1111.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. In the body, readers look for the concepts announced as themes at the end of the introduction, using them to organize their understanding of the whole. Be sure that you repeat those themes regularly.",
+            "block_bbox": [
+                79,
+                1118,
+                773,
+                1196
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    1118.0
+                ],
+                [
+                    773.0,
+                    1118.0
+                ],
+                [
+                    773.0,
+                    1196.0
+                ],
+                [
+                    79.0,
+                    1196.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8685111403465271,
+                    "coordinate": [
+                        493,
+                        70,
+                        697,
+                        90
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            493.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            89.0
+                        ],
+                        [
+                            493.0,
+                            89.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.8074226975440979,
+                    "coordinate": [
+                        736,
+                        69,
+                        769,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            736.0,
+                            69.0
+                        ],
+                        [
+                            768.0,
+                            69.0
+                        ],
+                        [
+                            768.0,
+                            87.0
+                        ],
+                        [
+                            736.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9546603560447693,
+                    "coordinate": [
+                        78,
+                        117,
+                        773,
+                        245
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            117.0
+                        ],
+                        [
+                            773.0,
+                            117.0
+                        ],
+                        [
+                            773.0,
+                            245.0
+                        ],
+                        [
+                            78.0,
+                            245.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9560076594352722,
+                    "coordinate": [
+                        77,
+                        248,
+                        773,
+                        402
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            77.0,
+                            248.0
+                        ],
+                        [
+                            773.0,
+                            248.0
+                        ],
+                        [
+                            773.0,
+                            402.0
+                        ],
+                        [
+                            77.0,
+                            402.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8758043050765991,
+                    "coordinate": [
+                        79,
+                        435,
+                        591,
+                        466
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            435.0
+                        ],
+                        [
+                            591.0,
+                            435.0
+                        ],
+                        [
+                            591.0,
+                            466.0
+                        ],
+                        [
+                            79.0,
+                            466.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9667765498161316,
+                    "coordinate": [
+                        78,
+                        479,
+                        772,
+                        736
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            479.0
+                        ],
+                        [
+                            772.0,
+                            479.0
+                        ],
+                        [
+                            772.0,
+                            736.0
+                        ],
+                        [
+                            78.0,
+                            736.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9175476431846619,
+                    "coordinate": [
+                        79,
+                        739,
+                        771,
+                        790
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            739.0
+                        ],
+                        [
+                            771.0,
+                            739.0
+                        ],
+                        [
+                            771.0,
+                            790.0
+                        ],
+                        [
+                            79.0,
+                            790.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.838431715965271,
+                    "coordinate": [
+                        103,
+                        809,
+                        269,
+                        832
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            103.0,
+                            809.0
+                        ],
+                        [
+                            269.0,
+                            809.0
+                        ],
+                        [
+                            269.0,
+                            832.0
+                        ],
+                        [
+                            103.0,
+                            832.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9559134244918823,
+                    "coordinate": [
+                        79,
+                        847,
+                        772,
+                        976
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            79.0001220703125,
+                            847.0
+                        ],
+                        [
+                            771.0,
+                            847.0
+                        ],
+                        [
+                            771.0,
+                            969.0
+                        ],
+                        [
+                            79.0001220703125,
+                            969.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9616782665252686,
+                    "coordinate": [
+                        79,
+                        983,
+                        772,
+                        1111
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            983.0
+                        ],
+                        [
+                            772.0,
+                            983.0
+                        ],
+                        [
+                            772.0,
+                            1111.0
+                        ],
+                        [
+                            79.0,
+                            1111.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9425395131111145,
+                    "coordinate": [
+                        79,
+                        1118,
+                        773,
+                        1196
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            1118.0
+                        ],
+                        [
+                            773.0,
+                            1118.0
+                        ],
+                        [
+                            773.0,
+                            1196.0
+                        ],
+                        [
+                            79.0,
+                            1196.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

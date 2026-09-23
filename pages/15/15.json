@@ -1,0 +1,603 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\15.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "4",
+            "block_bbox": [
+                93,
+                70,
+                109,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    70.0
+                ],
+                [
+                    108.0,
+                    70.0
+                ],
+                [
+                    108.0,
+                    87.0
+                ],
+                [
+                    93.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "Style: Lessons in Clarity and Grace",
+            "block_bbox": [
+                165,
+                70,
+                420,
+                91
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    165.0,
+                    70.0
+                ],
+                [
+                    419.0,
+                    70.0
+                ],
+                [
+                    419.0,
+                    90.0
+                ],
+                [
+                    165.0,
+                    90.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Finally, remember that the book's principles have less to do with drafting than with revision. The main theme of this book is that a clear style comes from making sound choices in the service of your readers. But if you try to think about all those choices as you draft, you may never finish. Worse, you could find yourself paralyzed and unable to write at all. There's a term for that condition: writer's block. Most experienced writers like to get something down on paper or up on the screen as fast as they can, in whatever form they can. Then as they revise that first draft into something clearer, they begin to understand their ideas better. And when they understand their ideas better, they express them more clearly, and the more clearly they express them, the better they understand them, and so it goes until they run out of energy, interest, or time. For a fortunate few, that moment comes weeks, months, or even years after they begin. For most of us, though, the deadline is closer to tomorrow morning. And so we have to settle for prose that is less than perfect but as good as we can make it in the time we have.",
+            "block_bbox": [
+                123,
+                117,
+                785,
+                504
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    123.0,
+                    117.0
+                ],
+                [
+                    785.0,
+                    117.0
+                ],
+                [
+                    785.0,
+                    504.0
+                ],
+                [
+                    123.0,
+                    504.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Here’s the gist: when you draft, concentrate first on getting your ideas into words. Then use the principles here both to help you refine your ideas and to identify and quickly revise those sentences and passages likely to be more difficult for your readers than they need to be.",
+            "block_bbox": [
+                146,
+                508,
+                784,
+                610
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    146.0,
+                    508.0
+                ],
+                [
+                    784.0,
+                    508.0
+                ],
+                [
+                    784.0,
+                    610.0
+                ],
+                [
+                    146.0,
+                    610.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Many years ago, the great critic and journalist H. L. Mencken wrote this warning to anyone who would dare write a book on style:",
+            "block_bbox": [
+                91,
+                623,
+                783,
+                673
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    623.0
+                ],
+                [
+                    783.0,
+                    623.0
+                ],
+                [
+                    783.0,
+                    673.0
+                ],
+                [
+                    91.0,
+                    673.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "With precious few exceptions, all the books on style in English are by writers quite unable to write. The subject, indeed, seems to exercise a special and dreadful fascination over school ma’ams, bucolic college professors, and other such pseudoliterates. … Their central aim, of course, is to reduce the whole thing to a series of simple rules—the overmastering passion of their melancholy order, at all times and everywhere.",
+            "block_bbox": [
+                125,
+                687,
+                755,
+                835
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    125.0,
+                    687.0
+                ],
+                [
+                    755.0,
+                    687.0
+                ],
+                [
+                    755.0,
+                    835.0
+                ],
+                [
+                    125.0,
+                    835.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "——“The Fringes of Lovely Letters”",
+            "block_bbox": [
+                492,
+                849,
+                756,
+                872
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    492.0,
+                    849.0
+                ],
+                [
+                    756.0,
+                    849.0
+                ],
+                [
+                    756.0,
+                    872.0
+                ],
+                [
+                    492.0,
+                    872.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Mencken was right: no one learns to write well by rule, especially those who cannot see or feel or think. But many people do see clearly, feel deeply, and think carefully but still cannot write sentences that make their thoughts, feelings, and visions clear to others. And the more clearly we write, the more clearly we see and feel and think. Rules help no one do that, but some principles can.",
+            "block_bbox": [
+                90,
+                887,
+                784,
+                1015
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    887.0
+                ],
+                [
+                    784.0,
+                    887.0
+                ],
+                [
+                    784.0,
+                    1015.0
+                ],
+                [
+                    90.0,
+                    1015.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Here they are.",
+            "block_bbox": [
+                128,
+                1018,
+                253,
+                1040
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    128.0,
+                    1018.0
+                ],
+                [
+                    252.0,
+                    1018.0
+                ],
+                [
+                    252.0,
+                    1039.0
+                ],
+                [
+                    128.0,
+                    1039.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.62107253074646,
+                    "coordinate": [
+                        93,
+                        70,
+                        109,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            70.0
+                        ],
+                        [
+                            108.0,
+                            70.0
+                        ],
+                        [
+                            108.0,
+                            87.0
+                        ],
+                        [
+                            93.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8541167974472046,
+                    "coordinate": [
+                        165,
+                        70,
+                        420,
+                        91
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            165.0,
+                            70.0
+                        ],
+                        [
+                            419.0,
+                            70.0
+                        ],
+                        [
+                            419.0,
+                            90.0
+                        ],
+                        [
+                            165.0,
+                            90.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9614132046699524,
+                    "coordinate": [
+                        123,
+                        117,
+                        785,
+                        504
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            123.0,
+                            117.0
+                        ],
+                        [
+                            785.0,
+                            117.0
+                        ],
+                        [
+                            785.0,
+                            504.0
+                        ],
+                        [
+                            123.0,
+                            504.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.948228120803833,
+                    "coordinate": [
+                        146,
+                        508,
+                        784,
+                        610
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            146.0,
+                            508.0
+                        ],
+                        [
+                            784.0,
+                            508.0
+                        ],
+                        [
+                            784.0,
+                            610.0
+                        ],
+                        [
+                            146.0,
+                            610.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9145957231521606,
+                    "coordinate": [
+                        91,
+                        623,
+                        783,
+                        673
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            623.0
+                        ],
+                        [
+                            783.0,
+                            623.0
+                        ],
+                        [
+                            783.0,
+                            673.0
+                        ],
+                        [
+                            91.0,
+                            673.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9589846730232239,
+                    "coordinate": [
+                        125,
+                        687,
+                        755,
+                        835
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            125.0,
+                            687.0
+                        ],
+                        [
+                            755.0,
+                            687.0
+                        ],
+                        [
+                            755.0,
+                            835.0
+                        ],
+                        [
+                            125.0,
+                            835.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8316189050674438,
+                    "coordinate": [
+                        492,
+                        849,
+                        756,
+                        872
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            492.0,
+                            849.0
+                        ],
+                        [
+                            756.0,
+                            849.0
+                        ],
+                        [
+                            756.0,
+                            872.0
+                        ],
+                        [
+                            492.0,
+                            872.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9581490159034729,
+                    "coordinate": [
+                        90,
+                        887,
+                        784,
+                        1015
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            887.0
+                        ],
+                        [
+                            784.0,
+                            887.0
+                        ],
+                        [
+                            784.0,
+                            1015.0
+                        ],
+                        [
+                            90.0,
+                            1015.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8163233399391174,
+                    "coordinate": [
+                        128,
+                        1018,
+                        253,
+                        1040
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            128.0,
+                            1018.0
+                        ],
+                        [
+                            252.0,
+                            1018.0
+                        ],
+                        [
+                            252.0,
+                            1039.0
+                        ],
+                        [
+                            128.0,
+                            1039.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

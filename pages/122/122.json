@@ -1,0 +1,225 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\122.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "text",
+            "block_content": "PART FOUR",
+            "block_bbox": [
+                264,
+                334,
+                587,
+                374
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    264.0,
+                    334.0
+                ],
+                [
+                    587.0,
+                    334.0
+                ],
+                [
+                    587.0,
+                    374.0
+                ],
+                [
+                    264.0,
+                    374.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Grace",
+            "block_bbox": [
+                333,
+                402,
+                518,
+                464
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    333.0,
+                    402.0
+                ],
+                [
+                    518.0,
+                    402.0
+                ],
+                [
+                    518.0,
+                    464.0
+                ],
+                [
+                    333.0,
+                    464.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "In literature the ambition of the novice is to acquire the literary language; the struggle of the adept is to get rid of it.\n—GEORGE BERNARD SHAW",
+            "block_bbox": [
+                167,
+                604,
+                683,
+                689
+            ],
+            "block_id": 2,
+            "block_order": 3,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    167.0,
+                    604.0
+                ],
+                [
+                    683.0,
+                    604.0
+                ],
+                [
+                    683.0,
+                    689.0
+                ],
+                [
+                    167.0,
+                    689.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.5069083571434021,
+                    "coordinate": [
+                        264,
+                        334,
+                        587,
+                        374
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            264.0,
+                            334.0
+                        ],
+                        [
+                            587.0,
+                            334.0
+                        ],
+                        [
+                            587.0,
+                            374.0
+                        ],
+                        [
+                            264.0,
+                            374.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.6870882511138916,
+                    "coordinate": [
+                        333,
+                        402,
+                        518,
+                        464
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            333.0,
+                            402.0
+                        ],
+                        [
+                            518.0,
+                            402.0
+                        ],
+                        [
+                            518.0,
+                            464.0
+                        ],
+                        [
+                            333.0,
+                            464.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8723598718643188,
+                    "coordinate": [
+                        167,
+                        604,
+                        683,
+                        689
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            167.0,
+                            604.0
+                        ],
+                        [
+                            683.0,
+                            604.0
+                        ],
+                        [
+                            683.0,
+                            689.0
+                        ],
+                        [
+                            167.0,
+                            689.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

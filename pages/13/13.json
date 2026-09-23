@@ -1,0 +1,666 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\13.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "2",
+            "block_bbox": [
+                93,
+                70,
+                109,
+                87
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    70.0
+                ],
+                [
+                    108.0,
+                    70.0
+                ],
+                [
+                    108.0,
+                    86.0
+                ],
+                [
+                    93.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "Style: Lessons in Clarity and Grace",
+            "block_bbox": [
+                165,
+                70,
+                421,
+                91
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    165.0,
+                    70.0
+                ],
+                [
+                    420.0,
+                    70.0
+                ],
+                [
+                    420.0,
+                    90.0
+                ],
+                [
+                    165.0,
+                    90.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "But in condemning that style Orwell adopted it. He could have written more concisely:",
+            "block_bbox": [
+                91,
+                117,
+                782,
+                167
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    117.0
+                ],
+                [
+                    782.0,
+                    117.0
+                ],
+                [
+                    782.0,
+                    167.0
+                ],
+                [
+                    91.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Pretentious writers avoid simple verbs. Instead of using one word, such as break, stop, spoil, mend, kill, they turn the verb into a noun or adjective and tack it onto some general-purpose verb such as prove, serve, form, play, render. Wherever possible, they use the passive voice instead of the active and noun constructions instead of gerunds (by examination of instead of by examining).",
+            "block_bbox": [
+                126,
+                181,
+                755,
+                305
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    126.0,
+                    181.0
+                ],
+                [
+                    755.0,
+                    181.0
+                ],
+                [
+                    755.0,
+                    305.0
+                ],
+                [
+                    126.0,
+                    305.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "If the best-known critic of an opaque style could not resist it, we shouldn’t be surprised that writers of all stripes—students, scholars, scientists, lawyers, managers, politicians, and many others—likewise embrace it. The stakes are high, as Orwell understood. Ultimately, unclear writing is not merely an inconvenience to individual readers but a social and political ill. In its extreme forms it becomes a language of obfuscation and exclusion that dampens our thinking and enables, in Orwell’s words, “the defence of the indefensible.” That is something a healthy, ethical society cannot tolerate. We’ll consider the ethical dimension of style in Part Five.",
+            "block_bbox": [
+                90,
+                320,
+                785,
+                550
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    320.0
+                ],
+                [
+                    785.0,
+                    320.0
+                ],
+                [
+                    785.0,
+                    550.0
+                ],
+                [
+                    90.0,
+                    550.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "But whatever its public consequences, unclear writing often has private causes. Some writers plump up their prose, hoping their dense sentences will indicate deep thought or mask its absence. When we try to hide the fact that we don't know what we're talking about, we typically throw up a tangle of abstract words in long, complex sentences.",
+            "block_bbox": [
+                90,
+                554,
+                784,
+                681
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    554.0
+                ],
+                [
+                    784.0,
+                    554.0
+                ],
+                [
+                    784.0,
+                    681.0
+                ],
+                [
+                    90.0,
+                    681.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Some struggle because they are seized by the idea that good writing must be free of the kind of errors that only a grammarian can explain. They see their own writing less as a vehicle for exploring and communicating their ideas than as a minefield of potential errors. They creep from word to word, concerned less with their readers' understanding than with their own survival. But correctness is not clarity, and when we focus obsessively or exclusively on the former, we can end up sacrificing the latter. We'll take up this matter in Part One.",
+            "block_bbox": [
+                90,
+                684,
+                784,
+                864
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    684.0
+                ],
+                [
+                    784.0,
+                    684.0
+                ],
+                [
+                    784.0,
+                    864.0
+                ],
+                [
+                    90.0,
+                    864.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Some freeze up, especially when they are learning to think and write in an unfamiliar setting or context: a new class, a new field, a new profession. As we struggle to master new ideas, most of us write worse than we do when we write about things we understand better. If that sounds familiar, take heart: you will write more clearly when you more fully understand what you are writing about.",
+            "block_bbox": [
+                90,
+                866,
+                784,
+                993
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    866.0
+                ],
+                [
+                    784.0,
+                    866.0
+                ],
+                [
+                    784.0,
+                    993.0
+                ],
+                [
+                    90.0,
+                    993.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "But the biggest reason most of us write unclearly is that we don’t know when readers are likely to find our writing unclear, much less why. Our own writing always seems clearer to us than it does to our readers because when we read it, we respond less to the words on the page or screen than to the thoughts in our own heads: we read into it what we want them to get out of it. We see what we wanted to say, and we blame our readers for not understanding us as well as we understand (or think we understand) ourselves.",
+            "block_bbox": [
+                90,
+                996,
+                784,
+                1174
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    996.0
+                ],
+                [
+                    784.0,
+                    996.0
+                ],
+                [
+                    784.0,
+                    1174.0
+                ],
+                [
+                    90.0,
+                    1174.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "In all of this, of course, is a great irony: we are likely to confuse others when we write about a subject that confuses us. But when we ourselves are confused by",
+            "block_bbox": [
+                91,
+                1177,
+                783,
+                1227
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    1177.0
+                ],
+                [
+                    783.0,
+                    1177.0
+                ],
+                [
+                    783.0,
+                    1227.0
+                ],
+                [
+                    91.0,
+                    1227.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.6331650614738464,
+                    "coordinate": [
+                        93,
+                        70,
+                        109,
+                        87
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            70.0
+                        ],
+                        [
+                            108.0,
+                            70.0
+                        ],
+                        [
+                            108.0,
+                            86.0
+                        ],
+                        [
+                            93.0,
+                            86.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8616941571235657,
+                    "coordinate": [
+                        165,
+                        70,
+                        421,
+                        91
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            165.0,
+                            70.0
+                        ],
+                        [
+                            420.0,
+                            70.0
+                        ],
+                        [
+                            420.0,
+                            90.0
+                        ],
+                        [
+                            165.0,
+                            90.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9014278054237366,
+                    "coordinate": [
+                        91,
+                        117,
+                        782,
+                        167
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            117.0
+                        ],
+                        [
+                            782.0,
+                            117.0
+                        ],
+                        [
+                            782.0,
+                            167.0
+                        ],
+                        [
+                            91.0,
+                            167.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9411139488220215,
+                    "coordinate": [
+                        126,
+                        181,
+                        755,
+                        305
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            126.0,
+                            181.0
+                        ],
+                        [
+                            755.0,
+                            181.0
+                        ],
+                        [
+                            755.0,
+                            305.0
+                        ],
+                        [
+                            126.0,
+                            305.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9605942964553833,
+                    "coordinate": [
+                        90,
+                        320,
+                        785,
+                        550
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            320.0
+                        ],
+                        [
+                            785.0,
+                            320.0
+                        ],
+                        [
+                            785.0,
+                            550.0
+                        ],
+                        [
+                            90.0,
+                            550.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9543898701667786,
+                    "coordinate": [
+                        90,
+                        554,
+                        784,
+                        681
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            554.0
+                        ],
+                        [
+                            784.0,
+                            554.0
+                        ],
+                        [
+                            784.0,
+                            681.0
+                        ],
+                        [
+                            90.0,
+                            681.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9587870240211487,
+                    "coordinate": [
+                        90,
+                        684,
+                        784,
+                        864
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            684.0
+                        ],
+                        [
+                            784.0,
+                            684.0
+                        ],
+                        [
+                            784.0,
+                            864.0
+                        ],
+                        [
+                            90.0,
+                            864.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9535306692123413,
+                    "coordinate": [
+                        90,
+                        866,
+                        784,
+                        993
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            866.0
+                        ],
+                        [
+                            784.0,
+                            866.0
+                        ],
+                        [
+                            784.0,
+                            993.0
+                        ],
+                        [
+                            90.0,
+                            993.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.96152263879776,
+                    "coordinate": [
+                        90,
+                        996,
+                        784,
+                        1174
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            996.0
+                        ],
+                        [
+                            784.0,
+                            996.0
+                        ],
+                        [
+                            784.0,
+                            1174.0
+                        ],
+                        [
+                            90.0,
+                            1174.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9046450257301331,
+                    "coordinate": [
+                        91,
+                        1177,
+                        783,
+                        1227
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            1177.0
+                        ],
+                        [
+                            783.0,
+                            1177.0
+                        ],
+                        [
+                            783.0,
+                            1227.0
+                        ],
+                        [
+                            91.0,
+                            1227.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

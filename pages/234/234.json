@@ -1,0 +1,540 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\234.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Acknowledgments",
+            "block_bbox": [
+                80,
+                115,
+                635,
+                179
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    115.0
+                ],
+                [
+                    635.0,
+                    115.0
+                ],
+                [
+                    635.0,
+                    179.0
+                ],
+                [
+                    80.0,
+                    179.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Front Matter: Page v: Williams, Joseph M., “Defining Complexity.” College English, Vol. 40, No. 6 (Feb., 1979), pp. 595–609. National Council of Teachers of English.",
+            "block_bbox": [
+                79,
+                245,
+                770,
+                295
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    245.0
+                ],
+                [
+                    770.0,
+                    245.0
+                ],
+                [
+                    770.0,
+                    295.0
+                ],
+                [
+                    79.0,
+                    295.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Introduction: Page 1: Orwell, George, “Politics and the English Language,” Horizon, Vol. 13, Issue 76, pp. 252–265, GB, London: April 1946; Mandela, Nelson, Nobel Lecture, December 10, 1993; Mencken, H. L., “Literature and the School Ma’am,” Prejudices, Fifth Series, Alfred Knopf, 1926.",
+            "block_bbox": [
+                79,
+                309,
+                771,
+                411
+            ],
+            "block_id": 2,
+            "block_order": 3,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    309.0
+                ],
+                [
+                    771.0,
+                    309.0
+                ],
+                [
+                    771.0,
+                    411.0
+                ],
+                [
+                    79.0,
+                    411.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Chapter 1: Page 6: Blair, Hugh. Lectures on Rhetoric and Belles Lettres, 1783; Burns, Robert, \"Address to the Inco Guid, or The Rigidly Righteous,\" 1786; Follett, Wilson, Modern American Usage: A Guide. Edited and completed by Jacques Barzun et al., Hill & Wang, 1966; Ong, Walter J. \"The Expanding Humanities and the Individual Scholar,\" Publication of the Modern Language Association, September 1967; Barzun, Jacques, Simple and Direct. New York: Harper and Row, 1975; Fowler, Henry, A Dictionary of Modern English Usage. Oxford University Press, 1926; Annan, Noel Gilroy. Lord Annan, \"The Life of the Mind in British Universities Today,\" American Council of Learned Societies Newsletter, pp. 18–19, 1969; MacDonald, Dwight, \"The String Untuned,\" The New Yorker, March 10, 1962; Gowers, Ernest, The Complete Plain Words. HMSO, 1954; Zinsser, William, On Writing Well. HarperCollins Publishers, 1976; Preamble to the U.S. Constitution, 1787.",
+            "block_bbox": [
+                79,
+                424,
+                772,
+                763
+            ],
+            "block_id": 3,
+            "block_order": 4,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    424.0
+                ],
+                [
+                    772.0,
+                    424.0
+                ],
+                [
+                    772.0,
+                    763.0
+                ],
+                [
+                    79.0,
+                    763.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Chapter 2: Page 23: Wittgenstein, Ludwig, Tractatus Logico-Philosophicus (proposition 4.116). Translated by C. K. Ogden, 1922.",
+            "block_bbox": [
+                79,
+                775,
+                770,
+                825
+            ],
+            "block_id": 4,
+            "block_order": 5,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    775.0
+                ],
+                [
+                    770.0,
+                    775.0
+                ],
+                [
+                    770.0,
+                    825.0
+                ],
+                [
+                    79.0,
+                    825.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Chapter 3: Page 45: Brand, Myles, Intending and Acting. Cambridge and London: The MIT Press / A Bradford Book, 1984; Newton, Isaac, “New Theory of Light and Colors,” 1672; Matthews, P. H. “Problems of Selection in Transformational Grammar.” Journal of Linguistics 1.01 (1965): 35–47; Nathan, Andrew J. and Tianjian Shi, “Cultural Requisites for Democracy in China: Findings from a Survey,” Daedalus. Vol. 122, No. 2, Spring, 1993; Gilbert, John P., Bucknam McPeek, and Frederick Mosteller, “Statistics and Ethics in Surgery and Anesthesia,” Science, pp. 684–689, 1977; Parsons, Talcott, Essays in Sociological Theory. Simon & Schuster, 1954.",
+            "block_bbox": [
+                79,
+                840,
+                772,
+                1046
+            ],
+            "block_id": 5,
+            "block_order": 6,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    840.0
+                ],
+                [
+                    772.0,
+                    840.0
+                ],
+                [
+                    772.0,
+                    1046.0
+                ],
+                [
+                    79.0,
+                    1046.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Chapter 5: Page 73: Rosenberg, Steven A. M.D., Ph.D., “Observations on the Systemic Administration of Autologous Lmphokine-Activated Killer Cells and Recombinant Interleukin-2 to Patients with Metastatic Cancer.” New England Journal of Medicine, Vol 313, No. 23; Edmundson, Mark. Why Teach? In Defense of a Real Education. Bloomsbury, USA. 2013.",
+            "block_bbox": [
+                79,
+                1059,
+                772,
+                1187
+            ],
+            "block_id": 6,
+            "block_order": 7,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    1059.0
+                ],
+                [
+                    772.0,
+                    1059.0
+                ],
+                [
+                    772.0,
+                    1187.0
+                ],
+                [
+                    79.0,
+                    1187.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "223",
+            "block_bbox": [
+                736,
+                1230,
+                770,
+                1247
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    736.0,
+                    1230.0
+                ],
+                [
+                    769.0,
+                    1230.0
+                ],
+                [
+                    769.0,
+                    1246.0
+                ],
+                [
+                    736.0,
+                    1246.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.7418850660324097,
+                    "coordinate": [
+                        80,
+                        115,
+                        635,
+                        179
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            115.0
+                        ],
+                        [
+                            635.0,
+                            115.0
+                        ],
+                        [
+                            635.0,
+                            179.0
+                        ],
+                        [
+                            80.0,
+                            179.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.907157301902771,
+                    "coordinate": [
+                        79,
+                        245,
+                        770,
+                        295
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            245.0
+                        ],
+                        [
+                            770.0,
+                            245.0
+                        ],
+                        [
+                            770.0,
+                            295.0
+                        ],
+                        [
+                            79.0,
+                            295.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9420037865638733,
+                    "coordinate": [
+                        79,
+                        309,
+                        771,
+                        411
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            309.0
+                        ],
+                        [
+                            771.0,
+                            309.0
+                        ],
+                        [
+                            771.0,
+                            411.0
+                        ],
+                        [
+                            79.0,
+                            411.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9619640111923218,
+                    "coordinate": [
+                        79,
+                        424,
+                        772,
+                        763
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            424.0
+                        ],
+                        [
+                            772.0,
+                            424.0
+                        ],
+                        [
+                            772.0,
+                            763.0
+                        ],
+                        [
+                            79.0,
+                            763.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.908091127872467,
+                    "coordinate": [
+                        79,
+                        775,
+                        770,
+                        825
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            775.0
+                        ],
+                        [
+                            770.0,
+                            775.0
+                        ],
+                        [
+                            770.0,
+                            825.0
+                        ],
+                        [
+                            79.0,
+                            825.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9627724289894104,
+                    "coordinate": [
+                        79,
+                        840,
+                        772,
+                        1046
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            840.0
+                        ],
+                        [
+                            772.0,
+                            840.0
+                        ],
+                        [
+                            772.0,
+                            1046.0
+                        ],
+                        [
+                            79.0,
+                            1046.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9485905170440674,
+                    "coordinate": [
+                        79,
+                        1059,
+                        772,
+                        1187
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            1059.0
+                        ],
+                        [
+                            772.0,
+                            1059.0
+                        ],
+                        [
+                            772.0,
+                            1187.0
+                        ],
+                        [
+                            79.0,
+                            1187.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.794685959815979,
+                    "coordinate": [
+                        736,
+                        1230,
+                        770,
+                        1247
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            736.0,
+                            1230.0
+                        ],
+                        [
+                            769.0,
+                            1230.0
+                        ],
+                        [
+                            769.0,
+                            1246.0
+                        ],
+                        [
+                            736.0,
+                            1246.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

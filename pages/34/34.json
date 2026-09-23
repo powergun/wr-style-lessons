@@ -1,0 +1,351 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\34.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "text",
+            "block_content": "PART TWO",
+            "block_bbox": [
+                274,
+                363,
+                577,
+                403
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    274.0,
+                    363.0
+                ],
+                [
+                    577.0,
+                    363.0
+                ],
+                [
+                    577.0,
+                    403.0
+                ],
+                [
+                    274.0,
+                    403.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Clarity",
+            "block_bbox": [
+                317,
+                423,
+                534,
+                499
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    317.0,
+                    423.0
+                ],
+                [
+                    534.0,
+                    423.0
+                ],
+                [
+                    534.0,
+                    499.0
+                ],
+                [
+                    317.0,
+                    499.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Everything that can be thought at all can be thought clearly.",
+            "block_bbox": [
+                254,
+                614,
+                598,
+                668
+            ],
+            "block_id": 2,
+            "block_order": 3,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    254.0,
+                    614.0
+                ],
+                [
+                    598.0,
+                    614.0
+                ],
+                [
+                    598.0,
+                    668.0
+                ],
+                [
+                    254.0,
+                    668.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Everything that can be said can be said clearly.\n—LUDWIG WITTGENSTEIN",
+            "block_bbox": [
+                209,
+                670,
+                638,
+                725
+            ],
+            "block_id": 3,
+            "block_order": 4,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    209.0,
+                    670.0
+                ],
+                [
+                    638.0,
+                    670.0
+                ],
+                [
+                    638.0,
+                    725.0
+                ],
+                [
+                    209.0,
+                    725.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "It takes less time to learn to write nobly than to learn to write lightly and straightforwardly.\n—FRIEDRICH NIETZSCHE",
+            "block_bbox": [
+                207,
+                776,
+                642,
+                860
+            ],
+            "block_id": 4,
+            "block_order": 5,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    207.0,
+                    776.0
+                ],
+                [
+                    642.0,
+                    776.0
+                ],
+                [
+                    642.0,
+                    860.0
+                ],
+                [
+                    207.0,
+                    860.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.49549806118011475,
+                    "coordinate": [
+                        274,
+                        363,
+                        577,
+                        403
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            274.0,
+                            363.0
+                        ],
+                        [
+                            577.0,
+                            363.0
+                        ],
+                        [
+                            577.0,
+                            403.0
+                        ],
+                        [
+                            274.0,
+                            403.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.779670238494873,
+                    "coordinate": [
+                        317,
+                        423,
+                        534,
+                        499
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            317.0,
+                            423.0
+                        ],
+                        [
+                            534.0,
+                            423.0
+                        ],
+                        [
+                            534.0,
+                            499.0
+                        ],
+                        [
+                            317.0,
+                            499.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.6489171981811523,
+                    "coordinate": [
+                        254,
+                        614,
+                        598,
+                        668
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            254.0,
+                            614.0
+                        ],
+                        [
+                            598.0,
+                            614.0
+                        ],
+                        [
+                            598.0,
+                            668.0
+                        ],
+                        [
+                            254.0,
+                            668.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.6633874177932739,
+                    "coordinate": [
+                        209,
+                        670,
+                        638,
+                        725
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            209.0,
+                            670.0
+                        ],
+                        [
+                            638.0,
+                            670.0
+                        ],
+                        [
+                            638.0,
+                            725.0
+                        ],
+                        [
+                            209.0,
+                            725.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8331050276756287,
+                    "coordinate": [
+                        207,
+                        776,
+                        642,
+                        860
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            207.0,
+                            776.0
+                        ],
+                        [
+                            642.0,
+                            776.0
+                        ],
+                        [
+                            642.0,
+                            860.0
+                        ],
+                        [
+                            207.0,
+                            860.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

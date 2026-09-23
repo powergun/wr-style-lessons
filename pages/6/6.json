@@ -1,0 +1,792 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\6.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Preface",
+            "block_bbox": [
+                81,
+                117,
+                300,
+                173
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    81.0,
+                    117.0
+                ],
+                [
+                    300.0,
+                    117.0
+                ],
+                [
+                    300.0,
+                    173.0
+                ],
+                [
+                    81.0,
+                    173.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Most people won't realize that writing is a craft.\nYou have to take your apprenticeship in it like anything else.",
+            "block_bbox": [
+                192,
+                245,
+                658,
+                296
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    192.0,
+                    245.0
+                ],
+                [
+                    658.0,
+                    245.0
+                ],
+                [
+                    658.0,
+                    296.0
+                ],
+                [
+                    192.0,
+                    296.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "—KATHERINE ANNE PORTER",
+            "block_bbox": [
+                303,
+                302,
+                549,
+                326
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    303.0,
+                    302.0
+                ],
+                [
+                    549.0,
+                    302.0
+                ],
+                [
+                    549.0,
+                    326.0
+                ],
+                [
+                    303.0,
+                    326.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "In preparing this thirteenth edition of Style, my third, I have endeavored to refresh the book while remaining true to the qualities and features that have made it a classic of its kind. The book has demonstrated an enduring usefulness, but it is more than just a practical guide. Joseph M. Williams wrote with an urgency motivated by his conviction that clear writing not just a technical accomplishment but a social necessity and ethical good. \"Writing has consequences,\" Joe wrote in a 1979 article anticipating his book: \"Whatever does not bear on those consequences is irrelevant to our task—to help our students become what they want to be.\" In my own work with his text, I have tried to keep this high ideal in mind.",
+            "block_bbox": [
+                79,
+                354,
+                772,
+                610
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    354.0
+                ],
+                [
+                    772.0,
+                    354.0
+                ],
+                [
+                    772.0,
+                    610.0
+                ],
+                [
+                    79.0,
+                    610.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The most obvious changes are those prompted by the creation of a new interactive online version of the book and by the print edition's shift to a color format. I also allowed myself somewhat more authorial latitude than I did in the eleventh and twelfth editions. In those editions, my standard was to make only changes I believed Joe would have embraced. In this edition, I also introduced changes that I hope I could have persuaded Joe to accept.",
+            "block_bbox": [
+                78,
+                613,
+                772,
+                769
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    613.0
+                ],
+                [
+                    772.0,
+                    613.0
+                ],
+                [
+                    772.0,
+                    769.0
+                ],
+                [
+                    78.0,
+                    769.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "What's New in the Thirteenth Edition",
+            "block_bbox": [
+                79,
+                795,
+                582,
+                826
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    795.0
+                ],
+                [
+                    582.0,
+                    795.0
+                ],
+                [
+                    582.0,
+                    826.0
+                ],
+                [
+                    79.0,
+                    826.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Here, specifically, is what's changed:",
+            "block_bbox": [
+                79,
+                837,
+                394,
+                862
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    837.0
+                ],
+                [
+                    394.0,
+                    837.0
+                ],
+                [
+                    394.0,
+                    862.0
+                ],
+                [
+                    79.0,
+                    862.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- I have retitled several of the lessons so that they better indicate their content.",
+            "block_bbox": [
+                92,
+                874,
+                764,
+                898
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    874.0
+                ],
+                [
+                    764.0,
+                    874.0
+                ],
+                [
+                    764.0,
+                    898.0
+                ],
+                [
+                    92.0,
+                    898.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- I cut the lesson on understanding style that opened previous editions. The bulk of this lesson was devoted to a short history of unclear writing in English, which, although informative, was not directly relevant to the purposes of most readers. The book now begins with a short introduction that incorporates some of the content from that deleted lesson and moves directly to the important lesson on correctness.",
+            "block_bbox": [
+                92,
+                907,
+                772,
+                1062
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    907.0
+                ],
+                [
+                    772.0,
+                    907.0
+                ],
+                [
+                    772.0,
+                    1062.0
+                ],
+                [
+                    92.0,
+                    1062.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- To take advantage of the new color format, I updated the coding of sentences and also the diagrams illustrating the principles of style.",
+            "block_bbox": [
+                93,
+                1069,
+                771,
+                1119
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    1069.0
+                ],
+                [
+                    771.0,
+                    1069.0
+                ],
+                [
+                    771.0,
+                    1119.0
+                ],
+                [
+                    93.0,
+                    1119.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- I revised and updated examples and exercises throughout the book, seeking to expand the range of topics and subjects they address.",
+            "block_bbox": [
+                92,
+                1127,
+                771,
+                1178
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    1127.0
+                ],
+                [
+                    771.0,
+                    1127.0
+                ],
+                [
+                    771.0,
+                    1178.0
+                ],
+                [
+                    92.0,
+                    1178.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "V",
+            "block_bbox": [
+                756,
+                1233,
+                769,
+                1248
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    756.0,
+                    1233.0
+                ],
+                [
+                    768.0,
+                    1233.0
+                ],
+                [
+                    768.0,
+                    1247.0
+                ],
+                [
+                    756.0,
+                    1247.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.4885598123073578,
+                    "coordinate": [
+                        81,
+                        117,
+                        300,
+                        173
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            81.0,
+                            117.0
+                        ],
+                        [
+                            300.0,
+                            117.0
+                        ],
+                        [
+                            300.0,
+                            173.0
+                        ],
+                        [
+                            81.0,
+                            173.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.6690127849578857,
+                    "coordinate": [
+                        192,
+                        245,
+                        658,
+                        296
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            192.0,
+                            245.0
+                        ],
+                        [
+                            658.0,
+                            245.0
+                        ],
+                        [
+                            658.0,
+                            296.0
+                        ],
+                        [
+                            192.0,
+                            296.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.5998531579971313,
+                    "coordinate": [
+                        303,
+                        302,
+                        549,
+                        326
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            303.0,
+                            302.0
+                        ],
+                        [
+                            549.0,
+                            302.0
+                        ],
+                        [
+                            549.0,
+                            326.0
+                        ],
+                        [
+                            303.0,
+                            326.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9617677927017212,
+                    "coordinate": [
+                        79,
+                        354,
+                        772,
+                        610
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            354.0
+                        ],
+                        [
+                            772.0,
+                            354.0
+                        ],
+                        [
+                            772.0,
+                            610.0
+                        ],
+                        [
+                            79.0,
+                            610.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9539408683776855,
+                    "coordinate": [
+                        78,
+                        613,
+                        772,
+                        769
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            613.0
+                        ],
+                        [
+                            772.0,
+                            613.0
+                        ],
+                        [
+                            772.0,
+                            769.0
+                        ],
+                        [
+                            78.0,
+                            769.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8651606440544128,
+                    "coordinate": [
+                        79,
+                        795,
+                        582,
+                        826
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            795.0
+                        ],
+                        [
+                            582.0,
+                            795.0
+                        ],
+                        [
+                            582.0,
+                            826.0
+                        ],
+                        [
+                            79.0,
+                            826.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8387465476989746,
+                    "coordinate": [
+                        79,
+                        837,
+                        394,
+                        862
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            837.0
+                        ],
+                        [
+                            394.0,
+                            837.0
+                        ],
+                        [
+                            394.0,
+                            862.0
+                        ],
+                        [
+                            79.0,
+                            862.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8487029671669006,
+                    "coordinate": [
+                        92,
+                        874,
+                        764,
+                        898
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            874.0
+                        ],
+                        [
+                            764.0,
+                            874.0
+                        ],
+                        [
+                            764.0,
+                            898.0
+                        ],
+                        [
+                            92.0,
+                            898.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9625328779220581,
+                    "coordinate": [
+                        92,
+                        907,
+                        772,
+                        1062
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            907.0
+                        ],
+                        [
+                            772.0,
+                            907.0
+                        ],
+                        [
+                            772.0,
+                            1062.0
+                        ],
+                        [
+                            92.0,
+                            1062.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9248206615447998,
+                    "coordinate": [
+                        93,
+                        1069,
+                        771,
+                        1119
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            1069.0
+                        ],
+                        [
+                            771.0,
+                            1069.0
+                        ],
+                        [
+                            771.0,
+                            1119.0
+                        ],
+                        [
+                            93.0,
+                            1119.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9153253436088562,
+                    "coordinate": [
+                        92,
+                        1127,
+                        771,
+                        1178
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            1127.0
+                        ],
+                        [
+                            771.0,
+                            1127.0
+                        ],
+                        [
+                            771.0,
+                            1178.0
+                        ],
+                        [
+                            92.0,
+                            1178.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.584140419960022,
+                    "coordinate": [
+                        756,
+                        1233,
+                        769,
+                        1248
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            756.0,
+                            1233.0
+                        ],
+                        [
+                            768.0,
+                            1233.0
+                        ],
+                        [
+                            768.0,
+                            1247.0
+                        ],
+                        [
+                            756.0,
+                            1247.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

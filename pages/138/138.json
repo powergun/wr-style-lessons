@@ -1,0 +1,1044 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\138.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Lesson 9 Shape",
+            "block_bbox": [
+                571,
+                70,
+                697,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    571.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    89.0
+                ],
+                [
+                    571.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "127",
+            "block_bbox": [
+                736,
+                69,
+                770,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    736.0,
+                    69.0
+                ],
+                [
+                    769.0,
+                    69.0
+                ],
+                [
+                    769.0,
+                    87.0
+                ],
+                [
+                    736.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "In fact, this point-first principle applies to even larger units:",
+            "block_bbox": [
+                115,
+                116,
+                624,
+                143
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    115.0,
+                    116.0
+                ],
+                [
+                    624.0,
+                    116.0
+                ],
+                [
+                    624.0,
+                    143.0
+                ],
+                [
+                    115.0,
+                    143.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- Begin a paragraph with a sentence (or two) expressing its point so that readers can understand what follows (see pp. 106–107).",
+            "block_bbox": [
+                118,
+                154,
+                771,
+                205
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    118.0,
+                    154.0
+                ],
+                [
+                    771.0,
+                    154.0
+                ],
+                [
+                    771.0,
+                    205.0
+                ],
+                [
+                    118.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- Begin a section of a document with a paragraph or two stating its point (see pp. 101–104).",
+            "block_bbox": [
+                118,
+                213,
+                771,
+                264
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    118.0,
+                    213.0
+                ],
+                [
+                    771.0,
+                    213.0
+                ],
+                [
+                    771.0,
+                    264.0
+                ],
+                [
+                    118.0,
+                    264.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- Do the same for a whole document: begin with an introduction that states its point and frames the rest (see pp. 86–94).",
+            "block_bbox": [
+                117,
+                270,
+                770,
+                322
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    117.0,
+                    270.0
+                ],
+                [
+                    770.0,
+                    270.0
+                ],
+                [
+                    770.0,
+                    322.0
+                ],
+                [
+                    117.0,
+                    322.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Sentence, paragraph, section, or whole—how quickly, concisely, and helpfully you begin determines how easily your readers understand what follows.",
+            "block_bbox": [
+                78,
+                334,
+                771,
+                387
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    334.0
+                ],
+                [
+                    771.0,
+                    334.0
+                ],
+                [
+                    771.0,
+                    387.0
+                ],
+                [
+                    78.0,
+                    387.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "How to Revise: Long Openings",
+            "block_bbox": [
+                80,
+                419,
+                475,
+                453
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    419.0
+                ],
+                [
+                    475.0,
+                    419.0
+                ],
+                [
+                    475.0,
+                    453.0
+                ],
+                [
+                    80.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Readers like to find a sentence's point near its beginning, but they won't if a sentence takes forever to get started:",
+            "block_bbox": [
+                79,
+                463,
+                770,
+                515
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    463.0
+                ],
+                [
+                    770.0,
+                    463.0
+                ],
+                [
+                    770.0,
+                    515.0
+                ],
+                [
+                    79.0,
+                    515.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Since most undergraduate students change their major fields of study at least once during their college careers, many more than once, first-year students who are not certain about the majors they want to pursue should not load up their schedules to meet requirements for a particular program.",
+            "block_bbox": [
+                112,
+                527,
+                743,
+                627
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    112.0,
+                    527.0
+                ],
+                [
+                    743.0,
+                    527.0
+                ],
+                [
+                    743.0,
+                    627.0
+                ],
+                [
+                    112.0,
+                    627.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "That sentence takes thirty-five words to get to its main verb phrase, should... load up. Here are two rules of thumb about beginning a sentence: (1) Get to the subject of the main clause quickly. (2) Get to the verb and object quickly.",
+            "block_bbox": [
+                78,
+                640,
+                772,
+                719
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    640.0
+                ],
+                [
+                    772.0,
+                    640.0
+                ],
+                [
+                    772.0,
+                    719.0
+                ],
+                [
+                    78.0,
+                    719.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Rule of Thumb 1: Get to the Subject Quickly",
+            "block_bbox": [
+                79,
+                742,
+                553,
+                770
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    742.0
+                ],
+                [
+                    553.0,
+                    742.0
+                ],
+                [
+                    553.0,
+                    770.0
+                ],
+                [
+                    79.0,
+                    770.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "We have a problem with sentences that open with long introductory phrases and clauses, because as we read them, we have to keep in mind that the subject and verb of a main clause are still to come, and that load on our memory hinders easy understanding.",
+            "block_bbox": [
+                79,
+                777,
+                771,
+                878
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    777.0
+                ],
+                [
+                    771.0,
+                    777.0
+                ],
+                [
+                    771.0,
+                    878.0
+                ],
+                [
+                    79.0,
+                    878.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Compare these two versions. In 1a we have to read and understand seventeen words (gold) before we get to its long main subject (underlined) and verb (bold-faced). In 1b, we get past the short main subject and verb in just seven words:",
+            "block_bbox": [
+                79,
+                881,
+                772,
+                959
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13,
+            "global_block_id": 13,
+            "global_group_id": 13,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    881.0
+                ],
+                [
+                    772.0,
+                    881.0
+                ],
+                [
+                    772.0,
+                    959.0
+                ],
+                [
+                    79.0,
+                    959.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "1a. Since most undergraduate students change their major fields of study at least once during their college careers,  $ \\underline{\\text{first-year students who are not certain about the majors they want to pursue}} $ should not load up their schedules to meet requirements for a particular program.",
+            "block_bbox": [
+                117,
+                970,
+                743,
+                1070
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14,
+            "global_block_id": 14,
+            "global_group_id": 14,
+            "block_polygon_points": [
+                [
+                    117.0,
+                    970.0
+                ],
+                [
+                    743.0,
+                    970.0
+                ],
+                [
+                    743.0,
+                    1070.0
+                ],
+                [
+                    117.0,
+                    1070.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ 1b.  $ \\underline{\\text{First-year students}} $ should not load up their schedules with requirements for a particular program if they are not certain about the majors they want to pursue, because most change their major fields of study at least once during their college careers.",
+            "block_bbox": [
+                96,
+                1086,
+                741,
+                1185
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15,
+            "global_block_id": 15,
+            "global_group_id": 15,
+            "block_polygon_points": [
+                [
+                    96.0,
+                    1086.0
+                ],
+                [
+                    741.0,
+                    1086.0
+                ],
+                [
+                    741.0,
+                    1185.0
+                ],
+                [
+                    96.0,
+                    1185.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8715119361877441,
+                    "coordinate": [
+                        571,
+                        70,
+                        697,
+                        90
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            571.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            89.0
+                        ],
+                        [
+                            571.0,
+                            89.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.8052911162376404,
+                    "coordinate": [
+                        736,
+                        69,
+                        770,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            736.0,
+                            69.0
+                        ],
+                        [
+                            769.0,
+                            69.0
+                        ],
+                        [
+                            769.0,
+                            87.0
+                        ],
+                        [
+                            736.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8581564426422119,
+                    "coordinate": [
+                        115,
+                        116,
+                        624,
+                        143
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            115.0,
+                            116.0
+                        ],
+                        [
+                            624.0,
+                            116.0
+                        ],
+                        [
+                            624.0,
+                            143.0
+                        ],
+                        [
+                            115.0,
+                            143.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9246243238449097,
+                    "coordinate": [
+                        118,
+                        154,
+                        771,
+                        205
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            118.0,
+                            154.0
+                        ],
+                        [
+                            771.0,
+                            154.0
+                        ],
+                        [
+                            771.0,
+                            205.0
+                        ],
+                        [
+                            118.0,
+                            205.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.92464280128479,
+                    "coordinate": [
+                        118,
+                        213,
+                        771,
+                        264
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            118.0,
+                            213.0
+                        ],
+                        [
+                            771.0,
+                            213.0
+                        ],
+                        [
+                            771.0,
+                            264.0
+                        ],
+                        [
+                            118.0,
+                            264.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9180925488471985,
+                    "coordinate": [
+                        117,
+                        270,
+                        770,
+                        322
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            117.0,
+                            270.0
+                        ],
+                        [
+                            770.0,
+                            270.0
+                        ],
+                        [
+                            770.0,
+                            322.0
+                        ],
+                        [
+                            117.0,
+                            322.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.928695797920227,
+                    "coordinate": [
+                        78,
+                        334,
+                        771,
+                        387
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            334.0
+                        ],
+                        [
+                            771.0,
+                            334.0
+                        ],
+                        [
+                            771.0,
+                            387.0
+                        ],
+                        [
+                            78.0,
+                            387.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.9019651412963867,
+                    "coordinate": [
+                        80,
+                        419,
+                        475,
+                        453
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            419.0
+                        ],
+                        [
+                            475.0,
+                            419.0
+                        ],
+                        [
+                            475.0,
+                            453.0
+                        ],
+                        [
+                            80.0,
+                            453.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9266858696937561,
+                    "coordinate": [
+                        79,
+                        463,
+                        770,
+                        515
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            463.0
+                        ],
+                        [
+                            770.0,
+                            463.0
+                        ],
+                        [
+                            770.0,
+                            515.0
+                        ],
+                        [
+                            79.0,
+                            515.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9462205171585083,
+                    "coordinate": [
+                        112,
+                        527,
+                        743,
+                        627
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            112.0,
+                            527.0
+                        ],
+                        [
+                            743.0,
+                            527.0
+                        ],
+                        [
+                            743.0,
+                            627.0
+                        ],
+                        [
+                            112.0,
+                            627.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9449223875999451,
+                    "coordinate": [
+                        78,
+                        640,
+                        772,
+                        719
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            640.0
+                        ],
+                        [
+                            772.0,
+                            640.0
+                        ],
+                        [
+                            772.0,
+                            719.0
+                        ],
+                        [
+                            78.0,
+                            719.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8830599188804626,
+                    "coordinate": [
+                        79,
+                        742,
+                        553,
+                        770
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            742.0
+                        ],
+                        [
+                            553.0,
+                            742.0
+                        ],
+                        [
+                            553.0,
+                            770.0
+                        ],
+                        [
+                            79.0,
+                            770.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9552356004714966,
+                    "coordinate": [
+                        79,
+                        777,
+                        771,
+                        878
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            777.0
+                        ],
+                        [
+                            771.0,
+                            777.0
+                        ],
+                        [
+                            771.0,
+                            878.0
+                        ],
+                        [
+                            79.0,
+                            878.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9462378621101379,
+                    "coordinate": [
+                        79,
+                        881,
+                        772,
+                        959
+                    ],
+                    "order": 13,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            881.0
+                        ],
+                        [
+                            772.0,
+                            881.0
+                        ],
+                        [
+                            772.0,
+                            959.0
+                        ],
+                        [
+                            79.0,
+                            959.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9461379051208496,
+                    "coordinate": [
+                        117,
+                        970,
+                        743,
+                        1070
+                    ],
+                    "order": 14,
+                    "polygon_points": [
+                        [
+                            117.0,
+                            970.0
+                        ],
+                        [
+                            743.0,
+                            970.0
+                        ],
+                        [
+                            743.0,
+                            1070.0
+                        ],
+                        [
+                            117.0,
+                            1070.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.913296103477478,
+                    "coordinate": [
+                        96,
+                        1086,
+                        741,
+                        1185
+                    ],
+                    "order": 15,
+                    "polygon_points": [
+                        [
+                            96.0,
+                            1086.0
+                        ],
+                        [
+                            741.0,
+                            1086.0
+                        ],
+                        [
+                            741.0,
+                            1185.0
+                        ],
+                        [
+                            96.0,
+                            1185.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

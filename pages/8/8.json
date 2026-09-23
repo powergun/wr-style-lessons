@@ -1,0 +1,981 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\8.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Preface vii",
+            "block_bbox": [
+                676,
+                69,
+                771,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    675.9999389648438,
+                    68.99999237060547
+                ],
+                [
+                    769.9999389648438,
+                    68.99999237060547
+                ],
+                [
+                    769.9999389648438,
+                    88.99999237060547
+                ],
+                [
+                    675.9999389648438,
+                    88.99999237060547
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "What's The Same",
+            "block_bbox": [
+                80,
+                117,
+                315,
+                148
+            ],
+            "block_id": 1,
+            "block_order": 1,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    117.0
+                ],
+                [
+                    315.0,
+                    117.0
+                ],
+                [
+                    315.0,
+                    148.0
+                ],
+                [
+                    80.0,
+                    148.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "For all these changes, the book continues to address the same questions it always has:",
+            "block_bbox": [
+                79,
+                159,
+                770,
+                184
+            ],
+            "block_id": 2,
+            "block_order": 2,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    159.0
+                ],
+                [
+                    770.0,
+                    159.0
+                ],
+                [
+                    770.0,
+                    184.0
+                ],
+                [
+                    79.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- What is it in a sentence that makes readers judge it as they do?",
+            "block_bbox": [
+                91,
+                196,
+                649,
+                220
+            ],
+            "block_id": 3,
+            "block_order": 3,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    196.0
+                ],
+                [
+                    649.0,
+                    196.0
+                ],
+                [
+                    649.0,
+                    220.0
+                ],
+                [
+                    91.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "• How do we analyze our own prose to anticipate readers' judgments?",
+            "block_bbox": [
+                92,
+                229,
+                703,
+                253
+            ],
+            "block_id": 4,
+            "block_order": 4,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    229.0
+                ],
+                [
+                    703.0,
+                    229.0
+                ],
+                [
+                    703.0,
+                    253.0
+                ],
+                [
+                    92.0,
+                    253.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "• How do we revise a sentence so that readers will think better of it?",
+            "block_bbox": [
+                92,
+                261,
+                682,
+                284
+            ],
+            "block_id": 5,
+            "block_order": 5,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    261.0
+                ],
+                [
+                    682.0,
+                    261.0
+                ],
+                [
+                    682.0,
+                    284.0
+                ],
+                [
+                    92.0,
+                    284.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The book's central point remains, in other words, what it always has been: that good style is a matter of making informed choices in the service of one's readers.",
+            "block_bbox": [
+                79,
+                298,
+                772,
+                350
+            ],
+            "block_id": 6,
+            "block_order": 6,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    298.0
+                ],
+                [
+                    772.0,
+                    298.0
+                ],
+                [
+                    772.0,
+                    350.0
+                ],
+                [
+                    79.0,
+                    350.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "REVEL™",
+            "block_bbox": [
+                80,
+                373,
+                219,
+                409
+            ],
+            "block_id": 7,
+            "block_order": 7,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    373.0
+                ],
+                [
+                    219.0,
+                    373.0
+                ],
+                [
+                    219.0,
+                    409.0
+                ],
+                [
+                    80.0,
+                    409.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Revel is an interactive learning environment that deeply engages students and prepares them for class. Media and assessment integrated directly within the authors' narrative lets students read, explore interactive content, and practice in one continuous learning path. Thanks to the dynamic reading experience in Revel, students come to class prepared to discuss, apply, and learn from instructors and from each other.",
+            "block_bbox": [
+                78,
+                421,
+                772,
+                576
+            ],
+            "block_id": 8,
+            "block_order": 8,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    421.0
+                ],
+                [
+                    772.0,
+                    421.0
+                ],
+                [
+                    772.0,
+                    576.0
+                ],
+                [
+                    78.0,
+                    576.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Learn more about Revel",
+            "block_bbox": [
+                79,
+                614,
+                402,
+                645
+            ],
+            "block_id": 9,
+            "block_order": 9,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    614.0
+                ],
+                [
+                    402.0,
+                    614.0
+                ],
+                [
+                    402.0,
+                    645.0
+                ],
+                [
+                    79.0,
+                    645.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "www.pearson.com/revel",
+            "block_bbox": [
+                80,
+                655,
+                299,
+                679
+            ],
+            "block_id": 10,
+            "block_order": 10,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    655.0
+                ],
+                [
+                    299.0,
+                    655.0
+                ],
+                [
+                    299.0,
+                    679.0
+                ],
+                [
+                    80.0,
+                    679.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Supplements",
+            "block_bbox": [
+                79,
+                706,
+                259,
+                739
+            ],
+            "block_id": 11,
+            "block_order": 11,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    706.0
+                ],
+                [
+                    259.0,
+                    706.0
+                ],
+                [
+                    259.0,
+                    739.0
+                ],
+                [
+                    79.0,
+                    739.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Make more time for your students with instructor resources that offer effective learning assessments and classroom engagement. Pearson's partnership with educators does not end with the delivery of course materials; Pearson is there with you on the first day of class and beyond. A dedicated team of local Pearson representatives will work with you to not only choose course materials but also integrate them into your class and assess their effectiveness. Our goal is your goal—to improve instruction with each semester.",
+            "block_bbox": [
+                78,
+                747,
+                773,
+                928
+            ],
+            "block_id": 12,
+            "block_order": 12,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    747.0
+                ],
+                [
+                    773.0,
+                    747.0
+                ],
+                [
+                    773.0,
+                    928.0
+                ],
+                [
+                    78.0,
+                    928.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Pearson is pleased to offer the following resource to qualified adopters of Style. This supplement is available to instantly download from Revel or on the Instructor Resource Center (IRC); please visit the IRC at www.pearson.com/us to register for access.",
+            "block_bbox": [
+                79,
+                929,
+                772,
+                1032
+            ],
+            "block_id": 13,
+            "block_order": 13,
+            "group_id": 13,
+            "global_block_id": 13,
+            "global_group_id": 13,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    929.0
+                ],
+                [
+                    772.0,
+                    929.0
+                ],
+                [
+                    772.0,
+                    1032.0
+                ],
+                [
+                    79.0,
+                    1032.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- Instructor's Resource Manual Create a comprehensive roadmap for teaching classroom, online, or hybrid courses. Designed for new and experienced instructors, the Instructor's Resource Manual includes learning objectives, lecture and discussion suggestions, activities for in or out of",
+            "block_bbox": [
+                92,
+                1045,
+                773,
+                1148
+            ],
+            "block_id": 14,
+            "block_order": 14,
+            "group_id": 14,
+            "global_block_id": 14,
+            "global_group_id": 14,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    1045.0
+                ],
+                [
+                    773.0,
+                    1045.0
+                ],
+                [
+                    773.0,
+                    1148.0
+                ],
+                [
+                    92.0,
+                    1148.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8289097547531128,
+                    "coordinate": [
+                        676,
+                        69,
+                        771,
+                        90
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            675.9999389648438,
+                            68.99999237060547
+                        ],
+                        [
+                            769.9999389648438,
+                            68.99999237060547
+                        ],
+                        [
+                            769.9999389648438,
+                            88.99999237060547
+                        ],
+                        [
+                            675.9999389648438,
+                            88.99999237060547
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8734902143478394,
+                    "coordinate": [
+                        80,
+                        117,
+                        315,
+                        148
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            117.0
+                        ],
+                        [
+                            315.0,
+                            117.0
+                        ],
+                        [
+                            315.0,
+                            148.0
+                        ],
+                        [
+                            80.0,
+                            148.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8649582266807556,
+                    "coordinate": [
+                        79,
+                        159,
+                        770,
+                        184
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            159.0
+                        ],
+                        [
+                            770.0,
+                            159.0
+                        ],
+                        [
+                            770.0,
+                            184.0
+                        ],
+                        [
+                            79.0,
+                            184.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.854658305644989,
+                    "coordinate": [
+                        91,
+                        196,
+                        649,
+                        220
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            196.0
+                        ],
+                        [
+                            649.0,
+                            196.0
+                        ],
+                        [
+                            649.0,
+                            220.0
+                        ],
+                        [
+                            91.0,
+                            220.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8485091328620911,
+                    "coordinate": [
+                        92,
+                        229,
+                        703,
+                        253
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            229.0
+                        ],
+                        [
+                            703.0,
+                            229.0
+                        ],
+                        [
+                            703.0,
+                            253.0
+                        ],
+                        [
+                            92.0,
+                            253.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8361491560935974,
+                    "coordinate": [
+                        92,
+                        261,
+                        682,
+                        284
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            261.0
+                        ],
+                        [
+                            682.0,
+                            261.0
+                        ],
+                        [
+                            682.0,
+                            284.0
+                        ],
+                        [
+                            92.0,
+                            284.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9246870279312134,
+                    "coordinate": [
+                        79,
+                        298,
+                        772,
+                        350
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            298.0
+                        ],
+                        [
+                            772.0,
+                            298.0
+                        ],
+                        [
+                            772.0,
+                            350.0
+                        ],
+                        [
+                            79.0,
+                            350.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.866428554058075,
+                    "coordinate": [
+                        80,
+                        373,
+                        219,
+                        409
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            373.0
+                        ],
+                        [
+                            219.0,
+                            373.0
+                        ],
+                        [
+                            219.0,
+                            409.0
+                        ],
+                        [
+                            80.0,
+                            409.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9561145901679993,
+                    "coordinate": [
+                        78,
+                        421,
+                        772,
+                        576
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            421.0
+                        ],
+                        [
+                            772.0,
+                            421.0
+                        ],
+                        [
+                            772.0,
+                            576.0
+                        ],
+                        [
+                            78.0,
+                            576.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8730389475822449,
+                    "coordinate": [
+                        79,
+                        614,
+                        402,
+                        645
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            614.0
+                        ],
+                        [
+                            402.0,
+                            614.0
+                        ],
+                        [
+                            402.0,
+                            645.0
+                        ],
+                        [
+                            79.0,
+                            645.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8082852363586426,
+                    "coordinate": [
+                        80,
+                        655,
+                        299,
+                        679
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            655.0
+                        ],
+                        [
+                            299.0,
+                            655.0
+                        ],
+                        [
+                            299.0,
+                            679.0
+                        ],
+                        [
+                            80.0,
+                            679.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8693574070930481,
+                    "coordinate": [
+                        79,
+                        706,
+                        259,
+                        739
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            706.0
+                        ],
+                        [
+                            259.0,
+                            706.0
+                        ],
+                        [
+                            259.0,
+                            739.0
+                        ],
+                        [
+                            79.0,
+                            739.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9625779390335083,
+                    "coordinate": [
+                        78,
+                        747,
+                        773,
+                        928
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            747.0
+                        ],
+                        [
+                            773.0,
+                            747.0
+                        ],
+                        [
+                            773.0,
+                            928.0
+                        ],
+                        [
+                            78.0,
+                            928.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9525830149650574,
+                    "coordinate": [
+                        79,
+                        929,
+                        772,
+                        1032
+                    ],
+                    "order": 13,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            929.0
+                        ],
+                        [
+                            772.0,
+                            929.0
+                        ],
+                        [
+                            772.0,
+                            1032.0
+                        ],
+                        [
+                            79.0,
+                            1032.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9541715979576111,
+                    "coordinate": [
+                        92,
+                        1045,
+                        773,
+                        1148
+                    ],
+                    "order": 14,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            1045.0
+                        ],
+                        [
+                            773.0,
+                            1045.0
+                        ],
+                        [
+                            773.0,
+                            1148.0
+                        ],
+                        [
+                            92.0,
+                            1148.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

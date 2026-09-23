@@ -1,0 +1,1296 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\134.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Lesson 8 Concision",
+            "block_bbox": [
+                546,
+                70,
+                697,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    546.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    89.0
+                ],
+                [
+                    546.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "123",
+            "block_bbox": [
+                736,
+                69,
+                770,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    736.0,
+                    69.0
+                ],
+                [
+                    769.0,
+                    69.0
+                ],
+                [
+                    769.0,
+                    87.0
+                ],
+                [
+                    736.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Exercise 8.4 In Your Own Words",
+            "block_bbox": [
+                118,
+                138,
+                579,
+                170
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    118.0,
+                    138.0
+                ],
+                [
+                    579.0,
+                    138.0
+                ],
+                [
+                    579.0,
+                    170.0
+                ],
+                [
+                    118.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Revise a passage from a published source, using as a model our revision of the passage from Strunk and White's The Elements of Style (pp. 121–122). Pick a long paragraph or section (about 200 words). Now, shorten it to about 150 words, 100 words, 50 words. What does that passage gain or lose with each of these revisions? Now do the same with a passage from your own writing.",
+            "block_bbox": [
+                116,
+                184,
+                772,
+                304
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    116.0,
+                    184.0
+                ],
+                [
+                    772.0,
+                    184.0
+                ],
+                [
+                    772.0,
+                    304.0
+                ],
+                [
+                    116.0,
+                    304.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Exercise 8.5 In Your Own Words",
+            "block_bbox": [
+                118,
+                330,
+                579,
+                362
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    118.0,
+                    330.0
+                ],
+                [
+                    579.0,
+                    330.0
+                ],
+                [
+                    579.0,
+                    362.0
+                ],
+                [
+                    118.0,
+                    362.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Every piece of writing needs some metadiscourse, but too much buries your ideas. Have a reader go through several pages of your writing and highlight all the metadiscourse. With your reader, address the following questions: Which instances of metadiscourse are useful, and which are unnecessary? Are there places without metadiscourse where some would be helpful? Revise as necessary.",
+            "block_bbox": [
+                116,
+                376,
+                772,
+                496
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    116.0,
+                    376.0
+                ],
+                [
+                    772.0,
+                    376.0
+                ],
+                [
+                    772.0,
+                    496.0
+                ],
+                [
+                    116.0,
+                    496.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Summing Up",
+            "block_bbox": [
+                80,
+                549,
+                254,
+                583
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    549.0
+                ],
+                [
+                    254.0,
+                    549.0
+                ],
+                [
+                    254.0,
+                    583.0
+                ],
+                [
+                    80.0,
+                    583.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "You need more than concision to guarantee grace, but when you clear away deadwood, you can see the shape of a sentence more clearly.",
+            "block_bbox": [
+                80,
+                593,
+                770,
+                644
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    593.0
+                ],
+                [
+                    770.0,
+                    593.0
+                ],
+                [
+                    770.0,
+                    644.0
+                ],
+                [
+                    80.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "1. Meaningless words",
+            "block_bbox": [
+                82,
+                652,
+                276,
+                675
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    82.0,
+                    652.0
+                ],
+                [
+                    276.0,
+                    652.0
+                ],
+                [
+                    276.0,
+                    675.0
+                ],
+                [
+                    82.0,
+                    675.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Some polling sites reported various problems of a technical nature, but these did not really affect the election's actual result.",
+            "block_bbox": [
+                112,
+                685,
+                742,
+                735
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    112.0,
+                    685.0
+                ],
+                [
+                    742.0,
+                    685.0
+                ],
+                [
+                    742.0,
+                    735.0
+                ],
+                [
+                    112.0,
+                    735.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ Some polling sites reported technical problems, but these did not affect the election's result.",
+            "block_bbox": [
+                93,
+                752,
+                740,
+                799
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    752.0
+                ],
+                [
+                    740.0,
+                    752.0
+                ],
+                [
+                    740.0,
+                    799.0
+                ],
+                [
+                    93.0,
+                    799.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "2. Redundant pairs",
+            "block_bbox": [
+                80,
+                818,
+                253,
+                843
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    818.0
+                ],
+                [
+                    253.0,
+                    818.0
+                ],
+                [
+                    253.0,
+                    843.0
+                ],
+                [
+                    80.0,
+                    843.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "If and when we can define our final aims and goals, each and every member of our group will be ready and willing to offer aid and assistance.",
+            "block_bbox": [
+                114,
+                852,
+                743,
+                902
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    852.0
+                ],
+                [
+                    743.0,
+                    852.0
+                ],
+                [
+                    743.0,
+                    902.0
+                ],
+                [
+                    114.0,
+                    902.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ If we define our goals, we will all be ready to help.",
+            "block_bbox": [
+                93,
+                919,
+                504,
+                944
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13,
+            "global_block_id": 13,
+            "global_group_id": 13,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    919.0
+                ],
+                [
+                    504.0,
+                    919.0
+                ],
+                [
+                    504.0,
+                    944.0
+                ],
+                [
+                    93.0,
+                    944.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "3. Redundant modifiers",
+            "block_bbox": [
+                80,
+                960,
+                292,
+                984
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14,
+            "global_block_id": 14,
+            "global_group_id": 14,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    960.0
+                ],
+                [
+                    292.0,
+                    960.0
+                ],
+                [
+                    292.0,
+                    984.0
+                ],
+                [
+                    80.0,
+                    984.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "In the business world of today, official governmental red tape seriously destroys initiative among individual businesses.",
+            "block_bbox": [
+                113,
+                994,
+                741,
+                1043
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15,
+            "global_block_id": 15,
+            "global_group_id": 15,
+            "block_polygon_points": [
+                [
+                    113.0,
+                    994.0
+                ],
+                [
+                    741.0,
+                    994.0
+                ],
+                [
+                    741.0,
+                    1043.0
+                ],
+                [
+                    113.0,
+                    1043.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ Government red tape destroys business initiative.",
+            "block_bbox": [
+                93,
+                1061,
+                500,
+                1085
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16,
+            "global_block_id": 16,
+            "global_group_id": 16,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    1061.0
+                ],
+                [
+                    500.0,
+                    1061.0
+                ],
+                [
+                    500.0,
+                    1085.0
+                ],
+                [
+                    93.0,
+                    1085.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "4. Redundant categories",
+            "block_bbox": [
+                80,
+                1103,
+                295,
+                1127
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17,
+            "global_block_id": 17,
+            "global_group_id": 17,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    1103.0
+                ],
+                [
+                    295.0,
+                    1103.0
+                ],
+                [
+                    295.0,
+                    1127.0
+                ],
+                [
+                    80.0,
+                    1127.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "In the area of education, tight financial conditions are forcing school boards to cut nonessential expenses.",
+            "block_bbox": [
+                114,
+                1137,
+                741,
+                1184
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18,
+            "global_block_id": 18,
+            "global_group_id": 18,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    1137.0
+                ],
+                [
+                    741.0,
+                    1137.0
+                ],
+                [
+                    741.0,
+                    1184.0
+                ],
+                [
+                    114.0,
+                    1184.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ Tight finances are forcing school boards to cut nonessentials.",
+            "block_bbox": [
+                93,
+                1203,
+                585,
+                1227
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19,
+            "global_block_id": 19,
+            "global_group_id": 19,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    1203.0
+                ],
+                [
+                    585.0,
+                    1203.0
+                ],
+                [
+                    585.0,
+                    1227.0
+                ],
+                [
+                    93.0,
+                    1227.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.866051435470581,
+                    "coordinate": [
+                        546,
+                        70,
+                        697,
+                        90
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            546.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            89.0
+                        ],
+                        [
+                            546.0,
+                            89.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.799420177936554,
+                    "coordinate": [
+                        736,
+                        69,
+                        770,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            736.0,
+                            69.0
+                        ],
+                        [
+                            769.0,
+                            69.0
+                        ],
+                        [
+                            769.0,
+                            87.0
+                        ],
+                        [
+                            736.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.9036369323730469,
+                    "coordinate": [
+                        118,
+                        138,
+                        579,
+                        170
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            118.0,
+                            138.0
+                        ],
+                        [
+                            579.0,
+                            138.0
+                        ],
+                        [
+                            579.0,
+                            170.0
+                        ],
+                        [
+                            118.0,
+                            170.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.951700747013092,
+                    "coordinate": [
+                        116,
+                        184,
+                        772,
+                        304
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            116.0,
+                            184.0
+                        ],
+                        [
+                            772.0,
+                            184.0
+                        ],
+                        [
+                            772.0,
+                            304.0
+                        ],
+                        [
+                            116.0,
+                            304.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8845590949058533,
+                    "coordinate": [
+                        118,
+                        330,
+                        579,
+                        362
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            118.0,
+                            330.0
+                        ],
+                        [
+                            579.0,
+                            330.0
+                        ],
+                        [
+                            579.0,
+                            362.0
+                        ],
+                        [
+                            118.0,
+                            362.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.947300136089325,
+                    "coordinate": [
+                        116,
+                        376,
+                        772,
+                        496
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            116.0,
+                            376.0
+                        ],
+                        [
+                            772.0,
+                            376.0
+                        ],
+                        [
+                            772.0,
+                            496.0
+                        ],
+                        [
+                            116.0,
+                            496.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8925247192382812,
+                    "coordinate": [
+                        80,
+                        549,
+                        254,
+                        583
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            549.0
+                        ],
+                        [
+                            254.0,
+                            549.0
+                        ],
+                        [
+                            254.0,
+                            583.0
+                        ],
+                        [
+                            80.0,
+                            583.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.927434504032135,
+                    "coordinate": [
+                        80,
+                        593,
+                        770,
+                        644
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            593.0
+                        ],
+                        [
+                            770.0,
+                            593.0
+                        ],
+                        [
+                            770.0,
+                            644.0
+                        ],
+                        [
+                            80.0,
+                            644.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8695420622825623,
+                    "coordinate": [
+                        82,
+                        652,
+                        276,
+                        675
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            82.0,
+                            652.0
+                        ],
+                        [
+                            276.0,
+                            652.0
+                        ],
+                        [
+                            276.0,
+                            675.0
+                        ],
+                        [
+                            82.0,
+                            675.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9093295931816101,
+                    "coordinate": [
+                        112,
+                        685,
+                        742,
+                        735
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            112.0,
+                            685.0
+                        ],
+                        [
+                            742.0,
+                            685.0
+                        ],
+                        [
+                            742.0,
+                            735.0
+                        ],
+                        [
+                            112.0,
+                            735.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9166857600212097,
+                    "coordinate": [
+                        93,
+                        752,
+                        740,
+                        799
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            752.0
+                        ],
+                        [
+                            740.0,
+                            752.0
+                        ],
+                        [
+                            740.0,
+                            799.0
+                        ],
+                        [
+                            93.0,
+                            799.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8706502318382263,
+                    "coordinate": [
+                        80,
+                        818,
+                        253,
+                        843
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            818.0
+                        ],
+                        [
+                            253.0,
+                            818.0
+                        ],
+                        [
+                            253.0,
+                            843.0
+                        ],
+                        [
+                            80.0,
+                            843.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9226170778274536,
+                    "coordinate": [
+                        114,
+                        852,
+                        743,
+                        902
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            114.0,
+                            852.0
+                        ],
+                        [
+                            743.0,
+                            852.0
+                        ],
+                        [
+                            743.0,
+                            902.0
+                        ],
+                        [
+                            114.0,
+                            902.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8572549223899841,
+                    "coordinate": [
+                        93,
+                        919,
+                        504,
+                        944
+                    ],
+                    "order": 13,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            919.0
+                        ],
+                        [
+                            504.0,
+                            919.0
+                        ],
+                        [
+                            504.0,
+                            944.0
+                        ],
+                        [
+                            93.0,
+                            944.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8771056532859802,
+                    "coordinate": [
+                        80,
+                        960,
+                        292,
+                        984
+                    ],
+                    "order": 14,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            960.0
+                        ],
+                        [
+                            292.0,
+                            960.0
+                        ],
+                        [
+                            292.0,
+                            984.0
+                        ],
+                        [
+                            80.0,
+                            984.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9330496191978455,
+                    "coordinate": [
+                        113,
+                        994,
+                        741,
+                        1043
+                    ],
+                    "order": 15,
+                    "polygon_points": [
+                        [
+                            113.0,
+                            994.0
+                        ],
+                        [
+                            741.0,
+                            994.0
+                        ],
+                        [
+                            741.0,
+                            1043.0
+                        ],
+                        [
+                            113.0,
+                            1043.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8646838665008545,
+                    "coordinate": [
+                        93,
+                        1061,
+                        500,
+                        1085
+                    ],
+                    "order": 16,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            1061.0
+                        ],
+                        [
+                            500.0,
+                            1061.0
+                        ],
+                        [
+                            500.0,
+                            1085.0
+                        ],
+                        [
+                            93.0,
+                            1085.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.861459493637085,
+                    "coordinate": [
+                        80,
+                        1103,
+                        295,
+                        1127
+                    ],
+                    "order": 17,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            1103.0
+                        ],
+                        [
+                            295.0,
+                            1103.0
+                        ],
+                        [
+                            295.0,
+                            1127.0
+                        ],
+                        [
+                            80.0,
+                            1127.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9179294109344482,
+                    "coordinate": [
+                        114,
+                        1137,
+                        741,
+                        1184
+                    ],
+                    "order": 18,
+                    "polygon_points": [
+                        [
+                            114.0,
+                            1137.0
+                        ],
+                        [
+                            741.0,
+                            1137.0
+                        ],
+                        [
+                            741.0,
+                            1184.0
+                        ],
+                        [
+                            114.0,
+                            1184.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8683570623397827,
+                    "coordinate": [
+                        93,
+                        1203,
+                        585,
+                        1227
+                    ],
+                    "order": 19,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            1203.0
+                        ],
+                        [
+                            585.0,
+                            1203.0
+                        ],
+                        [
+                            585.0,
+                            1227.0
+                        ],
+                        [
+                            93.0,
+                            1227.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

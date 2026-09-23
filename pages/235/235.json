@@ -1,0 +1,759 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\235.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "224",
+            "block_bbox": [
+                93,
+                70,
+                128,
+                87
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    70.0
+                ],
+                [
+                    127.0,
+                    70.0
+                ],
+                [
+                    127.0,
+                    86.0
+                ],
+                [
+                    93.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "Acknowledgments",
+            "block_bbox": [
+                164,
+                70,
+                303,
+                90
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    164.0,
+                    70.0
+                ],
+                [
+                    302.0,
+                    70.0
+                ],
+                [
+                    302.0,
+                    89.0
+                ],
+                [
+                    164.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chapter 6: Page 98: Dewey, John, How We Think. 1910.",
+            "block_bbox": [
+                91,
+                117,
+                549,
+                142
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    117.0
+                ],
+                [
+                    549.0,
+                    117.0
+                ],
+                [
+                    549.0,
+                    142.0
+                ],
+                [
+                    91.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chapter 7: Page 100: Marquez, Gabriel Garcia interviewed by Peter H. Stone; published as “Gabriel Garcia Marquez, The Art of Fiction,” No. 69, The Paris Review, Winter 1981, No. 82.",
+            "block_bbox": [
+                92,
+                155,
+                781,
+                229
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    155.0
+                ],
+                [
+                    781.0,
+                    155.0
+                ],
+                [
+                    781.0,
+                    229.0
+                ],
+                [
+                    92.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chapter 8: Page 112: Pearson, Hesketh, George Bernard Shaw: His Life and Personality. London: Collins, 1942; Tannen, Deborah, The Argument Culture. Ballantine Books, 1999; Watson, J. D. and F. H. C. Crick, “Molecular Structure of Nucleic Acids,” Nature, 171, April 25, 1953; Strunk, William, and E.B. White, The Elements of Style, 3rd Ed., © 1979. Reprinted and Electronically reproduced by permission of Pearson Education, Inc., New York, NY.",
+            "block_bbox": [
+                91,
+                245,
+                784,
+                398
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    245.0
+                ],
+                [
+                    784.0,
+                    245.0
+                ],
+                [
+                    784.0,
+                    398.0
+                ],
+                [
+                    91.0,
+                    398.0
+                ]
+            ]
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chapter 9: Page 125: Stein, Gertrude, Lectures in America. Beacon Press, 1935; Hoffman, Eva, \"Minor Art Offers Special Pleasures,\" New York Times, February 27, 1983.",
+            "block_bbox": [
+                91,
+                412,
+                781,
+                463
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    412.0
+                ],
+                [
+                    781.0,
+                    412.0
+                ],
+                [
+                    781.0,
+                    463.0
+                ],
+                [
+                    91.0,
+                    463.0
+                ]
+            ]
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chapter 10: Page 145: Editorial Board, \"Little League's Scapegoats.\" The Washington Post, 12 Feb 2015; Gibbon, Edward, History of the Decline and Fall of the Roman Empire. 1776–1789; Gay, Peter, Style in History. New York: W. W. Norton & Co., 1974; Fallows, James, Breaking the News. New York, NY: Pantheon, 1996; Oates, Joyce Carol, \"New Heaven and New Earth,\" Saturday Review, Nov. 4, 1972, 51–54; reprinted in Arts and Society, Spring-Summer 1973, 36–43; Wollstonecraft, Mary. Letters Written During a Short Residence in Sweden, Norway, and Denmark. 1796; Sandel, Michael J., Justice: What's the Right Thing To Do? Farrar, Straus and Giroux. 2010.",
+            "block_bbox": [
+                91,
+                476,
+                781,
+                708
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    476.0
+                ],
+                [
+                    781.0,
+                    476.0
+                ],
+                [
+                    781.0,
+                    708.0
+                ],
+                [
+                    91.0,
+                    708.0
+                ]
+            ]
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chapter 11: Page 159: Russell, Bertrand, “On Scientific Method in Philosophy.” Clarendon Press, 1914; Ochs, E., and B. Schieffelin, “Planned and Unplanned Discourse,” Syntax and Semantics, vol. 12: Discourse and Syntax, ed. by T. Givon. New York: Academic Press, 1979; Newspaper advertisement copy, Sears, 1992; Bhabha, Homi K., The Location of Culture. Routledge, 1994; Wittgenstein, Ludwig, Tractatus Logico-Philosophicus (proposition 4.116).” Translated by C. K. Ogden, 1922; Aronowitz, Stanley, and Henry Giroux, Postmodern Education. University of Minnesota Press, 1991.",
+            "block_bbox": [
+                91,
+                722,
+                783,
+                928
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    722.0
+                ],
+                [
+                    783.0,
+                    722.0
+                ],
+                [
+                    783.0,
+                    928.0
+                ],
+                [
+                    91.0,
+                    928.0
+                ]
+            ]
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Chapter 12: Pages 173, 179: Whitehead, Alfred North, \"The Aims of Education.\" New York: Macmillan Co., Free Press edition, 1967.",
+            "block_bbox": [
+                91,
+                943,
+                781,
+                993
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    943.0
+                ],
+                [
+                    781.0,
+                    943.0
+                ],
+                [
+                    781.0,
+                    993.0
+                ],
+                [
+                    91.0,
+                    993.0
+                ]
+            ]
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Appendix I: Page 180: Stein, Gertrude, Lectures in America. Beacon Press, 1935; Twain, Mark. Harper's Bazaar, XLIV, II8–II9. Feb., 1910.",
+            "block_bbox": [
+                92,
+                1007,
+                781,
+                1056
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    1007.0
+                ],
+                [
+                    781.0,
+                    1007.0
+                ],
+                [
+                    781.0,
+                    1056.0
+                ],
+                [
+                    92.0,
+                    1056.0
+                ]
+            ]
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "Appendix II: Page 197: Whitehead, Alfred North, \"The Aims of Education.\" New York: Macmillan Co., Free Press edition, 1967; Tannen, Deborah, The Argument Culture: Stopping America's War of Words. Ballantine Books, 1999.",
+            "block_bbox": [
+                92,
+                1070,
+                782,
+                1146
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    1070.0
+                ],
+                [
+                    782.0,
+                    1070.0
+                ],
+                [
+                    782.0,
+                    1146.0
+                ],
+                [
+                    92.0,
+                    1146.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.7733396887779236,
+                    "coordinate": [
+                        93,
+                        70,
+                        128,
+                        87
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            70.0
+                        ],
+                        [
+                            127.0,
+                            70.0
+                        ],
+                        [
+                            127.0,
+                            86.0
+                        ],
+                        [
+                            93.0,
+                            86.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8579731583595276,
+                    "coordinate": [
+                        164,
+                        70,
+                        303,
+                        90
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            164.0,
+                            70.0
+                        ],
+                        [
+                            302.0,
+                            70.0
+                        ],
+                        [
+                            302.0,
+                            89.0
+                        ],
+                        [
+                            164.0,
+                            89.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 18,
+                    "label": "reference",
+                    "score": 0.9452301859855652,
+                    "coordinate": [
+                        88,
+                        108,
+                        785,
+                        1146
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            88.0,
+                            108.0
+                        ],
+                        [
+                            785.0,
+                            108.0
+                        ],
+                        [
+                            785.0,
+                            1146.0
+                        ],
+                        [
+                            88.0,
+                            1146.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 19,
+                    "label": "reference_content",
+                    "score": 0.7689051032066345,
+                    "coordinate": [
+                        91,
+                        117,
+                        549,
+                        142
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            117.0
+                        ],
+                        [
+                            549.0,
+                            117.0
+                        ],
+                        [
+                            549.0,
+                            142.0
+                        ],
+                        [
+                            91.0,
+                            142.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 19,
+                    "label": "reference_content",
+                    "score": 0.9326271414756775,
+                    "coordinate": [
+                        92,
+                        155,
+                        781,
+                        229
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            155.0
+                        ],
+                        [
+                            781.0,
+                            155.0
+                        ],
+                        [
+                            781.0,
+                            229.0
+                        ],
+                        [
+                            92.0,
+                            229.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 19,
+                    "label": "reference_content",
+                    "score": 0.9357411861419678,
+                    "coordinate": [
+                        91,
+                        245,
+                        784,
+                        398
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            245.0
+                        ],
+                        [
+                            784.0,
+                            245.0
+                        ],
+                        [
+                            784.0,
+                            398.0
+                        ],
+                        [
+                            91.0,
+                            398.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 19,
+                    "label": "reference_content",
+                    "score": 0.8981296420097351,
+                    "coordinate": [
+                        91,
+                        412,
+                        781,
+                        463
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            412.0
+                        ],
+                        [
+                            781.0,
+                            412.0
+                        ],
+                        [
+                            781.0,
+                            463.0
+                        ],
+                        [
+                            91.0,
+                            463.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 19,
+                    "label": "reference_content",
+                    "score": 0.9476677179336548,
+                    "coordinate": [
+                        91,
+                        476,
+                        781,
+                        708
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            476.0
+                        ],
+                        [
+                            781.0,
+                            476.0
+                        ],
+                        [
+                            781.0,
+                            708.0
+                        ],
+                        [
+                            91.0,
+                            708.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 19,
+                    "label": "reference_content",
+                    "score": 0.9384143352508545,
+                    "coordinate": [
+                        91,
+                        722,
+                        783,
+                        928
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            722.0
+                        ],
+                        [
+                            783.0,
+                            722.0
+                        ],
+                        [
+                            783.0,
+                            928.0
+                        ],
+                        [
+                            91.0,
+                            928.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 19,
+                    "label": "reference_content",
+                    "score": 0.9051833152770996,
+                    "coordinate": [
+                        91,
+                        943,
+                        781,
+                        993
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            943.0
+                        ],
+                        [
+                            781.0,
+                            943.0
+                        ],
+                        [
+                            781.0,
+                            993.0
+                        ],
+                        [
+                            91.0,
+                            993.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 19,
+                    "label": "reference_content",
+                    "score": 0.9219630360603333,
+                    "coordinate": [
+                        92,
+                        1007,
+                        781,
+                        1056
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            1007.0
+                        ],
+                        [
+                            781.0,
+                            1007.0
+                        ],
+                        [
+                            781.0,
+                            1056.0
+                        ],
+                        [
+                            92.0,
+                            1056.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 19,
+                    "label": "reference_content",
+                    "score": 0.9225698113441467,
+                    "coordinate": [
+                        92,
+                        1070,
+                        782,
+                        1146
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            1070.0
+                        ],
+                        [
+                            782.0,
+                            1070.0
+                        ],
+                        [
+                            782.0,
+                            1146.0
+                        ],
+                        [
+                            92.0,
+                            1146.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

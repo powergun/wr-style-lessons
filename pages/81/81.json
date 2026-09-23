@@ -1,0 +1,666 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\81.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "70",
+            "block_bbox": [
+                94,
+                69,
+                118,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    94.0,
+                    69.0
+                ],
+                [
+                    117.0,
+                    69.0
+                ],
+                [
+                    117.0,
+                    87.0
+                ],
+                [
+                    94.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "Style: Lessons in Clarity and Grace",
+            "block_bbox": [
+                165,
+                70,
+                420,
+                91
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    165.0,
+                    70.0
+                ],
+                [
+                    419.0,
+                    70.0
+                ],
+                [
+                    419.0,
+                    90.0
+                ],
+                [
+                    165.0,
+                    90.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Writers can put familiar information and unfamiliar information anywhere in a sentence, but readers prefer to find each kind of information in a particular place. Just as readers prefer characters to align with subjects and actions with verbs, so they expect to find old, familiar information toward the beginning of a sentence, aligned with its topic, and new, unfamiliar information toward the end.",
+            "block_bbox": [
+                90,
+                117,
+                785,
+                244
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    117.0
+                ],
+                [
+                    785.0,
+                    117.0
+                ],
+                [
+                    785.0,
+                    244.0
+                ],
+                [
+                    90.0,
+                    244.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The principles from this lesson are these:",
+            "block_bbox": [
+                128,
+                247,
+                478,
+                271
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    128.0,
+                    247.0
+                ],
+                [
+                    478.0,
+                    247.0
+                ],
+                [
+                    478.0,
+                    271.0
+                ],
+                [
+                    128.0,
+                    271.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. Begin sentences with subjects or, sometimes, short introductory phrases that communicate old information, information that your readers are familiar with (boldfaced); give new, unfamiliar information (italicized) toward the ends of sentences:",
+            "block_bbox": [
+                92,
+                279,
+                784,
+                380
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    279.0
+                ],
+                [
+                    784.0,
+                    279.0
+                ],
+                [
+                    784.0,
+                    380.0
+                ],
+                [
+                    92.0,
+                    380.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Phytoplankton biomass in a local pond ecosystem was measured over five-years in our research project. An increase in the pond's energy productivity over this period was suggested by our measurements.",
+            "block_bbox": [
+                105,
+                391,
+                783,
+                464
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    105.0,
+                    391.0
+                ],
+                [
+                    783.0,
+                    391.0
+                ],
+                [
+                    783.0,
+                    464.0
+                ],
+                [
+                    105.0,
+                    464.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ Our research project was to measure phytoplankton biomass in a local pond ecosystem over five years. Our measurements suggest that the pond's energy productivity increased over this period.",
+            "block_bbox": [
+                97,
+                470,
+                784,
+                542
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    97.0,
+                    470.0
+                ],
+                [
+                    784.0,
+                    470.0
+                ],
+                [
+                    784.0,
+                    542.0
+                ],
+                [
+                    97.0,
+                    542.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. Through a series of sentences, keep your topics short and reasonably consistent:",
+            "block_bbox": [
+                92,
+                551,
+                777,
+                575
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    551.0
+                ],
+                [
+                    777.0,
+                    551.0
+                ],
+                [
+                    777.0,
+                    575.0
+                ],
+                [
+                    92.0,
+                    575.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The contrasting business models of nonprofit and for-profit institutions of higher education are examined in this study. Faculty costs and the use of online technologies in instruction are shown to be treated very differently between the two models. A proposal for blending both models to realize the benefits of each will be developed from this study.",
+            "block_bbox": [
+                98,
+                585,
+                784,
+                708
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    98.0,
+                    585.0
+                ],
+                [
+                    784.0,
+                    585.0
+                ],
+                [
+                    784.0,
+                    708.0
+                ],
+                [
+                    98.0,
+                    708.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ In this study, we examine the contrasting business models of nonprofit and for-profit institutions of higher education. The two models, we show, differ greatly in how they treat faculty costs and the use of online technologies in instruction. We will develop from this study a proposal for blending the benefits of both models to realize the benefits of each.",
+            "block_bbox": [
+                98,
+                714,
+                784,
+                836
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    98.0,
+                    714.0
+                ],
+                [
+                    784.0,
+                    714.0
+                ],
+                [
+                    784.0,
+                    836.0
+                ],
+                [
+                    98.0,
+                    836.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.74784255027771,
+                    "coordinate": [
+                        94,
+                        69,
+                        118,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            94.0,
+                            69.0
+                        ],
+                        [
+                            117.0,
+                            69.0
+                        ],
+                        [
+                            117.0,
+                            87.0
+                        ],
+                        [
+                            94.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8647471070289612,
+                    "coordinate": [
+                        165,
+                        70,
+                        420,
+                        91
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            165.0,
+                            70.0
+                        ],
+                        [
+                            419.0,
+                            70.0
+                        ],
+                        [
+                            419.0,
+                            90.0
+                        ],
+                        [
+                            165.0,
+                            90.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9491575360298157,
+                    "coordinate": [
+                        90,
+                        117,
+                        785,
+                        244
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            117.0
+                        ],
+                        [
+                            785.0,
+                            117.0
+                        ],
+                        [
+                            785.0,
+                            244.0
+                        ],
+                        [
+                            90.0,
+                            244.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8175869584083557,
+                    "coordinate": [
+                        128,
+                        247,
+                        478,
+                        271
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            128.0,
+                            247.0
+                        ],
+                        [
+                            478.0,
+                            247.0
+                        ],
+                        [
+                            478.0,
+                            271.0
+                        ],
+                        [
+                            128.0,
+                            271.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9452295899391174,
+                    "coordinate": [
+                        92,
+                        279,
+                        784,
+                        380
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            279.0
+                        ],
+                        [
+                            784.0,
+                            279.0
+                        ],
+                        [
+                            784.0,
+                            380.0
+                        ],
+                        [
+                            92.0,
+                            380.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9281327128410339,
+                    "coordinate": [
+                        105,
+                        391,
+                        783,
+                        464
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            105.0,
+                            391.0
+                        ],
+                        [
+                            783.0,
+                            391.0
+                        ],
+                        [
+                            783.0,
+                            464.0
+                        ],
+                        [
+                            105.0,
+                            464.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9310150146484375,
+                    "coordinate": [
+                        97,
+                        470,
+                        784,
+                        542
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            97.0,
+                            470.0
+                        ],
+                        [
+                            784.0,
+                            470.0
+                        ],
+                        [
+                            784.0,
+                            542.0
+                        ],
+                        [
+                            97.0,
+                            542.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8305776715278625,
+                    "coordinate": [
+                        92,
+                        551,
+                        777,
+                        575
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            551.0
+                        ],
+                        [
+                            777.0,
+                            551.0
+                        ],
+                        [
+                            777.0,
+                            575.0
+                        ],
+                        [
+                            92.0,
+                            575.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9478983283042908,
+                    "coordinate": [
+                        98,
+                        585,
+                        784,
+                        708
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            98.0,
+                            585.0
+                        ],
+                        [
+                            784.0,
+                            585.0
+                        ],
+                        [
+                            784.0,
+                            708.0
+                        ],
+                        [
+                            98.0,
+                            708.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.951070249080658,
+                    "coordinate": [
+                        98,
+                        714,
+                        784,
+                        836
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            98.0,
+                            714.0
+                        ],
+                        [
+                            784.0,
+                            714.0
+                        ],
+                        [
+                            784.0,
+                            836.0
+                        ],
+                        [
+                            98.0,
+                            836.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

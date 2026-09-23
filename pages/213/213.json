@@ -1,0 +1,666 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\213.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "202",
+            "block_bbox": [
+                94,
+                70,
+                128,
+                88
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    94.0,
+                    70.0
+                ],
+                [
+                    127.0,
+                    70.0
+                ],
+                [
+                    127.0,
+                    87.0
+                ],
+                [
+                    94.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "Style: Lessons in Clarity and Grace",
+            "block_bbox": [
+                165,
+                70,
+                421,
+                91
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    165.0,
+                    70.0
+                ],
+                [
+                    420.0,
+                    70.0
+                ],
+                [
+                    420.0,
+                    90.0
+                ],
+                [
+                    165.0,
+                    90.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "and practice. Our best advice is this: make your choice not to ease your anxieties but to enhance your argument.",
+            "block_bbox": [
+                114,
+                117,
+                782,
+                168
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    117.0
+                ],
+                [
+                    782.0,
+                    117.0
+                ],
+                [
+                    782.0,
+                    168.0
+                ],
+                [
+                    114.0,
+                    168.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. Include a source in proportion to the attention you want to give it. If a source is especially important to your thinking or if you discuss it in detail, include more of it; if you acknowledge it only in passing, include less of it.",
+            "block_bbox": [
+                91,
+                181,
+                784,
+                258
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    181.0
+                ],
+                [
+                    784.0,
+                    181.0
+                ],
+                [
+                    784.0,
+                    258.0
+                ],
+                [
+                    91.0,
+                    258.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. Include a source in proportion to your stance toward it. This principle is a matter of ethos, or the character you project as a writer (see p. 162). When you agree with a source, you can include it less prominently in your writing because readers assume you are representing it accurately and fairly. When you challenge a source, you need to include more of it to assure your readers that you are giving it its due. You cannot risk even the appearance that you are distorting a source's meaning to make it easier to question.",
+            "block_bbox": [
+                91,
+                271,
+                785,
+                452
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    271.0
+                ],
+                [
+                    785.0,
+                    271.0
+                ],
+                [
+                    785.0,
+                    452.0
+                ],
+                [
+                    91.0,
+                    452.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "How to Include a Source: Summary, Paraphrase, or Quotation?",
+            "block_bbox": [
+                91,
+                487,
+                767,
+                515
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    487.0
+                ],
+                [
+                    767.0,
+                    487.0
+                ],
+                [
+                    767.0,
+                    515.0
+                ],
+                [
+                    91.0,
+                    515.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Once you've decided how much of a source to include, you have to choose how you will include it. You can summarize, paraphrase, or quote. To summarize is to briefly present a source's main points in your own words; to paraphrase is to recast a specific passage from a source in your own words; to quote is to repeat words from a source exactly. A good rule of thumb is to quote only when you need a source's exact words; otherwise, summarize or paraphrase. Here, in detail, are your options.",
+            "block_bbox": [
+                89,
+                524,
+                785,
+                679
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    89.0,
+                    524.0
+                ],
+                [
+                    785.0,
+                    524.0
+                ],
+                [
+                    785.0,
+                    679.0
+                ],
+                [
+                    89.0,
+                    679.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Summarize. You can summarize a whole source, a section of it, or even an aspect of it. Use summary to give your readers a general understanding of what a source says; do not rely on summary to communicate the details of a source's argument or if you want to use a source as evidence (for example, if you want to discuss a passage from a novel, or if you want to analyze data from a research report). Summaries can vary in length from a single clause or sentence to several paragraphs. How long a summary should be depends on how you want to use it. Choose in light of the three principles above.",
+            "block_bbox": [
+                89,
+                691,
+                785,
+                898
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    89.0,
+                    691.0
+                ],
+                [
+                    785.0,
+                    691.0
+                ],
+                [
+                    785.0,
+                    898.0
+                ],
+                [
+                    89.0,
+                    898.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "When you summarize, you ask your readers to trust that you are representing your source accurately and fairly. Some novice writers are reluctant to accept this responsibility, either because they are unsure they fully understand their source or because they worry that in summarizing it they will distort it. These worries reflect important truths. Summarizing is difficult because it involves not just repeating or recasting passages from a source but distilling a sense of the whole. Nevertheless, because summary is fundamental to most forms of academic and professional writing, you must try.",
+            "block_bbox": [
+                89,
+                900,
+                785,
+                1106
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    89.0,
+                    900.0
+                ],
+                [
+                    785.0,
+                    900.0
+                ],
+                [
+                    785.0,
+                    1106.0
+                ],
+                [
+                    89.0,
+                    1106.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Strictly speaking, no summary can capture the exact meaning of the original source. Every decision about what to include or leave out is also an interpretation, a decision about what you understand a source to mean and about what you want it to mean for your readers. Skilled writers, however, see this situation not as an insurmountable problem but as an opportunity to shade a source, to emphasize",
+            "block_bbox": [
+                90,
+                1108,
+                784,
+                1236
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    1108.0
+                ],
+                [
+                    784.0,
+                    1108.0
+                ],
+                [
+                    784.0,
+                    1236.0
+                ],
+                [
+                    90.0,
+                    1236.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.7638541460037231,
+                    "coordinate": [
+                        94,
+                        70,
+                        128,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            94.0,
+                            70.0
+                        ],
+                        [
+                            127.0,
+                            70.0
+                        ],
+                        [
+                            127.0,
+                            87.0
+                        ],
+                        [
+                            94.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8632310032844543,
+                    "coordinate": [
+                        165,
+                        70,
+                        421,
+                        91
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            165.0,
+                            70.0
+                        ],
+                        [
+                            420.0,
+                            70.0
+                        ],
+                        [
+                            420.0,
+                            90.0
+                        ],
+                        [
+                            165.0,
+                            90.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9156740307807922,
+                    "coordinate": [
+                        114,
+                        117,
+                        782,
+                        168
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            114.0,
+                            117.0
+                        ],
+                        [
+                            782.0,
+                            117.0
+                        ],
+                        [
+                            782.0,
+                            168.0
+                        ],
+                        [
+                            114.0,
+                            168.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9366602301597595,
+                    "coordinate": [
+                        91,
+                        181,
+                        784,
+                        258
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            181.0
+                        ],
+                        [
+                            784.0,
+                            181.0
+                        ],
+                        [
+                            784.0,
+                            258.0
+                        ],
+                        [
+                            91.0,
+                            258.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9593037962913513,
+                    "coordinate": [
+                        91,
+                        271,
+                        785,
+                        452
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            271.0
+                        ],
+                        [
+                            785.0,
+                            271.0
+                        ],
+                        [
+                            785.0,
+                            452.0
+                        ],
+                        [
+                            91.0,
+                            452.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8787424564361572,
+                    "coordinate": [
+                        91,
+                        487,
+                        767,
+                        515
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            487.0
+                        ],
+                        [
+                            767.0,
+                            487.0
+                        ],
+                        [
+                            767.0,
+                            515.0
+                        ],
+                        [
+                            91.0,
+                            515.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9548614621162415,
+                    "coordinate": [
+                        89,
+                        524,
+                        785,
+                        679
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            89.0,
+                            524.0
+                        ],
+                        [
+                            785.0,
+                            524.0
+                        ],
+                        [
+                            785.0,
+                            679.0
+                        ],
+                        [
+                            89.0,
+                            679.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.965552568435669,
+                    "coordinate": [
+                        89,
+                        691,
+                        785,
+                        898
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            89.0,
+                            691.0
+                        ],
+                        [
+                            785.0,
+                            691.0
+                        ],
+                        [
+                            785.0,
+                            898.0
+                        ],
+                        [
+                            89.0,
+                            898.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9671931266784668,
+                    "coordinate": [
+                        89,
+                        900,
+                        785,
+                        1106
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            89.0,
+                            900.0
+                        ],
+                        [
+                            785.0,
+                            900.0
+                        ],
+                        [
+                            785.0,
+                            1106.0
+                        ],
+                        [
+                            89.0,
+                            1106.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9555078744888306,
+                    "coordinate": [
+                        90,
+                        1108,
+                        784,
+                        1236
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            1108.0
+                        ],
+                        [
+                            784.0,
+                            1108.0
+                        ],
+                        [
+                            784.0,
+                            1236.0
+                        ],
+                        [
+                            90.0,
+                            1236.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

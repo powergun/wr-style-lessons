@@ -1,0 +1,666 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\239.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "228",
+            "block_bbox": [
+                94,
+                69,
+                128,
+                87
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    94.0,
+                    69.0
+                ],
+                [
+                    127.0,
+                    69.0
+                ],
+                [
+                    127.0,
+                    86.0
+                ],
+                [
+                    94.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "Index",
+            "block_bbox": [
+                166,
+                71,
+                209,
+                89
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    166.0,
+                    71.0
+                ],
+                [
+                    208.0,
+                    71.0
+                ],
+                [
+                    208.0,
+                    88.0
+                ],
+                [
+                    166.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "M",
+            "block_bbox": [
+                94,
+                118,
+                122,
+                140
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    94.0,
+                    118.0
+                ],
+                [
+                    121.0,
+                    118.0
+                ],
+                [
+                    121.0,
+                    139.0
+                ],
+                [
+                    94.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "MacDonald, Dwight, 12\nMatthews, P.H., 51\nMcPeek, Bucknam, 51\nMeaning, complex, 72–73\nMetadiscourse, 51–52\nbeginning sentences, 66–67\nredundant, concision and, 118\nsources, 118\ntopic, 118\nMisdirection, 163–167\nMLA (Modern Language Association) style, 201\nModifiers\nambiguous, 141\ndangling, 141\nfree, 134\nredundant, 113\nresumptive, 132–133\nsummative, 133–134\nMonotony, alleged, 67–68\nMore, modifying, 15\nMosteller, Frederick, 51\nMuch vs. fulsome, 16",
+            "block_bbox": [
+                91,
+                140,
+                414,
+                540
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    140.0
+                ],
+                [
+                    414.0,
+                    140.0
+                ],
+                [
+                    414.0,
+                    540.0
+                ],
+                [
+                    91.0,
+                    540.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "N",
+            "block_bbox": [
+                94,
+                558,
+                117,
+                580
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    94.0,
+                    558.0
+                ],
+                [
+                    116.0,
+                    558.0
+                ],
+                [
+                    116.0,
+                    579.0
+                ],
+                [
+                    94.0,
+                    579.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Nathan, Andrew J., 51\nNegatives versus affirmative, 115–116\nNewton, Sir Isaac, 50\nNietzsche, Friedrich, 23\nNominalizations\ncentralization, 54–55\nempty verbs, 33–35\nThe fact that, 38\nobject, 38\nprepositions, 35\nrevisions, 33–35\nshort subject to previous sentence, 37–38\nuseful, 37–38\nNoncoordinate balance, 146–148\nNone, singular verb with, 13\nNonrestrictive clauses, 11\nNot only, 76\nNotetaking, sources and, 198–200\nNouns, compound noun phrases, 53–54",
+            "block_bbox": [
+                91,
+                581,
+                384,
+                927
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    581.0
+                ],
+                [
+                    384.0,
+                    581.0
+                ],
+                [
+                    384.0,
+                    927.0
+                ],
+                [
+                    91.0,
+                    927.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "O",
+            "block_bbox": [
+                94,
+                945,
+                116,
+                966
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    94.0,
+                    945.0
+                ],
+                [
+                    115.0,
+                    945.0
+                ],
+                [
+                    115.0,
+                    965.0
+                ],
+                [
+                    94.0,
+                    965.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Oates, Joyce Carol, 152\nObject, long openings, 128–130\nObscurity, unintended, 163\nOchs, E., 163\nOld before new, 60–62, 155\nOng, Walter, 9, 11\nOpenings, long\nobject, 128–130\nsubject, 127–128\nverb, 128–130\nOrganization, 104\nchronological order, 105\ncoordinate sections, 105\nlogic, 105",
+            "block_bbox": [
+                93,
+                968,
+                307,
+                1223
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    968.0
+                ],
+                [
+                    307.0,
+                    968.0
+                ],
+                [
+                    307.0,
+                    1223.0
+                ],
+                [
+                    93.0,
+                    1223.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "P",
+            "block_bbox": [
+                448,
+                117,
+                467,
+                140
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    448.0,
+                    117.0
+                ],
+                [
+                    466.0,
+                    117.0
+                ],
+                [
+                    466.0,
+                    139.0
+                ],
+                [
+                    448.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Paragraph coherence, 106–107\nParallelism, 136\nParaphrasing sources, 203\nParentheses, 186\nPassive verbs\nversus active, 48–49\ncharacters and, 47–49\nfirst-person subjects and, 50–51\nflow and, 59\nI/We and, 50–51\nPassives, emphasis and, 76\nPerfect as modifier, 15\nPeriod\nalone, 182\ncoordinating conjunction and, 184\nPhenomena vs. phenomenon, 16\nPhrases, concision and, 114–115\nPlagiarism, 171\nsources and, 197–198\nPlato, 85\nPlurals, 194\nPoint-first principle, 126–127\nPossessives, 194–195\nPractical problems, 89, 90–91\nPreludes, 92–94, 93\nPrepositions ending sentences, 12–13\nPrincipal vs. principle, 16\nProblems, 93\napplied, 91\nconceptual, 89, 90–91\ncondition, 89\nintolerable consequences, 89\nintroduction and, 86–87\npractical, 89, 90\nsituation, 89\nsolutions, 91–92, 93\nProceed vs. precede, 16\nProfessional voice, 55–56\nPronouns\nfirst-person plural, 18\nfuture of, 21\ngender and agreement, 17–18\ninclusive options, 18–20\nmasculine and feminine, 18\nnon-binary, 20–21\nsubstitution, emphasis, 77\nPunctuation\napostrophes, 194–195\ncolon, 185–186\ncommas, 183, 185\ncomplex sentences, 180–181\ncompound sentences, 180–181\nconjunctions, 183, 184\ncoordinated elements, 192–194\ncoordinating conjunction, 183, 184\ndash, 186\nend punctuation, 182–185\nexclamation point, 182\nfragments, intended, 186–187\ngrammatical sentences, 181–182",
+            "block_bbox": [
+                445,
+                142,
+                699,
+                1224
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    445.0,
+                    142.0
+                ],
+                [
+                    699.0,
+                    142.0
+                ],
+                [
+                    699.0,
+                    1224.0
+                ],
+                [
+                    445.0,
+                    1224.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.6607611775398254,
+                    "coordinate": [
+                        94,
+                        69,
+                        128,
+                        87
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            94.0,
+                            69.0
+                        ],
+                        [
+                            127.0,
+                            69.0
+                        ],
+                        [
+                            127.0,
+                            86.0
+                        ],
+                        [
+                            94.0,
+                            86.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.7992304563522339,
+                    "coordinate": [
+                        166,
+                        71,
+                        209,
+                        89
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            166.0,
+                            71.0
+                        ],
+                        [
+                            208.0,
+                            71.0
+                        ],
+                        [
+                            208.0,
+                            88.0
+                        ],
+                        [
+                            166.0,
+                            88.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.7854663729667664,
+                    "coordinate": [
+                        94,
+                        118,
+                        122,
+                        140
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            94.0,
+                            118.0
+                        ],
+                        [
+                            121.0,
+                            118.0
+                        ],
+                        [
+                            121.0,
+                            139.0
+                        ],
+                        [
+                            94.0,
+                            139.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9527196884155273,
+                    "coordinate": [
+                        91,
+                        140,
+                        414,
+                        540
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            140.0
+                        ],
+                        [
+                            414.0,
+                            140.0
+                        ],
+                        [
+                            414.0,
+                            540.0
+                        ],
+                        [
+                            91.0,
+                            540.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.772427499294281,
+                    "coordinate": [
+                        94,
+                        558,
+                        117,
+                        580
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            94.0,
+                            558.0
+                        ],
+                        [
+                            116.0,
+                            558.0
+                        ],
+                        [
+                            116.0,
+                            579.0
+                        ],
+                        [
+                            94.0,
+                            579.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9494687914848328,
+                    "coordinate": [
+                        91,
+                        581,
+                        384,
+                        927
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            581.0
+                        ],
+                        [
+                            384.0,
+                            581.0
+                        ],
+                        [
+                            384.0,
+                            927.0
+                        ],
+                        [
+                            91.0,
+                            927.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.7601625323295593,
+                    "coordinate": [
+                        94,
+                        945,
+                        116,
+                        966
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            94.0,
+                            945.0
+                        ],
+                        [
+                            115.0,
+                            945.0
+                        ],
+                        [
+                            115.0,
+                            965.0
+                        ],
+                        [
+                            94.0,
+                            965.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9469114542007446,
+                    "coordinate": [
+                        93,
+                        968,
+                        307,
+                        1223
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            968.0
+                        ],
+                        [
+                            307.0,
+                            968.0
+                        ],
+                        [
+                            307.0,
+                            1223.0
+                        ],
+                        [
+                            93.0,
+                            1223.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.7213034629821777,
+                    "coordinate": [
+                        448,
+                        117,
+                        467,
+                        140
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            448.0,
+                            117.0
+                        ],
+                        [
+                            466.0,
+                            117.0
+                        ],
+                        [
+                            466.0,
+                            139.0
+                        ],
+                        [
+                            448.0,
+                            139.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9581409096717834,
+                    "coordinate": [
+                        445,
+                        142,
+                        699,
+                        1224
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            445.0,
+                            142.0
+                        ],
+                        [
+                            699.0,
+                            142.0
+                        ],
+                        [
+                            699.0,
+                            1224.0
+                        ],
+                        [
+                            445.0,
+                            1224.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

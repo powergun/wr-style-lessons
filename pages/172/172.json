@@ -1,0 +1,981 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\172.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Lesson 11 The Ethics of Clarity",
+            "block_bbox": [
+                464,
+                70,
+                697,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    464.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    89.0
+                ],
+                [
+                    464.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "161",
+            "block_bbox": [
+                736,
+                69,
+                769,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    736.0,
+                    69.0
+                ],
+                [
+                    768.0,
+                    69.0
+                ],
+                [
+                    768.0,
+                    87.0
+                ],
+                [
+                    736.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "not impose it on others. We should strive for a style that is no simpler than our ideas require but also no more difficult than it has to be.",
+            "block_bbox": [
+                78,
+                117,
+                770,
+                166
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    117.0
+                ],
+                [
+                    770.0,
+                    117.0
+                ],
+                [
+                    770.0,
+                    166.0
+                ],
+                [
+                    78.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "This ideal is an ethical one and can be expressed in what we'll call the \"golden rule\" of style:",
+            "block_bbox": [
+                79,
+                169,
+                771,
+                220
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    169.0
+                ],
+                [
+                    771.0,
+                    169.0
+                ],
+                [
+                    771.0,
+                    220.0
+                ],
+                [
+                    79.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Write to others as you would have others write to you.",
+            "block_bbox": [
+                114,
+                232,
+                581,
+                256
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    232.0
+                ],
+                [
+                    581.0,
+                    232.0
+                ],
+                [
+                    581.0,
+                    256.0
+                ],
+                [
+                    114.0,
+                    256.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "We write most ethically when we would trade places with our intended readers and experience the consequences they do after they read our writing. Unfortunately, writers don't or can't always live up to that altruistic ideal. Some simply fall short; some give precedence to other values; some by choice or obligation favor other interests over those of their readers. It is up to us as readers to distinguish these circumstances and then to make ethical judgments.",
+            "block_bbox": [
+                78,
+                270,
+                772,
+                426
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    270.0
+                ],
+                [
+                    772.0,
+                    270.0
+                ],
+                [
+                    772.0,
+                    426.0
+                ],
+                [
+                    78.0,
+                    426.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Clarity and Other Values",
+            "block_bbox": [
+                79,
+                455,
+                396,
+                486
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    455.0
+                ],
+                [
+                    396.0,
+                    455.0
+                ],
+                [
+                    396.0,
+                    486.0
+                ],
+                [
+                    79.0,
+                    486.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "How should we judge writers who violate the golden rule of style because they favor some other value over their readers' interests? We began our first lesson by saying that correctness is an important good but not the highest one. We ended that lesson by showing you how to write in a gender-inclusive fashion while still writing \"correctly\" (see pp. 16–21). The issue is one of competing values. Here are three instances for you to consider.",
+            "block_bbox": [
+                78,
+                500,
+                772,
+                654
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    500.0
+                ],
+                [
+                    772.0,
+                    500.0
+                ],
+                [
+                    772.0,
+                    654.0
+                ],
+                [
+                    78.0,
+                    654.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Is it unethical for writers to persist in using gendered nouns such as comedienne or policeman when gender-inclusive alternatives such as comic or police officer are ready at hand? We could say that it is. By deliberately choosing not to use these alternatives, such writers risk violating our golden rule, for it is certainly plausible that some writers would object to having their genders gratuitously noted or ignored if they were in their readers' shoes. And it is hard to imagine what other value or commitment is at stake, other than a nostalgia for traditional gender roles.",
+            "block_bbox": [
+                78,
+                656,
+                772,
+                836
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    656.0
+                ],
+                [
+                    772.0,
+                    656.0
+                ],
+                [
+                    772.0,
+                    836.0
+                ],
+                [
+                    78.0,
+                    836.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "This case is slightly more complicated: what about writers who avoid using they with indefinite referents out of an allegiance to “correct” usage?",
+            "block_bbox": [
+                79,
+                838,
+                771,
+                888
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    838.0
+                ],
+                [
+                    771.0,
+                    838.0
+                ],
+                [
+                    771.0,
+                    888.0
+                ],
+                [
+                    79.0,
+                    888.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Anyone who wants a driver's license must have their eyes examined.",
+            "block_bbox": [
+                114,
+                901,
+                653,
+                924
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    901.0
+                ],
+                [
+                    653.0,
+                    901.0
+                ],
+                [
+                    653.0,
+                    924.0
+                ],
+                [
+                    114.0,
+                    924.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Anyone who wants a driver's license must have his eyes examined.",
+            "block_bbox": [
+                115,
+                927,
+                640,
+                950
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    115.0,
+                    927.0
+                ],
+                [
+                    640.0,
+                    927.0
+                ],
+                [
+                    640.0,
+                    950.0
+                ],
+                [
+                    115.0,
+                    950.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The first of those sentences is technically incorrect, at least in formal writing, but is the second unethical? It is easy to imagine it irritating some readers. Does the writer's allegiance to strict grammatical correctness override our golden rule of style?",
+            "block_bbox": [
+                79,
+                967,
+                772,
+                1044
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    967.0
+                ],
+                [
+                    772.0,
+                    967.0
+                ],
+                [
+                    772.0,
+                    1044.0
+                ],
+                [
+                    79.0,
+                    1044.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The sentences in that last example are general ones: addressed to no one in particular, they merely state a requirement that applies to all. But what about sentences that concern specific individuals who identify as non-binary? Here again is the example we used in Lesson 1:",
+            "block_bbox": [
+                78,
+                1046,
+                772,
+                1148
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13,
+            "global_block_id": 13,
+            "global_group_id": 13,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    1046.0
+                ],
+                [
+                    772.0,
+                    1046.0
+                ],
+                [
+                    772.0,
+                    1148.0
+                ],
+                [
+                    78.0,
+                    1148.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ Casey informed their teacher that they preferred neither of the traditional third-person singular pronouns.",
+            "block_bbox": [
+                86,
+                1161,
+                741,
+                1211
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14,
+            "global_block_id": 14,
+            "global_group_id": 14,
+            "block_polygon_points": [
+                [
+                    86.0,
+                    1161.0
+                ],
+                [
+                    741.0,
+                    1161.0
+                ],
+                [
+                    741.0,
+                    1211.0
+                ],
+                [
+                    86.0,
+                    1211.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.885539710521698,
+                    "coordinate": [
+                        464,
+                        70,
+                        697,
+                        90
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            464.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            89.0
+                        ],
+                        [
+                            464.0,
+                            89.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.8074456453323364,
+                    "coordinate": [
+                        736,
+                        69,
+                        769,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            736.0,
+                            69.0
+                        ],
+                        [
+                            768.0,
+                            69.0
+                        ],
+                        [
+                            768.0,
+                            87.0
+                        ],
+                        [
+                            736.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9265519976615906,
+                    "coordinate": [
+                        78,
+                        117,
+                        770,
+                        166
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            117.0
+                        ],
+                        [
+                            770.0,
+                            117.0
+                        ],
+                        [
+                            770.0,
+                            166.0
+                        ],
+                        [
+                            78.0,
+                            166.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9213507175445557,
+                    "coordinate": [
+                        79,
+                        169,
+                        771,
+                        220
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            169.0
+                        ],
+                        [
+                            771.0,
+                            169.0
+                        ],
+                        [
+                            771.0,
+                            220.0
+                        ],
+                        [
+                            79.0,
+                            220.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8434004187583923,
+                    "coordinate": [
+                        114,
+                        232,
+                        581,
+                        256
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            114.0,
+                            232.0
+                        ],
+                        [
+                            581.0,
+                            232.0
+                        ],
+                        [
+                            581.0,
+                            256.0
+                        ],
+                        [
+                            114.0,
+                            256.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9600985050201416,
+                    "coordinate": [
+                        78,
+                        270,
+                        772,
+                        426
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            270.0
+                        ],
+                        [
+                            772.0,
+                            270.0
+                        ],
+                        [
+                            772.0,
+                            426.0
+                        ],
+                        [
+                            78.0,
+                            426.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8870172500610352,
+                    "coordinate": [
+                        79,
+                        455,
+                        396,
+                        486
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            455.0
+                        ],
+                        [
+                            396.0,
+                            455.0
+                        ],
+                        [
+                            396.0,
+                            486.0
+                        ],
+                        [
+                            79.0,
+                            486.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9623008966445923,
+                    "coordinate": [
+                        78,
+                        500,
+                        772,
+                        654
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            500.0
+                        ],
+                        [
+                            772.0,
+                            500.0
+                        ],
+                        [
+                            772.0,
+                            654.0
+                        ],
+                        [
+                            78.0,
+                            654.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9604158401489258,
+                    "coordinate": [
+                        78,
+                        656,
+                        772,
+                        836
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            656.0
+                        ],
+                        [
+                            772.0,
+                            656.0
+                        ],
+                        [
+                            772.0,
+                            836.0
+                        ],
+                        [
+                            78.0,
+                            836.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9128246903419495,
+                    "coordinate": [
+                        79,
+                        838,
+                        771,
+                        888
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            838.0
+                        ],
+                        [
+                            771.0,
+                            838.0
+                        ],
+                        [
+                            771.0,
+                            888.0
+                        ],
+                        [
+                            79.0,
+                            888.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.714136004447937,
+                    "coordinate": [
+                        114,
+                        901,
+                        653,
+                        924
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            114.0,
+                            901.0
+                        ],
+                        [
+                            653.0,
+                            901.0
+                        ],
+                        [
+                            653.0,
+                            924.0
+                        ],
+                        [
+                            114.0,
+                            924.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.7142699956893921,
+                    "coordinate": [
+                        115,
+                        927,
+                        640,
+                        950
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            115.0,
+                            927.0
+                        ],
+                        [
+                            640.0,
+                            927.0
+                        ],
+                        [
+                            640.0,
+                            950.0
+                        ],
+                        [
+                            115.0,
+                            950.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9530158042907715,
+                    "coordinate": [
+                        79,
+                        967,
+                        772,
+                        1044
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            967.0
+                        ],
+                        [
+                            772.0,
+                            967.0
+                        ],
+                        [
+                            772.0,
+                            1044.0
+                        ],
+                        [
+                            79.0,
+                            1044.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9541047215461731,
+                    "coordinate": [
+                        78,
+                        1046,
+                        772,
+                        1148
+                    ],
+                    "order": 13,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            1046.0
+                        ],
+                        [
+                            772.0,
+                            1046.0
+                        ],
+                        [
+                            772.0,
+                            1148.0
+                        ],
+                        [
+                            78.0,
+                            1148.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8586763143539429,
+                    "coordinate": [
+                        86,
+                        1161,
+                        741,
+                        1211
+                    ],
+                    "order": 14,
+                    "polygon_points": [
+                        [
+                            86.0,
+                            1161.0
+                        ],
+                        [
+                            741.0,
+                            1161.0
+                        ],
+                        [
+                            741.0,
+                            1211.0
+                        ],
+                        [
+                            86.0,
+                            1211.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

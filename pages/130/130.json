@@ -1,0 +1,1296 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\130.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Lesson 8 Concision",
+            "block_bbox": [
+                545,
+                70,
+                697,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    545.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    89.0
+                ],
+                [
+                    545.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "119",
+            "block_bbox": [
+                736,
+                69,
+                770,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    736.0,
+                    69.0
+                ],
+                [
+                    769.0,
+                    69.0
+                ],
+                [
+                    769.0,
+                    87.0
+                ],
+                [
+                    736.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "well you balance caution and confidence and therefore influence how readers judge your character.",
+            "block_bbox": [
+                78,
+                117,
+                771,
+                168
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    117.0
+                ],
+                [
+                    771.0,
+                    117.0
+                ],
+                [
+                    771.0,
+                    168.0
+                ],
+                [
+                    78.0,
+                    168.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Hedges",
+            "block_bbox": [
+                80,
+                188,
+                169,
+                216
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    188.0
+                ],
+                [
+                    169.0,
+                    188.0
+                ],
+                [
+                    169.0,
+                    216.0
+                ],
+                [
+                    80.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "These are common hedges:",
+            "block_bbox": [
+                79,
+                223,
+                314,
+                246
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    223.0
+                ],
+                [
+                    314.0,
+                    223.0
+                ],
+                [
+                    314.0,
+                    246.0
+                ],
+                [
+                    79.0,
+                    246.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Adverbs usually, often, sometimes, almost, virtually, possibly, allegedly, arguably, perhaps, apparently, in some ways, to a certain extent, somewhat, in some/certain respects",
+            "block_bbox": [
+                114,
+                261,
+                751,
+                335
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    261.0
+                ],
+                [
+                    751.0,
+                    261.0
+                ],
+                [
+                    751.0,
+                    335.0
+                ],
+                [
+                    114.0,
+                    335.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Adjectives most, many, some, a certain number of",
+            "block_bbox": [
+                115,
+                342,
+                567,
+                365
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    115.0,
+                    342.0
+                ],
+                [
+                    567.0,
+                    342.0
+                ],
+                [
+                    567.0,
+                    365.0
+                ],
+                [
+                    115.0,
+                    365.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Verbs may, might, can, could, seem, tend, appear, suggest, indicate",
+            "block_bbox": [
+                115,
+                371,
+                747,
+                396
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    115.0,
+                    371.0
+                ],
+                [
+                    747.0,
+                    371.0
+                ],
+                [
+                    747.0,
+                    396.0
+                ],
+                [
+                    115.0,
+                    396.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Too much hedging sounds mealy-mouthed, like this:",
+            "block_bbox": [
+                80,
+                411,
+                530,
+                436
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    411.0
+                ],
+                [
+                    530.0,
+                    411.0
+                ],
+                [
+                    530.0,
+                    436.0
+                ],
+                [
+                    80.0,
+                    436.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "There seems to be some evidence to suggest that certain differences between Japanese and Western rhetoric could derive from historical influences possibly traceable to what might be called Japan's cultural isolation and Europe's history of cross-cultural contacts.",
+            "block_bbox": [
+                113,
+                447,
+                743,
+                546
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    113.0,
+                    447.0
+                ],
+                [
+                    743.0,
+                    447.0
+                ],
+                [
+                    743.0,
+                    546.0
+                ],
+                [
+                    113.0,
+                    546.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "On the other hand, only a fool or someone with massive historical evidence would make an assertion as flatly certain as this:",
+            "block_bbox": [
+                78,
+                560,
+                772,
+                609
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    560.0
+                ],
+                [
+                    772.0,
+                    560.0
+                ],
+                [
+                    772.0,
+                    609.0
+                ],
+                [
+                    78.0,
+                    609.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "This evidence proves that Japanese and Western rhetorics differ because of Japan's cultural isolation and Europe's history of cross-cultural contacts.",
+            "block_bbox": [
+                109,
+                621,
+                744,
+                670
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    109.0,
+                    621.0
+                ],
+                [
+                    744.0,
+                    621.0
+                ],
+                [
+                    744.0,
+                    670.0
+                ],
+                [
+                    109.0,
+                    670.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "In most academic writing, we more often state claims closer to this (note our own hedging):",
+            "block_bbox": [
+                79,
+                684,
+                772,
+                735
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    684.0
+                ],
+                [
+                    772.0,
+                    684.0
+                ],
+                [
+                    772.0,
+                    735.0
+                ],
+                [
+                    79.0,
+                    735.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ This evidence suggests that aspects of Japanese and Western rhetoric differ because of Japan's relative cultural isolation and Europe's history of cross-cultural contacts.",
+            "block_bbox": [
+                88,
+                749,
+                742,
+                798
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13,
+            "global_block_id": 13,
+            "global_group_id": 13,
+            "block_polygon_points": [
+                [
+                    88.0,
+                    749.0
+                ],
+                [
+                    742.0,
+                    749.0
+                ],
+                [
+                    742.0,
+                    798.0
+                ],
+                [
+                    88.0,
+                    798.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The verbs indicate and suggest let you state a claim about which you are less than 100 percent certain but confident enough to propose:",
+            "block_bbox": [
+                79,
+                814,
+                772,
+                864
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14,
+            "global_block_id": 14,
+            "global_group_id": 14,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    814.0
+                ],
+                [
+                    772.0,
+                    814.0
+                ],
+                [
+                    772.0,
+                    864.0
+                ],
+                [
+                    79.0,
+                    864.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ The evidence indicates that some of these questions remain unresolved.",
+            "block_bbox": [
+                93,
+                879,
+                675,
+                902
+            ],
+            "block_id": 15,
+            "block_order": 14,
+            "group_id": 15,
+            "global_block_id": 15,
+            "global_group_id": 15,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    879.0
+                ],
+                [
+                    675.0,
+                    879.0
+                ],
+                [
+                    675.0,
+                    902.0
+                ],
+                [
+                    93.0,
+                    902.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ These data suggest that further studies are necessary.",
+            "block_bbox": [
+                92,
+                921,
+                532,
+                944
+            ],
+            "block_id": 16,
+            "block_order": 15,
+            "group_id": 16,
+            "global_block_id": 16,
+            "global_group_id": 16,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    921.0
+                ],
+                [
+                    532.0,
+                    921.0
+                ],
+                [
+                    532.0,
+                    944.0
+                ],
+                [
+                    92.0,
+                    944.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Even confident scientists hedge. This next paragraph introduced the most significant breakthrough in the history of genetics, the discovery of the double helix of DNA. If anyone was entitled to be assertive, it was Crick and Watson. But they chose to be diffident (note, too, the first person we; hedges are boldfaced):",
+            "block_bbox": [
+                78,
+                962,
+                773,
+                1065
+            ],
+            "block_id": 17,
+            "block_order": 16,
+            "group_id": 17,
+            "global_block_id": 17,
+            "global_group_id": 17,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    962.0
+                ],
+                [
+                    773.0,
+                    962.0
+                ],
+                [
+                    773.0,
+                    1065.0
+                ],
+                [
+                    78.0,
+                    1065.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "We wish to suggest a [not the] structure for the salt of deoxyribose nucleic acid (D.N.A.)... A structure for nucleic acid has already been proposed by Pauling and Corey... In our opinion, this structure is unsatisfactory for two reasons: (1) We believe that the material which gives the X-ray diagrams is the salt, not the free acid... (2) Some of the van der Waals distances appear to be too small.",
+            "block_bbox": [
+                114,
+                1077,
+                743,
+                1201
+            ],
+            "block_id": 18,
+            "block_order": 17,
+            "group_id": 18,
+            "global_block_id": 18,
+            "global_group_id": 18,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    1077.0
+                ],
+                [
+                    743.0,
+                    1077.0
+                ],
+                [
+                    743.0,
+                    1201.0
+                ],
+                [
+                    114.0,
+                    1201.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "—J. D. Watson and F. H. C. Crick, \"Molecular Structure of Nucleic Acids\"",
+            "block_bbox": [
+                182,
+                1216,
+                742,
+                1240
+            ],
+            "block_id": 19,
+            "block_order": 18,
+            "group_id": 19,
+            "global_block_id": 19,
+            "global_group_id": 19,
+            "block_polygon_points": [
+                [
+                    182.0,
+                    1216.0
+                ],
+                [
+                    742.0,
+                    1216.0
+                ],
+                [
+                    742.0,
+                    1240.0
+                ],
+                [
+                    182.0,
+                    1240.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8660142421722412,
+                    "coordinate": [
+                        545,
+                        70,
+                        697,
+                        90
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            545.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            89.0
+                        ],
+                        [
+                            545.0,
+                            89.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.8009697198867798,
+                    "coordinate": [
+                        736,
+                        69,
+                        770,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            736.0,
+                            69.0
+                        ],
+                        [
+                            769.0,
+                            69.0
+                        ],
+                        [
+                            769.0,
+                            87.0
+                        ],
+                        [
+                            736.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9218621253967285,
+                    "coordinate": [
+                        78,
+                        117,
+                        771,
+                        168
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            117.0
+                        ],
+                        [
+                            771.0,
+                            117.0
+                        ],
+                        [
+                            771.0,
+                            168.0
+                        ],
+                        [
+                            78.0,
+                            168.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8210829496383667,
+                    "coordinate": [
+                        80,
+                        188,
+                        169,
+                        216
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            188.0
+                        ],
+                        [
+                            169.0,
+                            188.0
+                        ],
+                        [
+                            169.0,
+                            216.0
+                        ],
+                        [
+                            80.0,
+                            216.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8442860245704651,
+                    "coordinate": [
+                        79,
+                        223,
+                        314,
+                        246
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            223.0
+                        ],
+                        [
+                            314.0,
+                            223.0
+                        ],
+                        [
+                            314.0,
+                            246.0
+                        ],
+                        [
+                            79.0,
+                            246.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9057034254074097,
+                    "coordinate": [
+                        114,
+                        261,
+                        751,
+                        335
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            114.0,
+                            261.0
+                        ],
+                        [
+                            751.0,
+                            261.0
+                        ],
+                        [
+                            751.0,
+                            335.0
+                        ],
+                        [
+                            114.0,
+                            335.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.7918388843536377,
+                    "coordinate": [
+                        115,
+                        342,
+                        567,
+                        365
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            115.0,
+                            342.0
+                        ],
+                        [
+                            567.0,
+                            342.0
+                        ],
+                        [
+                            567.0,
+                            365.0
+                        ],
+                        [
+                            115.0,
+                            365.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.7933688163757324,
+                    "coordinate": [
+                        115,
+                        371,
+                        747,
+                        396
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            115.0,
+                            371.0
+                        ],
+                        [
+                            747.0,
+                            371.0
+                        ],
+                        [
+                            747.0,
+                            396.0
+                        ],
+                        [
+                            115.0,
+                            396.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8545293807983398,
+                    "coordinate": [
+                        80,
+                        411,
+                        530,
+                        436
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            411.0
+                        ],
+                        [
+                            530.0,
+                            411.0
+                        ],
+                        [
+                            530.0,
+                            436.0
+                        ],
+                        [
+                            80.0,
+                            436.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.937916100025177,
+                    "coordinate": [
+                        113,
+                        447,
+                        743,
+                        546
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            113.0,
+                            447.0
+                        ],
+                        [
+                            743.0,
+                            447.0
+                        ],
+                        [
+                            743.0,
+                            546.0
+                        ],
+                        [
+                            113.0,
+                            546.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.919110119342804,
+                    "coordinate": [
+                        78,
+                        560,
+                        772,
+                        609
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            560.0
+                        ],
+                        [
+                            772.0,
+                            560.0
+                        ],
+                        [
+                            772.0,
+                            609.0
+                        ],
+                        [
+                            78.0,
+                            609.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8726575374603271,
+                    "coordinate": [
+                        109,
+                        621,
+                        744,
+                        670
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            109.0,
+                            621.0
+                        ],
+                        [
+                            744.0,
+                            621.0
+                        ],
+                        [
+                            744.0,
+                            670.0
+                        ],
+                        [
+                            109.0,
+                            670.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9123469591140747,
+                    "coordinate": [
+                        79,
+                        684,
+                        772,
+                        735
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            684.0
+                        ],
+                        [
+                            772.0,
+                            684.0
+                        ],
+                        [
+                            772.0,
+                            735.0
+                        ],
+                        [
+                            79.0,
+                            735.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.907361626625061,
+                    "coordinate": [
+                        88,
+                        749,
+                        742,
+                        798
+                    ],
+                    "order": 13,
+                    "polygon_points": [
+                        [
+                            88.0,
+                            749.0
+                        ],
+                        [
+                            742.0,
+                            749.0
+                        ],
+                        [
+                            742.0,
+                            798.0
+                        ],
+                        [
+                            88.0,
+                            798.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.91691654920578,
+                    "coordinate": [
+                        79,
+                        814,
+                        772,
+                        864
+                    ],
+                    "order": 14,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            814.0
+                        ],
+                        [
+                            772.0,
+                            814.0
+                        ],
+                        [
+                            772.0,
+                            864.0
+                        ],
+                        [
+                            79.0,
+                            864.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8546531796455383,
+                    "coordinate": [
+                        93,
+                        879,
+                        675,
+                        902
+                    ],
+                    "order": 15,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            879.0
+                        ],
+                        [
+                            675.0,
+                            879.0
+                        ],
+                        [
+                            675.0,
+                            902.0
+                        ],
+                        [
+                            93.0,
+                            902.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8276718258857727,
+                    "coordinate": [
+                        92,
+                        921,
+                        532,
+                        944
+                    ],
+                    "order": 16,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            921.0
+                        ],
+                        [
+                            532.0,
+                            921.0
+                        ],
+                        [
+                            532.0,
+                            944.0
+                        ],
+                        [
+                            92.0,
+                            944.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9583208560943604,
+                    "coordinate": [
+                        78,
+                        962,
+                        773,
+                        1065
+                    ],
+                    "order": 17,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            962.0
+                        ],
+                        [
+                            773.0,
+                            962.0
+                        ],
+                        [
+                            773.0,
+                            1065.0
+                        ],
+                        [
+                            78.0,
+                            1065.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9506227374076843,
+                    "coordinate": [
+                        114,
+                        1077,
+                        743,
+                        1201
+                    ],
+                    "order": 18,
+                    "polygon_points": [
+                        [
+                            114.0,
+                            1077.0
+                        ],
+                        [
+                            743.0,
+                            1077.0
+                        ],
+                        [
+                            743.0,
+                            1201.0
+                        ],
+                        [
+                            114.0,
+                            1201.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.7693886160850525,
+                    "coordinate": [
+                        182,
+                        1216,
+                        742,
+                        1240
+                    ],
+                    "order": 19,
+                    "polygon_points": [
+                        [
+                            182.0,
+                            1216.0
+                        ],
+                        [
+                            742.0,
+                            1216.0
+                        ],
+                        [
+                            742.0,
+                            1240.0
+                        ],
+                        [
+                            182.0,
+                            1240.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

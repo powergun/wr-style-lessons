@@ -1,0 +1,792 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\32.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Lesson 1 Correctness and Style",
+            "block_bbox": [
+                458,
+                70,
+                697,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    458.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    89.0
+                ],
+                [
+                    458.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "21",
+            "block_bbox": [
+                745,
+                70,
+                769,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    745.0,
+                    70.0
+                ],
+                [
+                    768.0,
+                    70.0
+                ],
+                [
+                    768.0,
+                    87.0
+                ],
+                [
+                    745.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "In 2016, the American Dialect Society named they used in this way as its “Word of the Year,” and it is now being recognized even by style guides that still balk at the use of they with indefinite referents, at least in formal contexts. Ultimately, it is less a matter of correctness or even style than of ethics, and we’ll consider it again in Lesson 11.",
+            "block_bbox": [
+                78,
+                116,
+                773,
+                245
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    116.0
+                ],
+                [
+                    773.0,
+                    116.0
+                ],
+                [
+                    773.0,
+                    245.0
+                ],
+                [
+                    78.0,
+                    245.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "The Future",
+            "block_bbox": [
+                80,
+                266,
+                205,
+                291
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    266.0
+                ],
+                [
+                    205.0,
+                    266.0
+                ],
+                [
+                    205.0,
+                    291.0
+                ],
+                [
+                    80.0,
+                    291.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "What will the future bring? It's hard to know. One of the new pronoun systems might succeed in achieving a critical mass of acceptance and be integrated into the language. Such attempts at linguistic engineering, however, are rarely successful. But if engineering doesn't work, evolution certainly will. The one constant with language is that it changes to meet its users' needs, offering new choices in response to new social realities. But whatever the future, we have choices now, and from the perspective of style, that's what matters.",
+            "block_bbox": [
+                78,
+                301,
+                772,
+                483
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    301.0
+                ],
+                [
+                    772.0,
+                    301.0
+                ],
+                [
+                    772.0,
+                    483.0
+                ],
+                [
+                    78.0,
+                    483.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Summing Up",
+            "block_bbox": [
+                79,
+                506,
+                253,
+                540
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    506.0
+                ],
+                [
+                    253.0,
+                    506.0
+                ],
+                [
+                    253.0,
+                    540.0
+                ],
+                [
+                    79.0,
+                    540.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "We must write correctly, but if in defining correctness we ignore the difference between fact and folklore, we risk overlooking what is really important—the choices that make our writing dense and wordy or clear and concise. We are not precise merely because we get right which and that and avoid finalize and hopefully. Many who obsess over such details are oblivious to this more serious kind of problem:",
+            "block_bbox": [
+                78,
+                550,
+                773,
+                680
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    550.0
+                ],
+                [
+                    773.0,
+                    550.0
+                ],
+                [
+                    773.0,
+                    680.0
+                ],
+                [
+                    78.0,
+                    680.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Too precise a specification of information processing requirements incurs the risk of overestimation resulting in unused capacity or inefficient use of costly resources or of underestimation leading to ineffectiveness or other inefficiencies.",
+            "block_bbox": [
+                111,
+                689,
+                773,
+                762
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    111.0,
+                    689.0
+                ],
+                [
+                    773.0,
+                    689.0
+                ],
+                [
+                    773.0,
+                    762.0
+                ],
+                [
+                    111.0,
+                    762.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "That means:",
+            "block_bbox": [
+                80,
+                773,
+                189,
+                794
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    773.0
+                ],
+                [
+                    188.0,
+                    773.0
+                ],
+                [
+                    188.0,
+                    793.0
+                ],
+                [
+                    80.0,
+                    793.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "✓ When you specify too precisely the resources you need to process information, you may overestimate. If you do, you risk having more capacity than you need or using costly resources inefficiently.",
+            "block_bbox": [
+                89,
+                805,
+                772,
+                879
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    89.0000991821289,
+                    805.0
+                ],
+                [
+                    770.3527221679688,
+                    798.96142578125
+                ],
+                [
+                    771.0,
+                    872.0
+                ],
+                [
+                    89.64739990234375,
+                    878.03857421875
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Both sentences are grammatically correct, but who would choose the first over the second?",
+            "block_bbox": [
+                80,
+                889,
+                771,
+                937
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    889.0
+                ],
+                [
+                    771.0,
+                    889.0
+                ],
+                [
+                    771.0,
+                    937.0
+                ],
+                [
+                    80.0,
+                    937.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "It's possible that those who observe all the rules all the time do so not because they want to protect the integrity of the language but because they want to assert their personal style. Some of us are straightforward and plain speaking; others take pleasure in a touch of formality or fastidious \"class.\" We should not scorn this impulse, so long as it is not a pretext for social discrimination and so long as it remains subordinated to the more important matters to which we now turn: the choices that define not correctness but clarity and grace.",
+            "block_bbox": [
+                78,
+                941,
+                773,
+                1123
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    941.0
+                ],
+                [
+                    773.0,
+                    941.0
+                ],
+                [
+                    773.0,
+                    1123.0
+                ],
+                [
+                    78.0,
+                    1123.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8752474784851074,
+                    "coordinate": [
+                        458,
+                        70,
+                        697,
+                        90
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            458.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            89.0
+                        ],
+                        [
+                            458.0,
+                            89.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.7772547602653503,
+                    "coordinate": [
+                        745,
+                        70,
+                        769,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            745.0,
+                            70.0
+                        ],
+                        [
+                            768.0,
+                            70.0
+                        ],
+                        [
+                            768.0,
+                            87.0
+                        ],
+                        [
+                            745.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9557876586914062,
+                    "coordinate": [
+                        78,
+                        116,
+                        773,
+                        245
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            116.0
+                        ],
+                        [
+                            773.0,
+                            116.0
+                        ],
+                        [
+                            773.0,
+                            245.0
+                        ],
+                        [
+                            78.0,
+                            245.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8523055911064148,
+                    "coordinate": [
+                        80,
+                        266,
+                        205,
+                        291
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            266.0
+                        ],
+                        [
+                            205.0,
+                            266.0
+                        ],
+                        [
+                            205.0,
+                            291.0
+                        ],
+                        [
+                            80.0,
+                            291.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9588329792022705,
+                    "coordinate": [
+                        78,
+                        301,
+                        772,
+                        483
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            301.0
+                        ],
+                        [
+                            772.0,
+                            301.0
+                        ],
+                        [
+                            772.0,
+                            483.0
+                        ],
+                        [
+                            78.0,
+                            483.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.877140462398529,
+                    "coordinate": [
+                        79,
+                        506,
+                        253,
+                        540
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            506.0
+                        ],
+                        [
+                            253.0,
+                            506.0
+                        ],
+                        [
+                            253.0,
+                            540.0
+                        ],
+                        [
+                            79.0,
+                            540.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9551899433135986,
+                    "coordinate": [
+                        78,
+                        550,
+                        773,
+                        680
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            550.0
+                        ],
+                        [
+                            773.0,
+                            550.0
+                        ],
+                        [
+                            773.0,
+                            680.0
+                        ],
+                        [
+                            78.0,
+                            680.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9318206310272217,
+                    "coordinate": [
+                        111,
+                        689,
+                        773,
+                        762
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            111.0,
+                            689.0
+                        ],
+                        [
+                            773.0,
+                            689.0
+                        ],
+                        [
+                            773.0,
+                            762.0
+                        ],
+                        [
+                            111.0,
+                            762.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8123162388801575,
+                    "coordinate": [
+                        80,
+                        773,
+                        189,
+                        794
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            773.0
+                        ],
+                        [
+                            188.0,
+                            773.0
+                        ],
+                        [
+                            188.0,
+                            793.0
+                        ],
+                        [
+                            80.0,
+                            793.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9337519407272339,
+                    "coordinate": [
+                        89,
+                        805,
+                        772,
+                        879
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            89.0000991821289,
+                            805.0
+                        ],
+                        [
+                            770.3527221679688,
+                            798.96142578125
+                        ],
+                        [
+                            771.0,
+                            872.0
+                        ],
+                        [
+                            89.64739990234375,
+                            878.03857421875
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9283551573753357,
+                    "coordinate": [
+                        80,
+                        889,
+                        771,
+                        937
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            889.0
+                        ],
+                        [
+                            771.0,
+                            889.0
+                        ],
+                        [
+                            771.0,
+                            937.0
+                        ],
+                        [
+                            80.0,
+                            937.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9641135334968567,
+                    "coordinate": [
+                        78,
+                        941,
+                        773,
+                        1123
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            941.0
+                        ],
+                        [
+                            773.0,
+                            941.0
+                        ],
+                        [
+                            773.0,
+                            1123.0
+                        ],
+                        [
+                            78.0,
+                            1123.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

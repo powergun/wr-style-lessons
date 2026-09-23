@@ -1,0 +1,855 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\12.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "doc_title",
+            "block_content": "Introduction",
+            "block_bbox": [
+                253,
+                226,
+                599,
+                290
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    253.0,
+                    226.0
+                ],
+                [
+                    599.0,
+                    226.0
+                ],
+                [
+                    599.0,
+                    290.0
+                ],
+                [
+                    253.0,
+                    290.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The great enemy of clear language is insincerity.\n—GEORGE ORWELL",
+            "block_bbox": [
+                228,
+                370,
+                622,
+                419
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    228.0,
+                    370.0
+                ],
+                [
+                    622.0,
+                    370.0
+                ],
+                [
+                    622.0,
+                    419.0
+                ],
+                [
+                    228.0,
+                    419.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "This book rests on two convictions: it is good to write clearly, and anyone can.",
+            "block_bbox": [
+                79,
+                446,
+                738,
+                469
+            ],
+            "block_id": 2,
+            "block_order": 3,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    446.0
+                ],
+                [
+                    738.0,
+                    446.0
+                ],
+                [
+                    738.0,
+                    469.0
+                ],
+                [
+                    79.0,
+                    469.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The first is self-evident, especially to anyone who has had to hack through a sentence like this:",
+            "block_bbox": [
+                80,
+                472,
+                772,
+                521
+            ],
+            "block_id": 3,
+            "block_order": 4,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    472.0
+                ],
+                [
+                    772.0,
+                    472.0
+                ],
+                [
+                    772.0,
+                    521.0
+                ],
+                [
+                    80.0,
+                    521.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "An understanding of causal factors driving male underperformance on standardized verbal proficiency tests is prerequisite to the potential development of pedagogical strategies showing greater effectiveness.",
+            "block_bbox": [
+                113,
+                535,
+                742,
+                610
+            ],
+            "block_id": 4,
+            "block_order": 5,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    113.0,
+                    535.0
+                ],
+                [
+                    742.0,
+                    535.0
+                ],
+                [
+                    742.0,
+                    610.0
+                ],
+                [
+                    113.0,
+                    610.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "All of us would much rather read something like this:",
+            "block_bbox": [
+                81,
+                623,
+                538,
+                648
+            ],
+            "block_id": 5,
+            "block_order": 6,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    81.0,
+                    623.0
+                ],
+                [
+                    538.0,
+                    623.0
+                ],
+                [
+                    538.0,
+                    648.0
+                ],
+                [
+                    81.0,
+                    648.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "If we understood why male students underperform on standardized tests of verbal proficiency, we could perhaps develop better ways of teaching them.",
+            "block_bbox": [
+                110,
+                661,
+                741,
+                711
+            ],
+            "block_id": 6,
+            "block_order": 7,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    110.0,
+                    661.0
+                ],
+                [
+                    741.0,
+                    661.0
+                ],
+                [
+                    741.0,
+                    711.0
+                ],
+                [
+                    110.0,
+                    711.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The second, though, may seem unrealistic to those who count themselves lucky if they can just get down a thought in any words whatsoever, those who feel they have enough on their plates without worrying about how those words will seem to their readers. But to write clearly, we must consider our readers. Specifically, we must choose words and patterns of words that will help rather than hinder them in their efforts to understand our ideas.",
+            "block_bbox": [
+                78,
+                725,
+                772,
+                878
+            ],
+            "block_id": 7,
+            "block_order": 8,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    725.0
+                ],
+                [
+                    772.0,
+                    725.0
+                ],
+                [
+                    772.0,
+                    878.0
+                ],
+                [
+                    78.0,
+                    878.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "This book shows you how.",
+            "block_bbox": [
+                116,
+                881,
+                346,
+                904
+            ],
+            "block_id": 8,
+            "block_order": 9,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    116.0,
+                    881.0
+                ],
+                [
+                    346.0,
+                    881.0
+                ],
+                [
+                    346.0,
+                    904.0
+                ],
+                [
+                    116.0,
+                    904.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "The Causes of Unclear Writing",
+            "block_bbox": [
+                79,
+                931,
+                466,
+                962
+            ],
+            "block_id": 9,
+            "block_order": 10,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    931.0
+                ],
+                [
+                    466.0,
+                    931.0
+                ],
+                [
+                    466.0,
+                    962.0
+                ],
+                [
+                    79.0,
+                    962.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The best-known modern statement on English style, George Orwell's 1946 essay \"Politics and the English Language,\" anatomizes the stiff and abstract language of politicians, bureaucrats, and others who strive to inflate or even hide their meaning:",
+            "block_bbox": [
+                80,
+                975,
+                773,
+                1053
+            ],
+            "block_id": 10,
+            "block_order": 11,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    80.0,
+                    975.0
+                ],
+                [
+                    773.0,
+                    975.0
+                ],
+                [
+                    773.0,
+                    1053.0
+                ],
+                [
+                    80.0,
+                    1053.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The keynote [of a pretentious style] is the elimination of simple verbs. Instead of being a single word, such as break, stop, spoil, mend, kill, a verb becomes a phrase, made up of a noun or adjective tacked on to some general-purposes verb such as prove, serve, form, play, render. In addition, the passive voice is wherever possible used in preference to the active, and noun constructions are used instead of gerunds (by examination of instead of by examining).",
+            "block_bbox": [
+                114,
+                1064,
+                743,
+                1215
+            ],
+            "block_id": 11,
+            "block_order": 12,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    1064.0
+                ],
+                [
+                    743.0,
+                    1064.0
+                ],
+                [
+                    743.0,
+                    1215.0
+                ],
+                [
+                    114.0,
+                    1215.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "1",
+            "block_bbox": [
+                756,
+                1231,
+                768,
+                1248
+            ],
+            "block_id": 12,
+            "block_order": null,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    756.0,
+                    1231.0
+                ],
+                [
+                    767.0,
+                    1231.0
+                ],
+                [
+                    767.0,
+                    1247.0
+                ],
+                [
+                    756.0,
+                    1247.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 6,
+                    "label": "doc_title",
+                    "score": 0.6786994338035583,
+                    "coordinate": [
+                        253,
+                        226,
+                        599,
+                        290
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            253.0,
+                            226.0
+                        ],
+                        [
+                            599.0,
+                            226.0
+                        ],
+                        [
+                            599.0,
+                            290.0
+                        ],
+                        [
+                            253.0,
+                            290.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8946937322616577,
+                    "coordinate": [
+                        228,
+                        370,
+                        622,
+                        419
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            228.0,
+                            370.0
+                        ],
+                        [
+                            622.0,
+                            370.0
+                        ],
+                        [
+                            622.0,
+                            419.0
+                        ],
+                        [
+                            228.0,
+                            419.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.791926920413971,
+                    "coordinate": [
+                        79,
+                        446,
+                        738,
+                        469
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            446.0
+                        ],
+                        [
+                            738.0,
+                            446.0
+                        ],
+                        [
+                            738.0,
+                            469.0
+                        ],
+                        [
+                            79.0,
+                            469.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8754139542579651,
+                    "coordinate": [
+                        80,
+                        472,
+                        772,
+                        521
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            472.0
+                        ],
+                        [
+                            772.0,
+                            472.0
+                        ],
+                        [
+                            772.0,
+                            521.0
+                        ],
+                        [
+                            80.0,
+                            521.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9278786778450012,
+                    "coordinate": [
+                        113,
+                        535,
+                        742,
+                        610
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            113.0,
+                            535.0
+                        ],
+                        [
+                            742.0,
+                            535.0
+                        ],
+                        [
+                            742.0,
+                            610.0
+                        ],
+                        [
+                            113.0,
+                            610.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.853802502155304,
+                    "coordinate": [
+                        81,
+                        623,
+                        538,
+                        648
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            81.0,
+                            623.0
+                        ],
+                        [
+                            538.0,
+                            623.0
+                        ],
+                        [
+                            538.0,
+                            648.0
+                        ],
+                        [
+                            81.0,
+                            648.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9002119302749634,
+                    "coordinate": [
+                        110,
+                        661,
+                        741,
+                        711
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            110.0,
+                            661.0
+                        ],
+                        [
+                            741.0,
+                            661.0
+                        ],
+                        [
+                            741.0,
+                            711.0
+                        ],
+                        [
+                            110.0,
+                            711.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9574971795082092,
+                    "coordinate": [
+                        78,
+                        725,
+                        772,
+                        878
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            725.0
+                        ],
+                        [
+                            772.0,
+                            725.0
+                        ],
+                        [
+                            772.0,
+                            878.0
+                        ],
+                        [
+                            78.0,
+                            878.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8482399582862854,
+                    "coordinate": [
+                        116,
+                        881,
+                        346,
+                        904
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            116.0,
+                            881.0
+                        ],
+                        [
+                            346.0,
+                            881.0
+                        ],
+                        [
+                            346.0,
+                            904.0
+                        ],
+                        [
+                            116.0,
+                            904.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8826119899749756,
+                    "coordinate": [
+                        79,
+                        931,
+                        466,
+                        962
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            931.0
+                        ],
+                        [
+                            466.0,
+                            931.0
+                        ],
+                        [
+                            466.0,
+                            962.0
+                        ],
+                        [
+                            79.0,
+                            962.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9506897926330566,
+                    "coordinate": [
+                        80,
+                        975,
+                        773,
+                        1053
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            80.0,
+                            975.0
+                        ],
+                        [
+                            773.0,
+                            975.0
+                        ],
+                        [
+                            773.0,
+                            1053.0
+                        ],
+                        [
+                            80.0,
+                            1053.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9562180042266846,
+                    "coordinate": [
+                        114,
+                        1064,
+                        743,
+                        1215
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            114.0,
+                            1064.0
+                        ],
+                        [
+                            743.0,
+                            1064.0
+                        ],
+                        [
+                            743.0,
+                            1215.0
+                        ],
+                        [
+                            114.0,
+                            1215.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.6345284581184387,
+                    "coordinate": [
+                        756,
+                        1231,
+                        768,
+                        1248
+                    ],
+                    "order": 13,
+                    "polygon_points": [
+                        [
+                            756.0,
+                            1231.0
+                        ],
+                        [
+                            767.0,
+                            1231.0
+                        ],
+                        [
+                            767.0,
+                            1247.0
+                        ],
+                        [
+                            756.0,
+                            1247.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

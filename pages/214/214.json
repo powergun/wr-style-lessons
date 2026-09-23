@@ -1,0 +1,855 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\214.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Appendix II Using Sources",
+            "block_bbox": [
+                496,
+                70,
+                697,
+                91
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    496.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    90.0
+                ],
+                [
+                    496.0,
+                    90.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "203",
+            "block_bbox": [
+                735,
+                70,
+                770,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    735.0,
+                    70.0
+                ],
+                [
+                    769.0,
+                    70.0
+                ],
+                [
+                    769.0,
+                    87.0
+                ],
+                [
+                    735.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "some of its aspects over others. In fact, knowing how far one can go in shading a source without misrepresenting it is a mark of true expertise: it is a powerful way to demonstrate command of a topic and to guide the attention of your readers. Unfortunately, we can't tell you where the line is. You have to learn for yourself by reading respected writers in your field. We can offer two bits of advice. The first is to be cautious. It is much better to be seen as too fastidious than as cavalier. The second is to be doubly cautious when you disagree with a source, because in that situation, you cannot risk seeming unfair.",
+            "block_bbox": [
+                78,
+                117,
+                773,
+                324
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    117.0
+                ],
+                [
+                    773.0,
+                    117.0
+                ],
+                [
+                    773.0,
+                    324.0
+                ],
+                [
+                    78.0,
+                    324.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Paraphrase. Earlier, we discussed paraphrase in the context of plagiarism. Now, we want to approach it from the perspective of style. When you paraphrase, as when you summarize, you inevitably shade the meaning of your source. How could you not? Every change in grammar or vocabulary also involves a change in meaning, however slight. Your challenge is to manage these small shifts in meaning deliberately and responsibly. Look again at Tannen's original passage and our paraphrase of it:",
+            "block_bbox": [
+                78,
+                336,
+                773,
+                493
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    336.0
+                ],
+                [
+                    773.0,
+                    336.0
+                ],
+                [
+                    773.0,
+                    493.0
+                ],
+                [
+                    78.0,
+                    493.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "At the heart of the argument culture is our habit of seeing issues and ideas as absolute and irreconcilable principles continually at war. To move beyond this static and limiting view, we can remember the Chinese approach to yin and yang. They are two principles, yes, but they are conceived not as irreconcilable polar opposites but as elements that coexist and should be brought into balance as much as possible. (284)",
+            "block_bbox": [
+                113,
+                504,
+                741,
+                629
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    113.0,
+                    504.0
+                ],
+                [
+                    741.0,
+                    504.0
+                ],
+                [
+                    741.0,
+                    629.0
+                ],
+                [
+                    113.0,
+                    629.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "—Deborah Tannen, The Argument Culture: Stopping America's War of Words",
+            "block_bbox": [
+                200,
+                642,
+                771,
+                666
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    200.0,
+                    642.0
+                ],
+                [
+                    771.0,
+                    642.0
+                ],
+                [
+                    771.0,
+                    666.0
+                ],
+                [
+                    200.0,
+                    666.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Our society’s approach to argument, notes linguist Deborah Tannen, is based on an assumption that competing positions and ideas must always be in conflict. To transcend it, we need to recognize that these competing positions and ideas can often be reconciled (284).",
+            "block_bbox": [
+                113,
+                683,
+                734,
+                782
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    113.0,
+                    683.0
+                ],
+                [
+                    734.0,
+                    683.0
+                ],
+                [
+                    734.0,
+                    782.0
+                ],
+                [
+                    113.0,
+                    782.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Our paraphrase doesn't convey the meaning of Tannen's original exactly; it expresses our own understanding of it, which also includes our sense of what aspects of it are most important. Could someone else paraphrase the passage differently? Of course. Even so, we believe our version to be accurate and fair.",
+            "block_bbox": [
+                78,
+                799,
+                772,
+                902
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    799.0
+                ],
+                [
+                    772.0,
+                    799.0
+                ],
+                [
+                    772.0,
+                    902.0
+                ],
+                [
+                    78.0,
+                    902.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "When paraphrasing, you can't avoid these kinds of choices, but you can make them deliberately and ethically, which is to say in ways that are faithful to your source, that support your own line of thought, and that serve your readers.",
+            "block_bbox": [
+                79,
+                904,
+                772,
+                980
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    904.0
+                ],
+                [
+                    772.0,
+                    904.0
+                ],
+                [
+                    772.0,
+                    980.0
+                ],
+                [
+                    79.0,
+                    980.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Now let's turn to several ways of quoting.",
+            "block_bbox": [
+                114,
+                982,
+                474,
+                1007
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    982.0
+                ],
+                [
+                    474.0,
+                    982.0
+                ],
+                [
+                    474.0,
+                    1007.0
+                ],
+                [
+                    114.0,
+                    1007.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Use a block quotation. If your quotation is more than a few lines, put it into a block quotation with no quotation marks around it. Indent the same number of spaces as you indent a paragraph. If the quotation begins with a paragraph indentation, indent the first line again:",
+            "block_bbox": [
+                79,
+                1019,
+                773,
+                1123
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    79.0,
+                    1019.0
+                ],
+                [
+                    773.0,
+                    1019.0
+                ],
+                [
+                    773.0,
+                    1123.0
+                ],
+                [
+                    79.0,
+                    1123.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "About our society's approach to argument, linguist Deborah Tannen offers this observation:",
+            "block_bbox": [
+                114,
+                1135,
+                741,
+                1183
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    114.0,
+                    1135.0
+                ],
+                [
+                    741.0,
+                    1135.0
+                ],
+                [
+                    741.0,
+                    1183.0
+                ],
+                [
+                    114.0,
+                    1183.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "At the heart of the argument culture is our habit of seeing issues and ideas as absolute and irreconcilable principles continually at war. To move beyond",
+            "block_bbox": [
+                149,
+                1189,
+                742,
+                1238
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    149.0,
+                    1189.0
+                ],
+                [
+                    742.0,
+                    1189.0
+                ],
+                [
+                    742.0,
+                    1238.0
+                ],
+                [
+                    149.0,
+                    1238.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8743371367454529,
+                    "coordinate": [
+                        496,
+                        70,
+                        697,
+                        91
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            496.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            90.0
+                        ],
+                        [
+                            496.0,
+                            90.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.8091967701911926,
+                    "coordinate": [
+                        735,
+                        70,
+                        770,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            735.0,
+                            70.0
+                        ],
+                        [
+                            769.0,
+                            70.0
+                        ],
+                        [
+                            769.0,
+                            87.0
+                        ],
+                        [
+                            735.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9644748568534851,
+                    "coordinate": [
+                        78,
+                        117,
+                        773,
+                        324
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            117.0
+                        ],
+                        [
+                            773.0,
+                            117.0
+                        ],
+                        [
+                            773.0,
+                            324.0
+                        ],
+                        [
+                            78.0,
+                            324.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9599155783653259,
+                    "coordinate": [
+                        78,
+                        336,
+                        773,
+                        493
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            336.0
+                        ],
+                        [
+                            773.0,
+                            336.0
+                        ],
+                        [
+                            773.0,
+                            493.0
+                        ],
+                        [
+                            78.0,
+                            493.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9547534584999084,
+                    "coordinate": [
+                        113,
+                        504,
+                        741,
+                        629
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            113.0,
+                            504.0
+                        ],
+                        [
+                            741.0,
+                            504.0
+                        ],
+                        [
+                            741.0,
+                            629.0
+                        ],
+                        [
+                            113.0,
+                            629.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.44245919585227966,
+                    "coordinate": [
+                        200,
+                        642,
+                        771,
+                        666
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            200.0,
+                            642.0
+                        ],
+                        [
+                            771.0,
+                            642.0
+                        ],
+                        [
+                            771.0,
+                            666.0
+                        ],
+                        [
+                            200.0,
+                            666.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9504318833351135,
+                    "coordinate": [
+                        113,
+                        683,
+                        734,
+                        782
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            113.0,
+                            683.0
+                        ],
+                        [
+                            734.0,
+                            683.0
+                        ],
+                        [
+                            734.0,
+                            782.0
+                        ],
+                        [
+                            113.0,
+                            782.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9568243026733398,
+                    "coordinate": [
+                        78,
+                        799,
+                        772,
+                        902
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            799.0
+                        ],
+                        [
+                            772.0,
+                            799.0
+                        ],
+                        [
+                            772.0,
+                            902.0
+                        ],
+                        [
+                            78.0,
+                            902.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9420086741447449,
+                    "coordinate": [
+                        79,
+                        904,
+                        772,
+                        980
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            904.0
+                        ],
+                        [
+                            772.0,
+                            904.0
+                        ],
+                        [
+                            772.0,
+                            980.0
+                        ],
+                        [
+                            79.0,
+                            980.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8689203262329102,
+                    "coordinate": [
+                        114,
+                        982,
+                        474,
+                        1007
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            114.0,
+                            982.0
+                        ],
+                        [
+                            474.0,
+                            982.0
+                        ],
+                        [
+                            474.0,
+                            1007.0
+                        ],
+                        [
+                            114.0,
+                            1007.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9592958688735962,
+                    "coordinate": [
+                        79,
+                        1019,
+                        773,
+                        1123
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            79.0,
+                            1019.0
+                        ],
+                        [
+                            773.0,
+                            1019.0
+                        ],
+                        [
+                            773.0,
+                            1123.0
+                        ],
+                        [
+                            79.0,
+                            1123.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9237985610961914,
+                    "coordinate": [
+                        114,
+                        1135,
+                        741,
+                        1183
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            114.0,
+                            1135.0
+                        ],
+                        [
+                            741.0,
+                            1135.0
+                        ],
+                        [
+                            741.0,
+                            1183.0
+                        ],
+                        [
+                            114.0,
+                            1183.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9292137622833252,
+                    "coordinate": [
+                        149,
+                        1189,
+                        742,
+                        1238
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            149.0,
+                            1189.0
+                        ],
+                        [
+                            742.0,
+                            1189.0
+                        ],
+                        [
+                            742.0,
+                            1238.0
+                        ],
+                        [
+                            149.0,
+                            1238.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,351 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\7.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "vi Preface",
+            "block_bbox": [
+                93,
+                69,
+                184,
+                90
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    69.0
+                ],
+                [
+                    183.0,
+                    69.0
+                ],
+                [
+                    183.0,
+                    89.0
+                ],
+                [
+                    93.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- I once again revised and expanded the section on gender-inclusive language in Lesson 1. This treatment was substantially revised for the twelfth edition, but our society's discourse on gender has progressed so much in even the past few years that another revision was needed. The book now also takes up the issue of gender-inclusive language from an ethical perspective in Lesson 11.",
+            "block_bbox": [
+                105,
+                117,
+                785,
+                272
+            ],
+            "block_id": 1,
+            "block_order": 2,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    105.0,
+                    117.0
+                ],
+                [
+                    785.0,
+                    117.0
+                ],
+                [
+                    785.0,
+                    272.0
+                ],
+                [
+                    105.0,
+                    272.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "I made a number of changes to the book's treatment of the ethics of style. Most obviously, I split what had been a single lesson into two: Lesson 11 now considers the ethics of clarity through a series of short examples, and Lesson 12 contains Williams's extended analysis inviting readers to ponder matters of style that transcend considerations of clarity. Most significantly, I added a new ethical principle to the book. Previous editions argued for what Williams called the First Rule of an ethical style: write to others as you would have others write to you. But this rule, in personalizing all writing, only awkwardly covers situations in which writers' interests might not entirely align with those of their readers. To accommodate those situations, I renamed Williams's First Rule of style the \"golden rule\" of style and introduced a second \"silver rule\": do not write to others as you would not have others write to you. If Williams's golden rule is a principle of empathy, its corollary silver rule is a principle of fairness. Not all situations allow writers to subordinate their interests to those of their readers, but we can still expect writers not to be deceptive, misleading, or unnecessarily obtuse. I also revised the treatment of the examples in Lesson 11 to invite more questions and discussion. Finally, in Lesson 12, I retired Williams's analysis of the Declaration of Independence, which had been in the book since the tenth edition, and replaced it with a version of his analysis of Abraham Lincoln's Second Inaugural Address, a speech that in today's fractious political climate has a renewed relevance and resonance.",
+            "block_bbox": [
+                99,
+                278,
+                785,
+                852
+            ],
+            "block_id": 2,
+            "block_order": 3,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    99.0,
+                    278.0
+                ],
+                [
+                    785.0,
+                    278.0
+                ],
+                [
+                    785.0,
+                    852.0
+                ],
+                [
+                    99.0,
+                    852.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- I of course endeavored throughout to improve and refine the book’s explanations of its concepts and principles and to eliminate errors where I found them.",
+            "block_bbox": [
+                106,
+                857,
+                783,
+                933
+            ],
+            "block_id": 3,
+            "block_order": 4,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    106.0,
+                    857.0
+                ],
+                [
+                    783.0,
+                    857.0
+                ],
+                [
+                    783.0,
+                    933.0
+                ],
+                [
+                    106.0,
+                    933.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "- Finally, since the book's authorship has become more collective, I have somewhat wistfully decided to retire what Gregory G. Colomb, who edited the tenth edition, called Joe's \"ubiquitous I's.\" This change is not inconsequential, for in choosing to use I, Williams was embracing the struggles of ordinary writers as his own. But with this edition, it just seemed too artificial for me to put my words directly into his mouth. Still, despite the dropping of the first-person singular, the book continues to be animated by this basic solidarity with its readers.",
+            "block_bbox": [
+                104,
+                941,
+                785,
+                1148
+            ],
+            "block_id": 4,
+            "block_order": 5,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    104.0,
+                    941.0
+                ],
+                [
+                    785.0,
+                    941.0
+                ],
+                [
+                    785.0,
+                    1148.0
+                ],
+                [
+                    104.0,
+                    1148.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.5948578119277954,
+                    "coordinate": [
+                        93,
+                        69,
+                        184,
+                        90
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            69.0
+                        ],
+                        [
+                            183.0,
+                            69.0
+                        ],
+                        [
+                            183.0,
+                            89.0
+                        ],
+                        [
+                            93.0,
+                            89.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9509227871894836,
+                    "coordinate": [
+                        105,
+                        117,
+                        785,
+                        272
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            105.0,
+                            117.0
+                        ],
+                        [
+                            785.0,
+                            117.0
+                        ],
+                        [
+                            785.0,
+                            272.0
+                        ],
+                        [
+                            105.0,
+                            272.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9660521745681763,
+                    "coordinate": [
+                        99,
+                        278,
+                        785,
+                        852
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            99.0,
+                            278.0
+                        ],
+                        [
+                            785.0,
+                            278.0
+                        ],
+                        [
+                            785.0,
+                            852.0
+                        ],
+                        [
+                            99.0,
+                            852.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9312565326690674,
+                    "coordinate": [
+                        106,
+                        857,
+                        783,
+                        933
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            106.0,
+                            857.0
+                        ],
+                        [
+                            783.0,
+                            857.0
+                        ],
+                        [
+                            783.0,
+                            933.0
+                        ],
+                        [
+                            106.0,
+                            933.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9608799815177917,
+                    "coordinate": [
+                        104,
+                        941,
+                        785,
+                        1148
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            104.0,
+                            941.0
+                        ],
+                        [
+                            785.0,
+                            941.0
+                        ],
+                        [
+                            785.0,
+                            1148.0
+                        ],
+                        [
+                            104.0,
+                            1148.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

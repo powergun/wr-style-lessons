@@ -1,0 +1,981 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\178.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Lesson 11 The Ethics of Clarity",
+            "block_bbox": [
+                464,
+                70,
+                697,
+                90
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    464.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    70.0
+                ],
+                [
+                    696.0,
+                    89.0
+                ],
+                [
+                    464.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "block_label": "number",
+            "block_content": "167",
+            "block_bbox": [
+                736,
+                69,
+                770,
+                88
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    736.0,
+                    69.0
+                ],
+                [
+                    769.0,
+                    69.0
+                ],
+                [
+                    769.0,
+                    87.0
+                ],
+                [
+                    736.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "portion of the front suspension to the vehicle frame, and  $ ^3 $its failure could affect vehicle directional control, particularly during heavy brake application.  $ ^4 $In addition, your vehicle may require adjustment service to the hood secondary catch system.  $ ^5 $The secondary catch may be misaligned so that the hood may not be adequately restrained to prevent hood fly-up in the event the primary latch is inadvertently left unengaged.  $ ^6 $Sudden hood fly-up beyond the secondary catch while driving could impair driver visibility.  $ ^7 $In certain circumstances, occurrence of either of the above conditions could result in vehicle crash without prior warning.",
+            "block_bbox": [
+                112,
+                116,
+                743,
+                316
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    112.0,
+                    116.0
+                ],
+                [
+                    743.0,
+                    116.0
+                ],
+                [
+                    743.0,
+                    316.0
+                ],
+                [
+                    112.0,
+                    316.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "If these choices of style were intentional, then that recall notice surely violates our highest standard, for no one would swap places with a reader deliberately lulled into ignoring a dangerous, even life-threatening situation. But does the notice violate our lesser standard, which allows some indirectness but still requires that writers deal fairly with their readers and certainly pre-cludes callous indifference to their fate? In this case, the misdirection seems so deliberate and the consequences for the reader are so significant that we could say that it does.",
+            "block_bbox": [
+                78,
+                329,
+                773,
+                538
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    78.0,
+                    329.0
+                ],
+                [
+                    773.0,
+                    329.0
+                ],
+                [
+                    773.0,
+                    538.0
+                ],
+                [
+                    78.0,
+                    538.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Exercise 11.1",
+            "block_bbox": [
+                117,
+                605,
+                312,
+                637
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    117.0,
+                    605.0
+                ],
+                [
+                    312.0,
+                    605.0
+                ],
+                [
+                    312.0,
+                    637.0
+                ],
+                [
+                    117.0,
+                    637.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Look again at both versions of that gas rate notice, the original and our revision using we and you:",
+            "block_bbox": [
+                116,
+                651,
+                770,
+                698
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    116.0,
+                    651.0
+                ],
+                [
+                    770.0,
+                    651.0
+                ],
+                [
+                    770.0,
+                    698.0
+                ],
+                [
+                    116.0,
+                    698.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "The State Utilities Commission has authorized a restructuring of our rates together with an increase in service charge revenues effective at the start of the next calendar year...",
+            "block_bbox": [
+                150,
+                710,
+                772,
+                782
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    150.0,
+                    710.0
+                ],
+                [
+                    772.0,
+                    710.0
+                ],
+                [
+                    772.0,
+                    782.0
+                ],
+                [
+                    150.0,
+                    782.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "According to the State Utilities Commission, we can now make you pay more for your gas service after the new year...",
+            "block_bbox": [
+                149,
+                800,
+                748,
+                848
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    149.3927001953125,
+                    795.0367431640625
+                ],
+                [
+                    747.3927612304688,
+                    800.0367431640625
+                ],
+                [
+                    747.0001220703125,
+                    847.0
+                ],
+                [
+                    149.00006103515625,
+                    842.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "We noted that the revision is more direct, but we also suggested that the original might not be unethical. Is that original \"good\" writing? What do you mean by good?",
+            "block_bbox": [
+                116,
+                861,
+                756,
+                908
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    116.0,
+                    861.0
+                ],
+                [
+                    756.0,
+                    861.0
+                ],
+                [
+                    756.0,
+                    908.0
+                ],
+                [
+                    116.0,
+                    908.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Exercise 11.2",
+            "block_bbox": [
+                118,
+                936,
+                315,
+                966
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    118.0,
+                    936.0
+                ],
+                [
+                    315.0,
+                    936.0
+                ],
+                [
+                    315.0,
+                    966.0
+                ],
+                [
+                    118.0,
+                    966.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Revise the recall letter, making you the subject of as many verbs as you can and naming as many actions in verbs as you can. One of the sentences will read,",
+            "block_bbox": [
+                116,
+                981,
+                771,
+                1028
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    116.0,
+                    981.0
+                ],
+                [
+                    771.0,
+                    981.0
+                ],
+                [
+                    771.0,
+                    1028.0
+                ],
+                [
+                    116.0,
+                    1028.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "If  $ \\underline{you} $ brake hard and the plate fails,  $ \\underline{you} $ could...",
+            "block_bbox": [
+                126,
+                1040,
+                524,
+                1064
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    126.0,
+                    1040.0
+                ],
+                [
+                    524.0,
+                    1040.0
+                ],
+                [
+                    524.0,
+                    1064.0
+                ],
+                [
+                    126.0,
+                    1064.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Would the company be reluctant to send out that version? Which of the following, if either, is closer to the “truth”? Is that even the right question?",
+            "block_bbox": [
+                115,
+                1076,
+                754,
+                1124
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    115.0,
+                    1076.0
+                ],
+                [
+                    754.0,
+                    1076.0
+                ],
+                [
+                    754.0,
+                    1124.0
+                ],
+                [
+                    115.0,
+                    1124.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "If the plate fails, you could crash.",
+            "block_bbox": [
+                152,
+                1136,
+                399,
+                1160
+            ],
+            "block_id": 13,
+            "block_order": 12,
+            "group_id": 13,
+            "global_block_id": 13,
+            "global_group_id": 13,
+            "block_polygon_points": [
+                [
+                    152.0,
+                    1136.0
+                ],
+                [
+                    399.0,
+                    1136.0
+                ],
+                [
+                    399.0,
+                    1160.0
+                ],
+                [
+                    152.0,
+                    1160.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "If the plate fails, your car could crash.",
+            "block_bbox": [
+                153,
+                1169,
+                432,
+                1192
+            ],
+            "block_id": 14,
+            "block_order": 13,
+            "group_id": 14,
+            "global_block_id": 14,
+            "global_group_id": 14,
+            "block_polygon_points": [
+                [
+                    153.0,
+                    1169.0
+                ],
+                [
+                    432.0,
+                    1169.0
+                ],
+                [
+                    432.0,
+                    1192.0
+                ],
+                [
+                    153.0,
+                    1192.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8748792409896851,
+                    "coordinate": [
+                        464,
+                        70,
+                        697,
+                        90
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            464.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            70.0
+                        ],
+                        [
+                            696.0,
+                            89.0
+                        ],
+                        [
+                            464.0,
+                            89.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.8117639422416687,
+                    "coordinate": [
+                        736,
+                        69,
+                        770,
+                        88
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            736.0,
+                            69.0
+                        ],
+                        [
+                            769.0,
+                            69.0
+                        ],
+                        [
+                            769.0,
+                            87.0
+                        ],
+                        [
+                            736.0,
+                            87.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9605677127838135,
+                    "coordinate": [
+                        112,
+                        116,
+                        743,
+                        316
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            112.0,
+                            116.0
+                        ],
+                        [
+                            743.0,
+                            116.0
+                        ],
+                        [
+                            743.0,
+                            316.0
+                        ],
+                        [
+                            112.0,
+                            316.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.962385892868042,
+                    "coordinate": [
+                        78,
+                        329,
+                        773,
+                        538
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            78.0,
+                            329.0
+                        ],
+                        [
+                            773.0,
+                            329.0
+                        ],
+                        [
+                            773.0,
+                            538.0
+                        ],
+                        [
+                            78.0,
+                            538.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8779716491699219,
+                    "coordinate": [
+                        117,
+                        605,
+                        312,
+                        637
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            117.0,
+                            605.0
+                        ],
+                        [
+                            312.0,
+                            605.0
+                        ],
+                        [
+                            312.0,
+                            637.0
+                        ],
+                        [
+                            117.0,
+                            637.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9072201251983643,
+                    "coordinate": [
+                        116,
+                        651,
+                        770,
+                        698
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            116.0,
+                            651.0
+                        ],
+                        [
+                            770.0,
+                            651.0
+                        ],
+                        [
+                            770.0,
+                            698.0
+                        ],
+                        [
+                            116.0,
+                            698.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.933722734451294,
+                    "coordinate": [
+                        150,
+                        710,
+                        772,
+                        782
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            150.0,
+                            710.0
+                        ],
+                        [
+                            772.0,
+                            710.0
+                        ],
+                        [
+                            772.0,
+                            782.0
+                        ],
+                        [
+                            150.0,
+                            782.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9098753929138184,
+                    "coordinate": [
+                        149,
+                        800,
+                        748,
+                        848
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            149.3927001953125,
+                            795.0367431640625
+                        ],
+                        [
+                            747.3927612304688,
+                            800.0367431640625
+                        ],
+                        [
+                            747.0001220703125,
+                            847.0
+                        ],
+                        [
+                            149.00006103515625,
+                            842.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9247705936431885,
+                    "coordinate": [
+                        116,
+                        861,
+                        756,
+                        908
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            116.0,
+                            861.0
+                        ],
+                        [
+                            756.0,
+                            861.0
+                        ],
+                        [
+                            756.0,
+                            908.0
+                        ],
+                        [
+                            116.0,
+                            908.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8711054921150208,
+                    "coordinate": [
+                        118,
+                        936,
+                        315,
+                        966
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            118.0,
+                            936.0
+                        ],
+                        [
+                            315.0,
+                            936.0
+                        ],
+                        [
+                            315.0,
+                            966.0
+                        ],
+                        [
+                            118.0,
+                            966.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9202359914779663,
+                    "coordinate": [
+                        116,
+                        981,
+                        771,
+                        1028
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            116.0,
+                            981.0
+                        ],
+                        [
+                            771.0,
+                            981.0
+                        ],
+                        [
+                            771.0,
+                            1028.0
+                        ],
+                        [
+                            116.0,
+                            1028.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8103227615356445,
+                    "coordinate": [
+                        126,
+                        1040,
+                        524,
+                        1064
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            126.0,
+                            1040.0
+                        ],
+                        [
+                            524.0,
+                            1040.0
+                        ],
+                        [
+                            524.0,
+                            1064.0
+                        ],
+                        [
+                            126.0,
+                            1064.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9241279363632202,
+                    "coordinate": [
+                        115,
+                        1076,
+                        754,
+                        1124
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            115.0,
+                            1076.0
+                        ],
+                        [
+                            754.0,
+                            1076.0
+                        ],
+                        [
+                            754.0,
+                            1124.0
+                        ],
+                        [
+                            115.0,
+                            1124.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8412278294563293,
+                    "coordinate": [
+                        152,
+                        1136,
+                        399,
+                        1160
+                    ],
+                    "order": 13,
+                    "polygon_points": [
+                        [
+                            152.0,
+                            1136.0
+                        ],
+                        [
+                            399.0,
+                            1136.0
+                        ],
+                        [
+                            399.0,
+                            1160.0
+                        ],
+                        [
+                            152.0,
+                            1160.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.8271121382713318,
+                    "coordinate": [
+                        153,
+                        1169,
+                        432,
+                        1192
+                    ],
+                    "order": 14,
+                    "polygon_points": [
+                        [
+                            153.0,
+                            1169.0
+                        ],
+                        [
+                            432.0,
+                            1169.0
+                        ],
+                        [
+                            432.0,
+                            1192.0
+                        ],
+                        [
+                            153.0,
+                            1192.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

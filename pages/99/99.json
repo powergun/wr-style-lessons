@@ -1,0 +1,855 @@
+{
+    "input_path": "D:\\w\\vico\\wr\\wr-style-lessons\\.raw\\pages\\99.pdf",
+    "page_index": null,
+    "page_count": 1,
+    "width": 864,
+    "height": 1296,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+            "number",
+            "footnote",
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "aside_text"
+        ],
+        "return_layout_polygon_points": true
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "number",
+            "block_content": "88",
+            "block_bbox": [
+                93,
+                69,
+                118,
+                87
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+                [
+                    93.0,
+                    69.0
+                ],
+                [
+                    117.0,
+                    69.0
+                ],
+                [
+                    117.0,
+                    86.0
+                ],
+                [
+                    93.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "block_label": "header",
+            "block_content": "Style: Lessons in Clarity and Grace",
+            "block_bbox": [
+                165,
+                69,
+                421,
+                91
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+                [
+                    165.0,
+                    69.0
+                ],
+                [
+                    421.0,
+                    69.0
+                ],
+                [
+                    421.0,
+                    91.0
+                ],
+                [
+                    165.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Establishing a Shared Context",
+            "block_bbox": [
+                92,
+                117,
+                471,
+                147
+            ],
+            "block_id": 2,
+            "block_order": 1,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+                [
+                    92.0,
+                    117.0
+                ],
+                [
+                    471.0,
+                    117.0
+                ],
+                [
+                    471.0,
+                    147.0
+                ],
+                [
+                    92.0,
+                    147.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Most pieces of writing open with a shared context, as does 1b. In this example, the shared context is an observation about a common belief, practice, or perception, but it might have been historical background, an event, or anything else that introduces the topic in a way that readers will readily accept.",
+            "block_bbox": [
+                90,
+                161,
+                784,
+                264
+            ],
+            "block_id": 3,
+            "block_order": 2,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    161.0
+                ],
+                [
+                    784.0,
+                    161.0
+                ],
+                [
+                    784.0,
+                    264.0
+                ],
+                [
+                    90.0,
+                    264.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Common Belief, Practice, or Perception: Recycling—the practice of separating from ordinary trash specific materials that can be made into new products—is today an expected and even habitual behavior: to toss an aluminium can in an ordinary trash bin is as unthinkable as it would be to toss it into the street or a neighbor's yard. shared context But many people...",
+            "block_bbox": [
+                125,
+                277,
+                785,
+                407
+            ],
+            "block_id": 4,
+            "block_order": 3,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+                [
+                    125.0,
+                    277.0
+                ],
+                [
+                    785.0,
+                    277.0
+                ],
+                [
+                    785.0,
+                    407.0
+                ],
+                [
+                    125.0,
+                    407.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Historical Background: In the 1970s, recycling—the practice of separating from ordinary trash specific materials that can be made into new products—was unfamiliar, even strange. Only a few municipalities supported it, and many people found it confusing and inconvenient. As society grew more environmentally conscious, though, recycling went from novelty to norm.  $ \\underline{\\text{shared context}} $ But many people...",
+            "block_bbox": [
+                126,
+                413,
+                784,
+                543
+            ],
+            "block_id": 5,
+            "block_order": 4,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+                [
+                    126.0,
+                    413.0
+                ],
+                [
+                    784.0,
+                    413.0
+                ],
+                [
+                    784.0,
+                    543.0
+                ],
+                [
+                    126.0,
+                    543.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Event: Every November 15, thousands of people gather at events across the country to celebrate America Recycles Day. The popularity of these events indicates how ordinary the practice of recycling has become. It is now just something that people do as a matter of course.  $ \\underline{\\text{shared context}} $ But many people...",
+            "block_bbox": [
+                126,
+                549,
+                784,
+                652
+            ],
+            "block_id": 6,
+            "block_order": 5,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+                [
+                    126.0,
+                    549.0
+                ],
+                [
+                    784.0,
+                    549.0
+                ],
+                [
+                    784.0,
+                    652.0
+                ],
+                [
+                    126.0,
+                    652.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "These forms of shared context play a special role in motivating readers to read on. In 1b, we wanted you to accept that context as a seemingly unproblematic base for thinking about recycling just so that we could then challenge it. We set you up so that we could say, in effect, You may think you know the whole story, but you don't. That but signals the coming qualification:",
+            "block_bbox": [
+                89,
+                665,
+                785,
+                794
+            ],
+            "block_id": 7,
+            "block_order": 6,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+                [
+                    89.0,
+                    665.0
+                ],
+                [
+                    785.0,
+                    665.0
+                ],
+                [
+                    785.0,
+                    794.0
+                ],
+                [
+                    89.0,
+                    794.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "... or a neighbor's yard. shared context But many people, out of ignorance or enthusiasm, try to recycle things that aren't actually recyclable...",
+            "block_bbox": [
+                126,
+                807,
+                754,
+                855
+            ],
+            "block_id": 8,
+            "block_order": 7,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+                [
+                    126.0,
+                    807.0
+                ],
+                [
+                    754.0,
+                    807.0
+                ],
+                [
+                    754.0,
+                    855.0
+                ],
+                [
+                    126.0,
+                    855.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "In other words, recycling seems unproblematic, but something about it turns out not to be. We wanted that small surprise to motivate you to go on reading.",
+            "block_bbox": [
+                91,
+                870,
+                783,
+                920
+            ],
+            "block_id": 9,
+            "block_order": 8,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    870.0
+                ],
+                [
+                    783.0,
+                    870.0
+                ],
+                [
+                    783.0,
+                    920.0
+                ],
+                [
+                    91.0,
+                    920.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "No opening move is more common among experienced writers: state a seeming truth, then qualify or even reject it. You can find countless examples in newspapers, magazines, business documents, and especially professional journals. This opening context can be a sentence or two, as it is here, but it can also be paragraphs long. Articles in academic or professional journals, for example, often begin with a shared context called a literature review, a survey of what prior researchers have said that the writer will qualify or correct.",
+            "block_bbox": [
+                89,
+                923,
+                785,
+                1104
+            ],
+            "block_id": 10,
+            "block_order": 9,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+                [
+                    89.0,
+                    923.0
+                ],
+                [
+                    785.0,
+                    923.0
+                ],
+                [
+                    785.0,
+                    1104.0
+                ],
+                [
+                    89.0,
+                    1104.0
+                ]
+            ]
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Stating the Problem",
+            "block_bbox": [
+                91,
+                1128,
+                344,
+                1159
+            ],
+            "block_id": 11,
+            "block_order": 10,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+                [
+                    91.0,
+                    1128.0
+                ],
+                [
+                    344.0,
+                    1128.0
+                ],
+                [
+                    344.0,
+                    1159.0
+                ],
+                [
+                    91.0,
+                    1159.0
+                ]
+            ]
+        },
+        {
+            "block_label": "text",
+            "block_content": "Sometimes when writers address specialized readers, they might skip the shared context and jump directly to the second part of an introduction: the statement of a problem. More commonly, though, they open with a shared",
+            "block_bbox": [
+                90,
+                1171,
+                784,
+                1248
+            ],
+            "block_id": 12,
+            "block_order": 11,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+                [
+                    90.0,
+                    1171.0
+                ],
+                [
+                    784.0,
+                    1171.0
+                ],
+                [
+                    784.0,
+                    1248.0
+                ],
+                [
+                    90.0,
+                    1248.0
+                ]
+            ]
+        }
+    ],
+    "layout_det_res": [
+        {
+            "input_path": null,
+            "page_index": null,
+            "boxes": [
+                {
+                    "cls_id": 16,
+                    "label": "number",
+                    "score": 0.7581861019134521,
+                    "coordinate": [
+                        93,
+                        69,
+                        118,
+                        87
+                    ],
+                    "order": 1,
+                    "polygon_points": [
+                        [
+                            93.0,
+                            69.0
+                        ],
+                        [
+                            117.0,
+                            69.0
+                        ],
+                        [
+                            117.0,
+                            86.0
+                        ],
+                        [
+                            93.0,
+                            86.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 12,
+                    "label": "header",
+                    "score": 0.8680840730667114,
+                    "coordinate": [
+                        165,
+                        69,
+                        421,
+                        91
+                    ],
+                    "order": null,
+                    "polygon_points": [
+                        [
+                            165.0,
+                            69.0
+                        ],
+                        [
+                            421.0,
+                            69.0
+                        ],
+                        [
+                            421.0,
+                            91.0
+                        ],
+                        [
+                            165.0,
+                            91.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8866146802902222,
+                    "coordinate": [
+                        92,
+                        117,
+                        471,
+                        147
+                    ],
+                    "order": 2,
+                    "polygon_points": [
+                        [
+                            92.0,
+                            117.0
+                        ],
+                        [
+                            471.0,
+                            117.0
+                        ],
+                        [
+                            471.0,
+                            147.0
+                        ],
+                        [
+                            92.0,
+                            147.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9504923224449158,
+                    "coordinate": [
+                        90,
+                        161,
+                        784,
+                        264
+                    ],
+                    "order": 3,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            161.0
+                        ],
+                        [
+                            784.0,
+                            161.0
+                        ],
+                        [
+                            784.0,
+                            264.0
+                        ],
+                        [
+                            90.0,
+                            264.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9537689685821533,
+                    "coordinate": [
+                        125,
+                        277,
+                        785,
+                        407
+                    ],
+                    "order": 4,
+                    "polygon_points": [
+                        [
+                            125.0,
+                            277.0
+                        ],
+                        [
+                            785.0,
+                            277.0
+                        ],
+                        [
+                            785.0,
+                            407.0
+                        ],
+                        [
+                            125.0,
+                            407.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9585192799568176,
+                    "coordinate": [
+                        126,
+                        413,
+                        784,
+                        543
+                    ],
+                    "order": 5,
+                    "polygon_points": [
+                        [
+                            126.0,
+                            413.0
+                        ],
+                        [
+                            784.0,
+                            413.0
+                        ],
+                        [
+                            784.0,
+                            543.0
+                        ],
+                        [
+                            126.0,
+                            543.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9492285251617432,
+                    "coordinate": [
+                        126,
+                        549,
+                        784,
+                        652
+                    ],
+                    "order": 6,
+                    "polygon_points": [
+                        [
+                            126.0,
+                            549.0
+                        ],
+                        [
+                            784.0,
+                            549.0
+                        ],
+                        [
+                            784.0,
+                            652.0
+                        ],
+                        [
+                            126.0,
+                            652.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9564566612243652,
+                    "coordinate": [
+                        89,
+                        665,
+                        785,
+                        794
+                    ],
+                    "order": 7,
+                    "polygon_points": [
+                        [
+                            89.0,
+                            665.0
+                        ],
+                        [
+                            785.0,
+                            665.0
+                        ],
+                        [
+                            785.0,
+                            794.0
+                        ],
+                        [
+                            89.0,
+                            794.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9069229960441589,
+                    "coordinate": [
+                        126,
+                        807,
+                        754,
+                        855
+                    ],
+                    "order": 8,
+                    "polygon_points": [
+                        [
+                            126.0,
+                            807.0
+                        ],
+                        [
+                            754.0,
+                            807.0
+                        ],
+                        [
+                            754.0,
+                            855.0
+                        ],
+                        [
+                            126.0,
+                            855.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9293375611305237,
+                    "coordinate": [
+                        91,
+                        870,
+                        783,
+                        920
+                    ],
+                    "order": 9,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            870.0
+                        ],
+                        [
+                            783.0,
+                            870.0
+                        ],
+                        [
+                            783.0,
+                            920.0
+                        ],
+                        [
+                            91.0,
+                            920.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9663062691688538,
+                    "coordinate": [
+                        89,
+                        923,
+                        785,
+                        1104
+                    ],
+                    "order": 10,
+                    "polygon_points": [
+                        [
+                            89.0,
+                            923.0
+                        ],
+                        [
+                            785.0,
+                            923.0
+                        ],
+                        [
+                            785.0,
+                            1104.0
+                        ],
+                        [
+                            89.0,
+                            1104.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 17,
+                    "label": "paragraph_title",
+                    "score": 0.8701550364494324,
+                    "coordinate": [
+                        91,
+                        1128,
+                        344,
+                        1159
+                    ],
+                    "order": 11,
+                    "polygon_points": [
+                        [
+                            91.0,
+                            1128.0
+                        ],
+                        [
+                            344.0,
+                            1128.0
+                        ],
+                        [
+                            344.0,
+                            1159.0
+                        ],
+                        [
+                            91.0,
+                            1159.0
+                        ]
+                    ]
+                },
+                {
+                    "cls_id": 22,
+                    "label": "text",
+                    "score": 0.9436011910438538,
+                    "coordinate": [
+                        90,
+                        1171,
+                        784,
+                        1248
+                    ],
+                    "order": 12,
+                    "polygon_points": [
+                        [
+                            90.0,
+                            1171.0
+                        ],
+                        [
+                            784.0,
+                            1171.0
+                        ],
+                        [
+                            784.0,
+                            1248.0
+                        ],
+                        [
+                            90.0,
+                            1248.0
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}
